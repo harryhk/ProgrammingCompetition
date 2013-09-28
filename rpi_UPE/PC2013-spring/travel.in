@@ -1,0 +1,15251 @@
+200
+4
+Phoenix NYC plane 400
+Phoenix Miami plane 300
+Miami NYC bus 200
+NYC Redmond train 800
+Phoenix 3
+plane
+bus
+train
+2
+Alburquerque Washington plane 200
+Omaha Washington taxi 100
+Omaha 5
+taxi
+plane
+plane
+taxi
+taxi
+2
+Atlanta Boston plane 400
+Atlanta Chicago plane 500
+Atlanta 1
+plane
+52
+L Z train 7455
+L M bus 9655
+R X train 7440
+X Z bus 2475
+L U plane 5224
+H Z train 345
+X Z train 3848
+K L plane 7072
+H A bus 5991
+X R bus 1608
+H X train 2992
+U K plane 2577
+X L train 8398
+L M plane 4153
+F H train 3993
+M R taxi 3974
+U F plane 5395
+K H plane 1546
+L X plane 968
+U Z bus 261
+M Z plane 4679
+R H train 2229
+X H taxi 4982
+Z U train 9669
+R F train 4386
+X Z plane 1591
+A M bus 9744
+L H bus 7784
+L U taxi 5065
+F L taxi 1763
+R X taxi 7943
+K M plane 3095
+A K taxi 1372
+M H train 4094
+K U taxi 4525
+R Z taxi 5189
+A L plane 9529
+H M plane 3150
+A F plane 9756
+M Z taxi 9219
+K R train 3827
+K F plane 5906
+K Z plane 5896
+X F taxi 2118
+R L train 6496
+R L taxi 5091
+L M taxi 3576
+A H plane 2467
+X M bus 8697
+F H plane 6288
+F X train 2322
+K H bus 1753
+X 21
+taxi
+bus
+bus
+bus
+plane
+train
+taxi
+plane
+taxi
+train
+taxi
+train
+plane
+train
+train
+plane
+plane
+train
+train
+train
+plane
+35
+F X taxi 8257
+G F taxi 7403
+Y F taxi 4431
+X S train 1457
+N K taxi 1602
+X Y bus 7010
+Y F bus 2192
+N G train 7959
+O N taxi 2458
+Y X taxi 4255
+F K taxi 8617
+Y N train 8340
+O Y train 2859
+O S bus 9691
+S K bus 6725
+G F bus 9730
+G K bus 828
+K O plane 2174
+K O taxi 906
+N O bus 246
+X S bus 6547
+G X taxi 5846
+O G train 2990
+Y N plane 1350
+N X bus 8771
+S N bus 6025
+F S train 7064
+Y O bus 1871
+X S taxi 5362
+N O train 691
+O S plane 2224
+N G plane 1656
+G F plane 3453
+O F bus 8731
+F S taxi 3492
+Y 31
+train
+bus
+bus
+bus
+taxi
+plane
+bus
+bus
+taxi
+bus
+bus
+taxi
+taxi
+bus
+plane
+bus
+taxi
+bus
+plane
+bus
+train
+taxi
+bus
+plane
+taxi
+taxi
+plane
+bus
+taxi
+train
+bus
+58
+X G plane 4755
+E G bus 3457
+G N bus 3148
+G D plane 6314
+T P taxi 8280
+J N train 3266
+B T taxi 5452
+P B train 1696
+N B taxi 6243
+N P plane 696
+N D taxi 7448
+G D train 2658
+G T plane 9190
+J D train 5195
+G E plane 134
+X I train 8652
+B D train 623
+I X bus 9359
+G X taxi 1128
+N G plane 4283
+J N plane 6308
+T I plane 5262
+G J taxi 8252
+B E bus 3635
+T J train 2854
+J N taxi 5007
+X B bus 3581
+E X taxi 3588
+I G bus 1806
+B T train 6415
+D B bus 9404
+D G bus 3458
+N B plane 5441
+P X taxi 6214
+I P train 711
+X B train 5990
+N G train 6572
+B I train 199
+D G taxi 2428
+X E bus 2296
+D E taxi 3221
+N I taxi 2265
+E I bus 9152
+D X train 9672
+E D train 7809
+G P bus 3575
+I T bus 9946
+X N taxi 5778
+E N bus 6360
+T P bus 3858
+X J bus 4382
+J X plane 1319
+I N plane 2681
+T D bus 1270
+I J bus 7063
+D N plane 5157
+P E taxi 9005
+X B taxi 1564
+J 34
+train
+plane
+plane
+plane
+bus
+bus
+taxi
+train
+bus
+taxi
+plane
+plane
+plane
+taxi
+taxi
+bus
+taxi
+plane
+taxi
+taxi
+bus
+train
+bus
+taxi
+plane
+taxi
+bus
+taxi
+plane
+taxi
+train
+train
+plane
+taxi
+40
+I J train 4191
+F J plane 2201
+C N bus 2621
+F P taxi 3801
+C N train 643
+J P taxi 8322
+P Y bus 3492
+F Y bus 5116
+N F bus 5415
+F P bus 7650
+C F bus 9877
+J F bus 5022
+I N train 6599
+J C taxi 9814
+I N bus 8648
+P N train 5011
+C F taxi 478
+F N plane 2848
+I F taxi 999
+R F bus 5653
+I F train 8559
+P I taxi 2514
+F R train 8719
+R I taxi 1752
+I C taxi 3331
+N P taxi 399
+F R taxi 744
+I N plane 2874
+J R train 6947
+Y R bus 1429
+R C taxi 3119
+P N bus 4765
+R P bus 9133
+C Y plane 6667
+R F plane 1434
+P J train 533
+J Y taxi 4347
+Y J bus 1749
+J C plane 8011
+R N train 1064
+F 27
+bus
+bus
+bus
+taxi
+train
+train
+train
+bus
+taxi
+taxi
+taxi
+taxi
+bus
+bus
+taxi
+taxi
+taxi
+bus
+bus
+taxi
+train
+bus
+bus
+bus
+taxi
+train
+train
+33
+E D train 2468
+O D train 3033
+O D plane 9413
+P D bus 4079
+P O bus 6832
+Y D plane 9315
+O Y taxi 1830
+Y T train 8872
+Y S plane 7954
+E L train 4696
+Y P train 1975
+L D taxi 4757
+Y T plane 7309
+L T bus 7197
+T S bus 3633
+L Y taxi 1740
+T P bus 538
+O S bus 6727
+D O taxi 6920
+S L taxi 9239
+L Y bus 5656
+T E taxi 9353
+Y T taxi 9564
+O E taxi 2147
+O L taxi 3971
+T S train 322
+O E train 8442
+T E train 2157
+P T taxi 9083
+Y O bus 8365
+P T train 5854
+O D bus 5660
+Y T bus 8439
+L 40
+taxi
+plane
+plane
+plane
+plane
+taxi
+train
+bus
+taxi
+taxi
+train
+taxi
+bus
+train
+plane
+taxi
+taxi
+taxi
+train
+train
+train
+train
+bus
+taxi
+plane
+train
+train
+bus
+bus
+bus
+train
+bus
+bus
+plane
+plane
+train
+bus
+plane
+plane
+plane
+59
+G S plane 734
+G L plane 2016
+S X taxi 1888
+N X plane 5671
+P H train 4955
+S L bus 4858
+P N bus 7113
+T D bus 3308
+I P train 3212
+G X train 7516
+N T train 590
+I L plane 8609
+H P bus 248
+H T taxi 2817
+S P bus 5676
+T X plane 3335
+I P plane 458
+H D bus 7320
+G L train 2872
+N X bus 2333
+S X train 685
+T L plane 3122
+X N taxi 8495
+N G plane 5619
+T X train 3576
+P I taxi 5269
+N P taxi 1163
+N G taxi 818
+L S plane 8231
+H S plane 3235
+D G bus 3784
+X P plane 6922
+X L plane 2568
+S H bus 6328
+L P train 6397
+H D taxi 7250
+L H taxi 5236
+G L taxi 2939
+I G taxi 5212
+N L bus 1061
+G S train 115
+G H plane 869
+D S taxi 2906
+G D train 5384
+S L taxi 7310
+S I plane 3964
+P X bus 8146
+G D taxi 8129
+T H plane 7854
+T P plane 5956
+N T bus 4481
+H G train 5197
+T I taxi 2307
+H D train 9896
+I H taxi 6362
+S D bus 6495
+D H plane 9310
+L N plane 9494
+D P plane 1307
+H 29
+train
+bus
+train
+plane
+train
+taxi
+taxi
+plane
+train
+train
+taxi
+bus
+taxi
+plane
+taxi
+train
+plane
+train
+taxi
+plane
+taxi
+plane
+taxi
+plane
+taxi
+train
+plane
+taxi
+plane
+44
+V H bus 8819
+M Y taxi 8678
+M G plane 3886
+F M plane 851
+Y O plane 1931
+E O bus 8411
+H G plane 5011
+G E bus 6249
+Y G bus 2585
+H F plane 5170
+H V plane 9353
+X F bus 1054
+E G plane 2121
+M X plane 3161
+E V plane 9797
+E H plane 9366
+M H plane 5133
+Y V bus 1083
+E M bus 6602
+X O taxi 3820
+M O plane 1733
+O M bus 191
+Y O train 8404
+H Y bus 7046
+H E train 8721
+E V taxi 8078
+Y F plane 8349
+G F train 9560
+M O taxi 2468
+G E train 1560
+G Y train 5791
+G F bus 9778
+M X taxi 2396
+F M bus 8215
+G M bus 4260
+O F plane 7297
+X O train 286
+Y G taxi 2410
+Y V taxi 4668
+M V taxi 1597
+E X taxi 1262
+V O plane 6598
+Y X plane 1677
+X F taxi 5240
+G 37
+bus
+plane
+bus
+taxi
+taxi
+bus
+train
+plane
+plane
+taxi
+bus
+bus
+taxi
+taxi
+plane
+taxi
+bus
+taxi
+plane
+taxi
+plane
+taxi
+plane
+plane
+bus
+bus
+plane
+plane
+bus
+plane
+taxi
+train
+taxi
+taxi
+taxi
+taxi
+taxi
+41
+O H taxi 1219
+I O train 1806
+O M plane 6896
+S Q taxi 9395
+M S train 1055
+S Q plane 5736
+H D bus 475
+H O train 8168
+B M taxi 2545
+I B bus 287
+D K taxi 4082
+O B plane 6392
+B S train 303
+H B plane 2071
+M Q train 5474
+K S train 7075
+Q M taxi 3475
+B I train 4196
+B Q bus 6003
+D I taxi 3195
+K Q train 4546
+D M plane 3189
+O Q bus 566
+Q D plane 3506
+O H plane 1936
+K O train 8826
+Q H train 4189
+S B plane 3692
+K B taxi 7796
+I H bus 8603
+B K train 309
+H K train 6678
+Q B plane 5332
+M I taxi 3229
+M Q plane 4412
+H Q plane 1793
+B K plane 2511
+K D plane 9514
+Q K bus 9935
+Q S bus 5506
+B S taxi 806
+Q 31
+bus
+train
+taxi
+plane
+plane
+taxi
+plane
+taxi
+train
+train
+plane
+taxi
+plane
+train
+plane
+taxi
+taxi
+taxi
+train
+train
+plane
+train
+taxi
+plane
+taxi
+plane
+bus
+bus
+train
+plane
+train
+49
+Q X plane 3060
+L H train 7224
+Y Z taxi 7774
+H G train 3392
+H Z taxi 6737
+Y X taxi 4550
+D Q taxi 4706
+Z X taxi 7044
+G X train 4762
+G Q plane 9774
+L H plane 6781
+H Y plane 1013
+Z G plane 4864
+L Z bus 7546
+Z Y train 6924
+D H bus 5036
+X D bus 1241
+D Z bus 789
+G Q taxi 5631
+T Y train 1606
+T D train 4124
+X L bus 3335
+Y Q taxi 5460
+Z Q plane 4431
+Q T train 3213
+Q T taxi 5757
+L Q train 4864
+X Z plane 2632
+Q T plane 7418
+G Z train 8348
+D X taxi 5473
+H Q taxi 6143
+L Y plane 8269
+L G plane 5322
+T L bus 6098
+Z T plane 627
+D Q plane 6348
+D X plane 935
+Z G bus 1079
+T H plane 600
+T H bus 1012
+L X plane 3117
+X D train 2968
+Z L taxi 4676
+X Z train 8284
+Z L train 614
+H X taxi 9101
+G Y bus 4265
+Z T train 4821
+Z 34
+train
+plane
+train
+plane
+plane
+plane
+taxi
+taxi
+taxi
+taxi
+train
+plane
+bus
+train
+train
+plane
+plane
+plane
+train
+taxi
+train
+plane
+plane
+taxi
+bus
+plane
+plane
+taxi
+plane
+plane
+bus
+plane
+taxi
+train
+51
+E N bus 4660
+N K bus 2816
+R G bus 4145
+R B taxi 2878
+U N bus 6523
+T U taxi 6938
+K T plane 5076
+I U train 7327
+I L plane 4475
+G B bus 4304
+U B train 6043
+B E taxi 7978
+N U taxi 9085
+T I taxi 4672
+R I bus 4464
+I E plane 1704
+N K train 9798
+T K train 6277
+T B train 3263
+R E train 8015
+K I bus 2019
+E I bus 8996
+N B plane 3336
+U E train 1200
+B R bus 4107
+B E plane 5879
+K L bus 7885
+T E taxi 7126
+B K bus 2470
+N G plane 3136
+L U taxi 7682
+I T train 8247
+U K bus 3033
+K R train 6937
+I G plane 2892
+E R bus 1887
+R U taxi 4615
+R L plane 8916
+L R bus 6786
+B U taxi 2166
+R T bus 9519
+I U bus 8911
+I G train 6845
+B R train 5864
+G K plane 5538
+I L taxi 8934
+U T bus 4977
+T R plane 5111
+N I plane 320
+U K train 9455
+R N taxi 1054
+R 22
+bus
+bus
+plane
+plane
+train
+train
+train
+plane
+train
+taxi
+plane
+train
+taxi
+train
+plane
+taxi
+train
+bus
+bus
+train
+train
+taxi
+45
+M J train 8443
+J V taxi 3477
+S V taxi 1412
+V U bus 4932
+S X taxi 2530
+S Z taxi 1383
+U S train 9384
+Z X taxi 4463
+J S taxi 768
+U M plane 5435
+S U taxi 411
+U S plane 5546
+A K plane 5711
+K V bus 8571
+V M plane 195
+A K bus 933
+K X plane 9714
+A X plane 2622
+X M bus 1595
+J U train 896
+S V train 4841
+S U bus 1981
+K Z taxi 755
+U M train 7708
+Z U taxi 473
+X K taxi 5426
+S J plane 6972
+V A plane 4287
+V K train 4004
+S V bus 8330
+A K taxi 1636
+X U plane 618
+X Z train 1502
+K X bus 8410
+Z K train 9405
+A V taxi 2510
+Z K bus 9529
+V M taxi 7182
+S A taxi 7878
+K S plane 4544
+U Z train 6772
+M K plane 7482
+S Z bus 4183
+U J plane 7974
+K M taxi 1525
+V 28
+bus
+train
+plane
+taxi
+taxi
+train
+train
+taxi
+taxi
+taxi
+train
+plane
+train
+plane
+train
+train
+bus
+taxi
+bus
+plane
+train
+plane
+train
+taxi
+train
+taxi
+plane
+taxi
+38
+Z S bus 9126
+B R train 101
+R C train 6609
+I B train 6154
+X S plane 3485
+O X taxi 7250
+Z X bus 5582
+I S train 6687
+S I plane 215
+I S taxi 6798
+Z I plane 8971
+S O taxi 539
+O R taxi 9096
+S R plane 5338
+R X bus 3144
+C Z plane 2769
+S Z plane 8212
+O I train 8899
+X C plane 218
+Z C train 6292
+Z B train 7450
+O B train 3333
+R I plane 1471
+Z X train 7171
+Z R taxi 4588
+O Z bus 2753
+S R bus 106
+B Z bus 9853
+O S bus 5921
+Z I bus 156
+B X taxi 1706
+X S train 9108
+R X taxi 1286
+I C bus 9304
+R Z bus 3812
+C S taxi 7615
+C X train 449
+S X taxi 2622
+S 34
+bus
+bus
+plane
+plane
+bus
+train
+bus
+plane
+plane
+taxi
+plane
+train
+plane
+plane
+bus
+plane
+train
+taxi
+bus
+taxi
+taxi
+train
+taxi
+bus
+plane
+taxi
+plane
+bus
+plane
+bus
+taxi
+train
+train
+plane
+46
+V S bus 6374
+O U train 6969
+H O train 2191
+W U bus 2719
+O W plane 1715
+U S plane 5078
+S W plane 8852
+E H taxi 6432
+V U bus 1044
+G V taxi 4737
+S O taxi 292
+H W train 9911
+H V plane 8834
+O G train 1300
+H G bus 4767
+S H bus 5489
+U H bus 4827
+V H bus 4819
+E S plane 7316
+K V taxi 3793
+O U taxi 1967
+U W plane 3070
+V E taxi 8435
+H V train 6466
+E S taxi 8934
+G K taxi 1292
+H O bus 671
+E O plane 8523
+G W train 7887
+S W taxi 9294
+K H train 2890
+H K taxi 797
+V O plane 9825
+H S train 501
+V E train 7552
+H U plane 9271
+E V plane 5263
+U S bus 9089
+K H bus 6342
+V O bus 3007
+U G taxi 7491
+S O bus 1516
+S H taxi 9301
+H S plane 3304
+G K plane 5011
+V K bus 1306
+S 35
+plane
+taxi
+train
+bus
+train
+plane
+bus
+bus
+plane
+plane
+bus
+taxi
+taxi
+taxi
+train
+plane
+bus
+bus
+bus
+bus
+taxi
+plane
+plane
+bus
+bus
+bus
+train
+bus
+taxi
+plane
+taxi
+bus
+train
+taxi
+bus
+33
+O L train 8590
+F L bus 9264
+B O train 1992
+A O taxi 864
+N B taxi 124
+O G taxi 4966
+G E taxi 3237
+A E plane 1472
+B A bus 1889
+O F plane 5997
+L G bus 1962
+L G plane 4753
+B E plane 4427
+E B taxi 5938
+L E taxi 1703
+O N train 5975
+F A plane 9511
+E G train 4043
+F L plane 4667
+E O train 8828
+L B train 6690
+F B plane 5601
+G L train 8923
+E O bus 6175
+E G plane 3394
+A B taxi 7873
+F A taxi 5647
+N L bus 2732
+B F bus 4302
+N G train 3670
+N B train 9506
+F A bus 7051
+O L plane 3067
+G 31
+train
+train
+taxi
+train
+plane
+bus
+plane
+train
+plane
+train
+train
+train
+taxi
+taxi
+taxi
+train
+train
+taxi
+taxi
+plane
+taxi
+train
+bus
+taxi
+taxi
+taxi
+plane
+plane
+bus
+bus
+bus
+56
+I B plane 3798
+B Z bus 7396
+N I taxi 1595
+E Z plane 1303
+Z O plane 5796
+X B bus 8849
+B N train 6430
+T X taxi 743
+X I plane 7549
+I N train 1513
+T Z plane 3518
+B N bus 7369
+T N plane 1873
+B T plane 3329
+E X bus 641
+L I plane 958
+O I train 4807
+D L taxi 4631
+N D plane 3973
+Z I plane 6551
+I N bus 2522
+N B taxi 8835
+B E taxi 7819
+D N train 876
+X Z plane 4251
+I B bus 2198
+E D taxi 3933
+X O taxi 8007
+T N bus 8837
+T X bus 5726
+Z E bus 188
+I T plane 3248
+Z D bus 4898
+I L taxi 2230
+B O bus 2723
+D L train 4616
+X O plane 3378
+T B train 3773
+L I train 3965
+D X plane 4524
+O E plane 7975
+E L plane 1302
+I X train 4435
+N O bus 8114
+D O taxi 5973
+O N taxi 3444
+B D plane 4583
+Z L bus 4542
+O E bus 6567
+L T plane 2324
+T N taxi 852
+E L bus 3688
+L X plane 7951
+O T bus 8390
+X E taxi 1716
+O L taxi 5062
+N 20
+plane
+bus
+bus
+plane
+train
+taxi
+taxi
+plane
+plane
+bus
+plane
+taxi
+plane
+plane
+plane
+taxi
+plane
+plane
+bus
+plane
+58
+I B taxi 5583
+B L bus 8614
+A G plane 3459
+V J plane 8290
+G I plane 6892
+J A plane 3228
+T B taxi 6790
+L V train 5639
+T L plane 4016
+A V bus 7225
+L O bus 4688
+J O bus 5643
+T A train 4964
+B V bus 1721
+G T plane 1557
+L A plane 698
+J O train 1448
+I L plane 6910
+I T plane 9168
+B D plane 6885
+I O bus 1366
+A O train 3232
+O G bus 6813
+T J bus 6605
+A I taxi 5744
+I O plane 9151
+D J bus 7973
+V J train 3927
+G A taxi 2055
+T G train 4813
+I L taxi 5116
+L A taxi 7531
+T I taxi 5976
+O T bus 2896
+T D bus 3216
+V T taxi 5178
+I B bus 8966
+V I bus 8578
+A O taxi 7354
+I D plane 1105
+T A bus 339
+J O plane 9678
+G D bus 9671
+B D bus 2173
+G B train 4636
+A T plane 4852
+I V plane 2136
+O L taxi 6260
+L A bus 3157
+T D taxi 5368
+O V bus 2269
+O G plane 183
+A J train 831
+J V bus 4467
+A I plane 3315
+J B plane 989
+T D plane 8229
+T V train 8167
+T 37
+bus
+taxi
+train
+train
+plane
+taxi
+train
+bus
+plane
+train
+plane
+plane
+bus
+taxi
+taxi
+plane
+plane
+plane
+train
+taxi
+bus
+train
+bus
+taxi
+plane
+plane
+taxi
+bus
+train
+bus
+taxi
+bus
+bus
+train
+taxi
+plane
+train
+51
+N J bus 2705
+J N plane 6779
+H X train 6930
+N H bus 2804
+S M train 7992
+J X bus 2535
+P S train 5642
+P J bus 8889
+C S taxi 4529
+N X bus 5498
+N Y taxi 1401
+F S train 3711
+F M plane 9916
+P C train 856
+S H taxi 4749
+J S train 2815
+S X train 4690
+Y J train 5861
+N C bus 3993
+M Y taxi 1898
+P Y bus 8382
+H P plane 734
+X N train 5782
+Y N plane 9580
+S N taxi 7880
+Y C train 6171
+S P bus 6869
+N S train 2887
+S X bus 745
+M F bus 7630
+X M plane 4063
+P N plane 3741
+J M train 6656
+S N plane 4472
+S M bus 9554
+P J taxi 9018
+P F taxi 4609
+C J bus 2909
+P X bus 9984
+M H plane 5906
+M C taxi 7944
+M F train 1280
+X P plane 7987
+Y P plane 8794
+F N plane 4945
+J C plane 4852
+X Y bus 3609
+S J plane 7358
+X H plane 6377
+C X bus 179
+F N train 8459
+X 24
+bus
+train
+train
+plane
+taxi
+taxi
+plane
+train
+plane
+plane
+bus
+train
+bus
+taxi
+train
+bus
+train
+bus
+bus
+bus
+plane
+train
+bus
+taxi
+52
+N A taxi 2408
+P V plane 9230
+O R train 786
+J V taxi 3611
+J P bus 1111
+A J train 8672
+A P train 5165
+O J bus 5479
+J T taxi 7044
+A P bus 8051
+J B taxi 6702
+O R bus 9154
+J T bus 2393
+T V plane 6706
+A R bus 831
+A O bus 4076
+N O train 8439
+T A train 3604
+N B train 8587
+A T plane 8073
+H J train 4258
+T J plane 6140
+T N plane 5347
+H J plane 1945
+J A bus 6281
+H A bus 8538
+J P train 5143
+N P plane 8805
+B A plane 3460
+N O bus 4644
+P N taxi 696
+V T taxi 8204
+R A plane 3266
+P O bus 5855
+A V bus 6957
+T O taxi 7968
+R B bus 2204
+R A taxi 7610
+T P bus 9957
+H J bus 5215
+J N bus 8071
+H P train 8849
+H P taxi 5072
+N T train 1871
+B R train 3589
+T J train 5693
+A P plane 9142
+A P taxi 8377
+A H train 7114
+B O train 7240
+J R plane 128
+T P taxi 7061
+P 40
+train
+bus
+bus
+taxi
+train
+bus
+bus
+train
+bus
+taxi
+taxi
+plane
+bus
+train
+bus
+taxi
+bus
+bus
+plane
+bus
+train
+plane
+bus
+bus
+bus
+bus
+train
+plane
+plane
+bus
+bus
+taxi
+plane
+taxi
+taxi
+taxi
+bus
+taxi
+plane
+taxi
+41
+A L train 510
+L D plane 423
+D B plane 9673
+Q Y train 7948
+L I train 1244
+Q V train 9384
+A B train 7273
+A I plane 2262
+I V bus 4174
+I Q bus 5165
+I D taxi 3523
+Y L taxi 3840
+D V taxi 1396
+D A bus 7959
+T D taxi 2088
+Q V plane 9876
+D B bus 837
+I V train 5038
+B I taxi 4743
+V L taxi 6421
+L V train 260
+A V bus 757
+T I bus 679
+Y B plane 9882
+B I plane 9090
+A Q bus 670
+T Q bus 5084
+Y I bus 8995
+L T bus 9969
+V B train 838
+A T train 8925
+Q L taxi 7287
+I A taxi 7428
+Y B taxi 4548
+Y Q taxi 4436
+I T train 1414
+Y A bus 1845
+B T train 236
+T A plane 7049
+Y A train 3884
+B A bus 9522
+L 28
+taxi
+bus
+plane
+taxi
+train
+bus
+taxi
+bus
+taxi
+train
+train
+plane
+train
+bus
+taxi
+train
+taxi
+train
+train
+taxi
+taxi
+train
+train
+bus
+plane
+plane
+taxi
+bus
+40
+L C bus 218
+P K train 9068
+P C bus 5594
+G S train 2423
+L S taxi 5902
+H C plane 6024
+G L train 7699
+S P bus 291
+L D plane 1985
+D S train 8139
+P S plane 3317
+D C plane 2500
+S C train 9323
+D S plane 6540
+C S plane 813
+C L train 9504
+C P taxi 3245
+D P train 9132
+G L plane 4879
+K G plane 5571
+K D train 1363
+D H bus 3323
+K P bus 5847
+C H taxi 3327
+H L plane 759
+S H bus 3132
+H G plane 8092
+L H train 7344
+C K train 2917
+G D bus 8089
+P C train 5526
+C D train 3745
+P L taxi 3090
+K H bus 8519
+G L bus 4054
+C L taxi 3257
+G C plane 3825
+L K taxi 4942
+C S taxi 360
+L D train 8453
+D 30
+train
+train
+plane
+train
+bus
+taxi
+train
+plane
+plane
+bus
+plane
+bus
+plane
+plane
+plane
+plane
+train
+taxi
+bus
+plane
+bus
+plane
+plane
+plane
+taxi
+train
+bus
+bus
+train
+bus
+34
+H G plane 1699
+U Z taxi 5167
+B G train 5699
+U H train 7370
+Z U bus 2590
+B T taxi 5288
+I Z bus 6390
+H B bus 8072
+T H plane 4112
+G I taxi 8900
+I H taxi 6007
+Z H train 9601
+G H taxi 6600
+T G train 2557
+B T train 6653
+P T train 7481
+Z H plane 6146
+H I plane 4955
+T H bus 504
+B I taxi 3741
+T I bus 412
+I Z train 9191
+P U train 4503
+B U taxi 8712
+G P taxi 2277
+Z G plane 2259
+G P train 5204
+T U plane 4005
+U B bus 1378
+T U taxi 8228
+P U bus 1453
+B I train 8718
+G Z taxi 2763
+U G taxi 7988
+I 29
+bus
+plane
+taxi
+train
+train
+taxi
+plane
+plane
+bus
+bus
+train
+train
+taxi
+train
+taxi
+bus
+taxi
+taxi
+taxi
+taxi
+taxi
+taxi
+taxi
+train
+train
+train
+bus
+train
+train
+41
+H G train 7445
+D H bus 7624
+V H plane 6217
+Y F train 4378
+W V bus 6938
+H W bus 2700
+J H taxi 6804
+J D plane 9693
+H Y taxi 5480
+J F bus 8170
+V F train 9732
+D G taxi 6646
+W Y taxi 5532
+F J train 7563
+J H train 6129
+Y G plane 660
+E G bus 2998
+F W plane 6070
+V E bus 7739
+J D bus 3003
+E G plane 9455
+Y G train 9713
+W D bus 8123
+E Y taxi 1386
+Y H bus 1225
+Y V plane 329
+W G taxi 7679
+W V taxi 7337
+H G taxi 9656
+G E taxi 6169
+J H bus 7825
+E V train 7871
+D J train 8092
+F W bus 196
+J G bus 975
+E V taxi 6934
+G V train 1976
+J G plane 1485
+E F taxi 7964
+V W plane 2043
+E G train 1527
+F 36
+train
+train
+train
+bus
+plane
+taxi
+train
+bus
+bus
+train
+bus
+taxi
+taxi
+plane
+train
+bus
+train
+bus
+bus
+train
+bus
+plane
+taxi
+bus
+train
+bus
+plane
+train
+plane
+plane
+bus
+plane
+bus
+taxi
+train
+train
+39
+W S plane 9583
+S N bus 6762
+K W plane 1892
+O E bus 5478
+W N bus 3340
+G O plane 1543
+W O bus 7365
+W E bus 9933
+N S train 7717
+G M train 7754
+K S plane 7498
+N W train 6517
+M E bus 7838
+S O taxi 183
+M E taxi 2756
+K G train 5617
+S G train 7832
+W M bus 7309
+M E plane 591
+W G plane 2751
+O M bus 5270
+N K train 1787
+S G bus 3568
+G E taxi 7016
+K G taxi 9976
+O N taxi 2511
+S E bus 2439
+W K bus 8326
+N G taxi 7706
+M O plane 7690
+N K bus 5779
+O N train 7708
+G S plane 300
+O G bus 2893
+S W train 1323
+S M taxi 6603
+W S bus 4860
+G E train 6381
+N K taxi 3603
+K 35
+train
+train
+train
+train
+bus
+bus
+bus
+bus
+train
+plane
+train
+bus
+taxi
+bus
+bus
+taxi
+plane
+train
+train
+taxi
+train
+bus
+bus
+bus
+train
+train
+bus
+taxi
+bus
+bus
+bus
+bus
+train
+bus
+taxi
+57
+N V plane 1679
+N P taxi 5777
+C P bus 5823
+V K train 7821
+Z N train 6708
+E P taxi 6799
+V C train 3424
+N G taxi 2374
+P G taxi 3253
+E J bus 1979
+Z P train 5208
+A N train 7750
+Z V plane 5698
+N J bus 7335
+G Z bus 8832
+E N train 9330
+G A plane 3873
+J V plane 5365
+N C train 2688
+G A bus 7757
+K E taxi 7588
+E C train 5715
+J E train 8246
+K Z bus 1070
+G Z taxi 9811
+V K taxi 6697
+A G train 6830
+G C taxi 3582
+Z C bus 2951
+K A plane 546
+K G train 2094
+G K taxi 4968
+G V taxi 9310
+C Z train 2828
+K E bus 3583
+E K train 5246
+Z N taxi 9295
+N G train 1181
+K N bus 1496
+P J taxi 948
+K J bus 4735
+P G bus 2242
+E N plane 4340
+P G train 3293
+E A bus 7826
+C K taxi 3248
+J E plane 2172
+V A plane 1048
+A Z bus 3957
+N K taxi 8087
+J G bus 2390
+K P bus 7137
+J P plane 4927
+J A train 4102
+A K train 5637
+N V train 2317
+G V plane 4663
+V 20
+train
+train
+plane
+train
+bus
+taxi
+taxi
+taxi
+plane
+taxi
+bus
+plane
+train
+train
+plane
+bus
+plane
+plane
+taxi
+train
+48
+I U bus 2308
+P I plane 6332
+N I train 8829
+P E taxi 9138
+U I train 9408
+V I taxi 6868
+P T plane 8965
+V Q bus 1600
+V T plane 4240
+N I plane 8950
+U T train 1094
+K Q plane 9287
+V K plane 5462
+U Q bus 5500
+N P bus 7531
+Q I train 1463
+N U train 2311
+N T taxi 1575
+Q P plane 3656
+V U train 1515
+T K plane 4818
+I P taxi 1258
+T E taxi 8848
+N I taxi 1837
+V K taxi 6835
+P N taxi 4910
+V K bus 6407
+E K plane 5011
+E T bus 5637
+T U bus 8389
+I T plane 6575
+Q P bus 3111
+Q T taxi 8751
+Q V taxi 3207
+U P train 494
+N Q plane 1771
+I Q taxi 5938
+E T train 7766
+I E bus 8204
+I Q bus 1408
+Q K train 2832
+U N taxi 6251
+E N bus 7000
+N E plane 7688
+E Q bus 3914
+V T taxi 1051
+V P plane 5154
+K T taxi 1947
+N 30
+plane
+bus
+plane
+taxi
+bus
+plane
+train
+bus
+taxi
+taxi
+taxi
+plane
+taxi
+taxi
+bus
+train
+taxi
+plane
+train
+bus
+bus
+plane
+plane
+plane
+bus
+bus
+train
+bus
+bus
+taxi
+49
+E Y taxi 1277
+E I train 4475
+L N taxi 4045
+M L taxi 608
+B N train 6012
+O L plane 5108
+Y E train 689
+L I bus 2276
+E O train 9555
+B Y plane 7244
+O B taxi 6819
+B N bus 1191
+M I plane 3577
+E M train 3389
+A O bus 7849
+N O train 3285
+N L bus 7994
+E I taxi 6555
+O A plane 906
+E A bus 8045
+Y B taxi 8436
+A M train 728
+I L train 3861
+E M plane 1531
+L Y plane 9682
+A M plane 9003
+O N bus 4976
+B L train 5091
+N E train 9172
+A Y plane 4679
+A I train 5890
+O A train 2347
+A E taxi 3238
+N Y plane 5246
+O I plane 5445
+E O bus 9453
+N B plane 7680
+E M bus 946
+I N train 9655
+A I bus 652
+O L bus 1945
+A L taxi 1398
+E B plane 4235
+A B train 7545
+N Y taxi 1777
+N A taxi 9781
+M O train 7690
+A M bus 9699
+M A taxi 4373
+O 20
+plane
+train
+taxi
+taxi
+plane
+taxi
+bus
+train
+train
+plane
+train
+bus
+taxi
+taxi
+taxi
+taxi
+plane
+plane
+taxi
+plane
+48
+F R plane 591
+E T train 2600
+E G plane 1603
+W H taxi 508
+N R taxi 281
+T V taxi 6346
+E W taxi 5691
+N W plane 883
+F T bus 940
+E G taxi 7460
+R F train 1180
+G T plane 7116
+N E bus 5057
+W R taxi 2110
+N F taxi 4200
+N T bus 3521
+N F plane 4378
+F T train 7712
+N G taxi 1576
+G W bus 1182
+V T train 330
+V T plane 6687
+F N bus 6993
+W R plane 1564
+E V plane 868
+V E train 4060
+W F train 2590
+G H taxi 689
+V G bus 9493
+E T bus 3658
+G F bus 5460
+E H taxi 1237
+R T taxi 9841
+E W plane 7578
+R E taxi 2531
+W V plane 3531
+V R taxi 9104
+V N bus 4684
+G F train 4897
+G R bus 6428
+G V taxi 2417
+R F bus 2324
+H R bus 3122
+H W plane 6162
+H N train 7072
+T V bus 6117
+H G plane 1868
+T N taxi 768
+E 40
+bus
+bus
+train
+plane
+taxi
+plane
+plane
+plane
+taxi
+bus
+bus
+train
+plane
+train
+plane
+bus
+train
+taxi
+taxi
+bus
+bus
+plane
+taxi
+taxi
+train
+taxi
+taxi
+bus
+bus
+train
+taxi
+bus
+plane
+bus
+plane
+bus
+bus
+train
+train
+taxi
+60
+O L train 6181
+C L bus 445
+X O taxi 9481
+C H bus 161
+O A train 3611
+F G bus 4798
+W H train 5534
+I X bus 9237
+A H plane 5205
+G C train 6978
+C H train 9871
+H G bus 2922
+O I taxi 9681
+X G plane 5969
+W A bus 4883
+W O train 6200
+L F plane 9703
+X W plane 3502
+G L train 4168
+O C train 7053
+I F taxi 5726
+X F taxi 1914
+A G bus 6500
+C A train 3603
+H O bus 168
+O A bus 1586
+H X plane 4560
+X L taxi 5616
+I O plane 4281
+O X plane 2790
+A F taxi 718
+L A bus 6703
+O W bus 2515
+C F bus 7210
+C A taxi 6112
+A C plane 678
+C L taxi 4641
+C F taxi 3121
+A W plane 7545
+L W taxi 1215
+X W train 4599
+L G bus 3665
+L I taxi 8595
+W C bus 6256
+L F taxi 3779
+O G plane 7429
+C G bus 3937
+H F bus 2327
+O C plane 5830
+O H train 2712
+C F train 4573
+H C taxi 6803
+C X plane 775
+O A taxi 1004
+G I plane 2944
+F I bus 4221
+A I train 3007
+G H taxi 6345
+O X train 7895
+X F train 8583
+G 20
+bus
+train
+plane
+bus
+bus
+taxi
+bus
+train
+taxi
+plane
+bus
+taxi
+train
+train
+plane
+plane
+train
+plane
+bus
+taxi
+35
+L O train 3843
+F O train 6573
+R G plane 5396
+R L train 7521
+F D bus 7640
+O I train 2175
+W I plane 4182
+G W plane 4194
+G L train 886
+L D plane 2896
+D G train 3980
+W I train 1437
+I F bus 3555
+L F train 7237
+G W train 900
+I R train 7932
+D W plane 9515
+O G plane 1671
+R D train 3826
+R F plane 5029
+I O bus 1299
+O I plane 6282
+L I taxi 7801
+O W train 5753
+F L plane 8770
+R W train 1809
+I D plane 8138
+D I bus 705
+W F plane 7614
+F D train 5416
+L F bus 8492
+R D bus 7592
+W F taxi 2214
+G L taxi 6951
+L G plane 716
+I 31
+plane
+plane
+train
+plane
+train
+plane
+bus
+bus
+taxi
+train
+plane
+plane
+train
+plane
+plane
+plane
+train
+bus
+plane
+bus
+plane
+bus
+bus
+train
+plane
+bus
+bus
+taxi
+taxi
+plane
+plane
+57
+V F plane 4613
+F E plane 5049
+O M taxi 3230
+V F taxi 2831
+A F plane 7555
+F S taxi 4397
+A N taxi 7152
+S Q bus 5367
+Q O bus 1910
+E O bus 6705
+E F train 1390
+N V plane 7790
+M Q plane 9288
+O A plane 9019
+Q G train 4535
+F V train 276
+M V bus 8483
+G F bus 2541
+F S bus 4091
+M E taxi 2954
+V A train 4471
+E A plane 5966
+S G plane 8536
+E N taxi 8782
+S M taxi 3325
+Q V plane 6997
+G O train 5604
+M E bus 248
+O F bus 8627
+O Q taxi 2299
+Q M bus 9396
+N V bus 5775
+A M bus 5723
+F E bus 2874
+M F plane 4242
+N O taxi 4487
+S O plane 7458
+N M train 9157
+V O taxi 4769
+A Q train 6655
+V Q train 4438
+V O bus 4551
+S Q plane 6104
+A F taxi 5045
+F Q taxi 8422
+Q E plane 3039
+N E train 4728
+O E plane 4202
+F A train 112
+M E train 787
+S V train 7879
+A Q bus 1133
+N F bus 8292
+G E plane 3250
+M S train 5837
+G N bus 2528
+A O bus 2805
+N 29
+plane
+bus
+taxi
+train
+bus
+taxi
+taxi
+bus
+bus
+taxi
+plane
+plane
+train
+taxi
+taxi
+bus
+taxi
+bus
+bus
+train
+plane
+taxi
+taxi
+plane
+taxi
+plane
+plane
+train
+bus
+48
+T H plane 8952
+H U taxi 2349
+A N bus 7690
+A Q bus 2530
+I A taxi 1935
+N T bus 5102
+P I plane 5862
+Q V train 6535
+V Q taxi 5190
+Q P bus 934
+N Q plane 674
+T N taxi 3210
+P U plane 4149
+Q T taxi 1936
+P N plane 6727
+N P train 6531
+Q V plane 1804
+I N bus 4247
+Q V bus 1715
+U T taxi 7124
+V H plane 1553
+A H taxi 7543
+V N taxi 6477
+V A plane 639
+H A train 9369
+U H bus 6975
+A N taxi 3356
+A I train 7004
+U I taxi 9467
+P Q taxi 3594
+Q A train 725
+N H taxi 9435
+U T train 4787
+N I taxi 1710
+Q H plane 4184
+I N plane 6670
+I Q plane 2211
+P T train 543
+T I taxi 8209
+P A bus 7309
+U N train 9408
+A U plane 9191
+Q U bus 6836
+I N train 4422
+P A plane 6655
+P V bus 1866
+P I bus 8552
+H T train 8711
+I 26
+taxi
+train
+plane
+taxi
+bus
+plane
+taxi
+plane
+bus
+taxi
+bus
+bus
+bus
+taxi
+taxi
+train
+train
+train
+taxi
+taxi
+taxi
+plane
+plane
+bus
+bus
+taxi
+43
+J N taxi 1003
+Q M taxi 9585
+Q A train 5728
+A Q plane 2638
+X A plane 3524
+X M bus 3819
+Y M bus 1137
+N S plane 3911
+N J bus 5530
+M X train 5084
+S M plane 5212
+M Y plane 1646
+X E train 8394
+Y M train 1875
+J X plane 4130
+X E taxi 7761
+S J train 634
+J Y bus 353
+A E bus 1630
+X Y bus 9454
+M J plane 317
+X A bus 610
+E M bus 1063
+J E bus 1056
+E N taxi 8163
+M E train 3563
+E Q bus 7195
+S X train 8109
+M Y taxi 7050
+M J taxi 6188
+Q J bus 8005
+X A train 793
+X N plane 2968
+S J taxi 4016
+Q X train 5239
+E Q train 2441
+S E train 6851
+Y N taxi 7710
+J E plane 7235
+Q S bus 2732
+N S train 5647
+X Y taxi 382
+X Y train 9865
+Q 37
+taxi
+bus
+taxi
+taxi
+plane
+train
+bus
+taxi
+bus
+bus
+taxi
+train
+train
+bus
+bus
+train
+train
+plane
+train
+bus
+train
+bus
+train
+taxi
+train
+taxi
+bus
+bus
+taxi
+train
+taxi
+taxi
+taxi
+train
+train
+plane
+bus
+57
+A H bus 2457
+K U train 356
+M Z train 5569
+Y M plane 312
+Z H taxi 5064
+K V plane 4006
+H W taxi 6493
+Y V bus 4041
+Y Z train 8892
+Z M taxi 9853
+M W bus 6289
+W N bus 1462
+Y N bus 5137
+Y A taxi 9670
+Z H train 9707
+Y A bus 1202
+V Z taxi 6730
+N M bus 6556
+K H train 9451
+A Y plane 3765
+A W taxi 8435
+Y N plane 3300
+H W plane 7327
+Z Y bus 3571
+W U plane 3833
+N K bus 1022
+H N bus 3449
+U H bus 9597
+A H plane 9008
+K A bus 9166
+M N taxi 8654
+A Y train 6950
+Z K plane 4620
+Z M plane 1699
+Z V train 7446
+M A taxi 2750
+U A bus 8074
+M V bus 4990
+A U plane 6788
+W K train 6743
+H W bus 3510
+H K bus 9641
+A M bus 1758
+Y W train 838
+Y K bus 2701
+V K bus 9054
+W M taxi 9378
+N H train 9362
+W Y plane 8626
+Y U plane 7581
+Y N train 367
+Y M train 8512
+U M plane 995
+N V taxi 6891
+H V taxi 5452
+V W bus 2200
+W Z bus 6409
+A 31
+bus
+taxi
+bus
+plane
+plane
+plane
+bus
+train
+train
+taxi
+train
+train
+train
+bus
+bus
+train
+taxi
+plane
+train
+taxi
+bus
+train
+train
+bus
+taxi
+taxi
+bus
+bus
+bus
+taxi
+bus
+33
+M B plane 7682
+W B plane 4144
+W K taxi 4176
+K B plane 8502
+K I plane 8722
+J W taxi 6653
+B W bus 6271
+W B taxi 2323
+I Y plane 9912
+I M plane 3565
+Z Y plane 9005
+J K plane 3139
+B M train 5264
+Z B plane 7823
+Z J train 9250
+M K plane 455
+Y Z bus 3366
+W J bus 3247
+K Z plane 4210
+J K taxi 1347
+K Y train 8421
+M W taxi 6614
+Y B plane 802
+I Y bus 5075
+I W bus 614
+J Z taxi 8860
+K M train 1880
+M I train 4237
+I J taxi 7092
+M J train 8294
+I B train 1849
+W Y bus 368
+W K plane 141
+M 37
+train
+plane
+plane
+taxi
+train
+train
+plane
+train
+plane
+plane
+bus
+plane
+plane
+plane
+train
+plane
+plane
+bus
+plane
+plane
+plane
+plane
+bus
+taxi
+plane
+bus
+bus
+train
+taxi
+plane
+taxi
+train
+plane
+plane
+taxi
+plane
+taxi
+55
+Z F plane 8570
+M F taxi 2822
+F O train 4509
+V W train 4862
+E W bus 6562
+X F plane 8729
+M I plane 8009
+W F plane 5260
+E I taxi 1551
+I F bus 5363
+Y E train 2192
+Y O bus 8192
+Z O train 2346
+M Y taxi 1576
+F W bus 6032
+F X train 5510
+Y W bus 7897
+X E train 8963
+I X train 1999
+V I plane 1267
+Z I plane 2077
+W I train 5758
+F Y taxi 894
+Y V train 2799
+M W train 124
+V M bus 2577
+M I taxi 9469
+M E bus 6388
+M F bus 1255
+V Z taxi 6114
+I Y train 1437
+M E taxi 5531
+I F taxi 5226
+V X train 5074
+O W taxi 9747
+I Y taxi 9465
+Y F bus 9930
+M Z plane 9408
+X I bus 2924
+O W plane 5820
+F E bus 6730
+V M plane 1949
+V O train 4153
+W E plane 2007
+E Y bus 1151
+I V bus 5863
+X M bus 9975
+M O train 771
+V Y taxi 7538
+Z Y train 8987
+X F bus 5557
+O Y taxi 7200
+Z I taxi 9703
+F I train 2869
+E F train 7409
+O 37
+taxi
+bus
+taxi
+bus
+bus
+train
+train
+train
+bus
+bus
+taxi
+train
+bus
+bus
+plane
+train
+bus
+taxi
+taxi
+train
+train
+train
+train
+bus
+bus
+train
+taxi
+plane
+plane
+taxi
+bus
+bus
+train
+bus
+train
+plane
+taxi
+39
+U D taxi 9273
+D I train 8407
+A F bus 2797
+U G bus 5087
+Z F taxi 5879
+U D bus 1949
+A Z taxi 8549
+H I train 4953
+I U bus 1423
+A U taxi 5651
+D F taxi 9122
+F A taxi 8921
+A H bus 9234
+G F plane 3422
+F A plane 9493
+Z G taxi 5619
+A Z bus 2230
+A G plane 9056
+I D bus 2477
+H G train 3887
+G D taxi 2866
+H U bus 3563
+U I train 4286
+G Z bus 4455
+U F train 5134
+F H taxi 1709
+D Z plane 4396
+U F taxi 1013
+H I plane 2025
+I G taxi 6568
+Z F plane 9174
+I D taxi 1048
+U G plane 9721
+H Z train 1776
+D H plane 7686
+A I plane 8340
+H Z bus 3028
+A I bus 3145
+Z A train 9508
+U 27
+train
+taxi
+plane
+taxi
+taxi
+taxi
+train
+train
+bus
+train
+taxi
+bus
+plane
+bus
+plane
+plane
+taxi
+bus
+bus
+plane
+plane
+taxi
+taxi
+taxi
+bus
+taxi
+taxi
+45
+A O taxi 1901
+Z G train 1647
+O F plane 8871
+F O taxi 7155
+Q O bus 3735
+O G train 3943
+X R train 1671
+R G taxi 9620
+O R plane 4938
+G A taxi 6411
+F Q plane 9732
+G X train 412
+R O train 4277
+Q X taxi 359
+G H taxi 2822
+Z F plane 3975
+X Z plane 3678
+O X plane 498
+O A train 5803
+H F taxi 6818
+A O plane 2637
+Q O train 1083
+A Q bus 4692
+Z A train 2303
+A G train 1997
+H Q train 4764
+F X train 1139
+X Q bus 5838
+X Q plane 2692
+F X plane 4306
+G H bus 2924
+A R train 3402
+F A plane 3782
+G A plane 7195
+G Q train 2627
+Z O plane 7132
+Z X taxi 1733
+H O bus 7493
+Q Z taxi 3773
+X H plane 5225
+Z H bus 6731
+Q R plane 8767
+F O bus 2168
+H O train 5047
+Q H taxi 3725
+G 35
+train
+train
+taxi
+taxi
+train
+train
+train
+train
+taxi
+plane
+train
+train
+taxi
+bus
+plane
+plane
+train
+bus
+plane
+train
+taxi
+bus
+train
+plane
+bus
+bus
+bus
+plane
+bus
+train
+plane
+plane
+plane
+train
+train
+39
+G V train 9031
+W X taxi 860
+G P train 2804
+V A train 5439
+A L train 4778
+V X taxi 3990
+V W taxi 2785
+L P taxi 4658
+L W plane 8018
+X M train 8845
+X G plane 6817
+W M train 6949
+A G train 2413
+G W train 5329
+X G train 1653
+A P train 5868
+A V bus 4924
+L V train 3771
+A V taxi 7886
+V L taxi 4264
+G X taxi 7268
+X V train 5616
+M V taxi 4821
+W A bus 396
+A P taxi 227
+W L bus 6458
+L A plane 7900
+G P plane 4252
+X L plane 2915
+V G taxi 6886
+G A taxi 2990
+A X bus 9807
+V P plane 3823
+X A plane 3665
+X L taxi 8895
+M X plane 1991
+W X plane 5561
+W A plane 4685
+L G plane 7759
+X 21
+plane
+plane
+taxi
+taxi
+taxi
+plane
+taxi
+plane
+plane
+plane
+train
+taxi
+train
+train
+plane
+plane
+plane
+plane
+train
+train
+train
+46
+A B bus 168
+D H train 9134
+J B bus 8403
+B M train 719
+Y A taxi 6767
+N D plane 8571
+A D taxi 2641
+E M bus 6558
+D H plane 8614
+B J train 3592
+M Y train 7642
+D Y train 478
+J N train 521
+J D taxi 4376
+E Y bus 1453
+E M train 3307
+A Y bus 805
+E Y taxi 7812
+H A train 2473
+N H bus 464
+E H taxi 2778
+Y H plane 7068
+Y J taxi 2927
+H J train 2369
+J Y bus 3775
+H Y train 4907
+A E train 7902
+M N taxi 491
+M B bus 4044
+A M taxi 4292
+B N bus 3791
+N E plane 435
+J D plane 4430
+Y D bus 3065
+B E taxi 5595
+D M bus 1993
+M N train 8022
+N A plane 3907
+H E bus 1169
+J A bus 2589
+E N bus 6210
+M E plane 4904
+A M train 1917
+N B plane 5872
+Y N plane 4366
+E M taxi 408
+E 32
+train
+taxi
+plane
+train
+taxi
+plane
+bus
+train
+train
+taxi
+plane
+plane
+bus
+taxi
+bus
+bus
+plane
+plane
+train
+bus
+bus
+train
+bus
+plane
+plane
+taxi
+bus
+bus
+bus
+plane
+plane
+taxi
+34
+L Z train 8493
+Z M taxi 187
+Z J bus 759
+U J train 8411
+N M bus 6975
+J N bus 6606
+U M bus 1897
+R Z plane 8002
+U Z plane 5085
+M S bus 6096
+S U bus 1900
+Z N bus 1009
+R U bus 7937
+N S taxi 9133
+J S plane 891
+M S plane 7158
+Z S taxi 6323
+R J taxi 1819
+N Z taxi 7376
+R Z taxi 6589
+Z J taxi 4309
+S Z plane 9221
+J S taxi 1502
+U S plane 7278
+M N taxi 9109
+M L train 6506
+N U taxi 685
+N R plane 8024
+N J train 7816
+Z U taxi 4163
+Z L bus 2261
+Z J train 1199
+J L bus 3316
+S U taxi 9818
+U 37
+taxi
+taxi
+taxi
+bus
+bus
+bus
+bus
+train
+train
+plane
+plane
+taxi
+taxi
+bus
+bus
+plane
+taxi
+taxi
+bus
+train
+bus
+taxi
+taxi
+bus
+bus
+train
+train
+bus
+train
+train
+train
+taxi
+bus
+bus
+bus
+taxi
+taxi
+42
+Y P train 5697
+Q X plane 8761
+H V train 7009
+J H plane 124
+X V train 5149
+C P taxi 4436
+X P bus 9290
+X Q bus 7534
+Y J bus 1943
+C X train 4186
+V O taxi 6624
+H O taxi 7456
+J Y taxi 7902
+Y X bus 8347
+X P taxi 1894
+X J plane 1142
+V C bus 6068
+H X taxi 5567
+O Q bus 9246
+X H plane 7298
+Q X taxi 3187
+Y X train 3643
+Y V taxi 9940
+J C taxi 5680
+H J taxi 9503
+P O train 1460
+H V plane 677
+J H train 3888
+J Q train 7538
+H V bus 152
+J Q taxi 6524
+H X train 650
+C Q taxi 9715
+J P taxi 1272
+Y J train 3256
+Q P train 3064
+O J plane 5135
+P C train 5797
+H V taxi 7373
+O J bus 6718
+O X train 7908
+H O train 4488
+H 35
+train
+taxi
+train
+train
+plane
+train
+plane
+plane
+taxi
+taxi
+taxi
+taxi
+bus
+taxi
+bus
+plane
+plane
+bus
+taxi
+plane
+taxi
+bus
+train
+train
+taxi
+taxi
+taxi
+taxi
+train
+plane
+bus
+taxi
+train
+bus
+plane
+42
+U X train 3945
+I V train 2404
+U X bus 2712
+Z I taxi 112
+U B taxi 4529
+C X taxi 1771
+C U taxi 5007
+V B taxi 8478
+V F plane 2009
+V K train 3242
+C V taxi 2108
+K B bus 3781
+F C train 2706
+U K bus 8907
+X B bus 1728
+Z B plane 8314
+I V taxi 976
+Z C bus 6876
+F K train 7602
+X I plane 8646
+K V bus 8284
+U F plane 6084
+B Z train 5323
+Z K bus 6173
+I B bus 6186
+C B plane 4171
+Z F train 5154
+B X taxi 2033
+I B taxi 9754
+C V bus 5457
+B F train 8235
+K C train 8424
+I K bus 940
+X F bus 2347
+I C bus 7858
+C K bus 3118
+I U taxi 7741
+U V train 195
+V C plane 4397
+B F taxi 6555
+C I taxi 5633
+B U train 4034
+C 27
+taxi
+train
+taxi
+taxi
+plane
+train
+bus
+taxi
+taxi
+taxi
+taxi
+bus
+train
+bus
+plane
+bus
+taxi
+plane
+bus
+train
+bus
+plane
+plane
+train
+bus
+train
+plane
+51
+W Q train 7502
+I X taxi 1765
+I R bus 8248
+L W plane 9341
+R O plane 6870
+Q I plane 3509
+W Q plane 6475
+W T plane 4542
+X R train 5521
+L T bus 9800
+O W plane 7088
+N W bus 4101
+W T train 876
+T I train 2361
+M X taxi 5634
+Q T bus 9784
+L N bus 7488
+O Q taxi 8390
+W Q bus 7113
+W X bus 8568
+N M bus 6635
+R N taxi 2656
+M L bus 4370
+O R bus 3833
+L Q plane 6372
+W N plane 5945
+M N plane 5138
+T N plane 1581
+I L train 9501
+M X plane 4791
+O X train 2693
+N Q taxi 1850
+O W taxi 2335
+Q N plane 582
+X W taxi 226
+X I plane 6529
+O L train 8738
+T N bus 6894
+N W taxi 1624
+R M plane 7063
+R L bus 6851
+T R bus 2954
+R X taxi 827
+W M train 8312
+T L plane 9672
+Q X taxi 733
+L X train 8645
+M I taxi 3410
+X T train 9857
+O N train 3044
+L R taxi 2179
+R 40
+taxi
+plane
+bus
+bus
+bus
+plane
+bus
+bus
+plane
+train
+plane
+train
+plane
+plane
+plane
+plane
+taxi
+plane
+taxi
+train
+train
+bus
+train
+train
+plane
+train
+taxi
+taxi
+plane
+train
+train
+taxi
+taxi
+train
+train
+train
+taxi
+plane
+train
+plane
+40
+V Y train 7823
+U K train 2332
+U B bus 3019
+F L bus 1845
+X K taxi 8964
+Y L train 2103
+X V plane 6808
+U X bus 4238
+B F train 5713
+F V plane 4762
+L X train 1527
+K X train 4615
+U X train 7089
+Y X bus 8960
+F X taxi 7588
+F X bus 3307
+K B taxi 602
+B Y taxi 5599
+Y X train 1996
+F U taxi 1379
+B V bus 5377
+X B bus 4279
+V L bus 2590
+B Y train 8510
+V F taxi 4452
+X B plane 6784
+V Y plane 9369
+U V taxi 2182
+K F bus 3226
+B Y bus 1847
+X V taxi 635
+L X bus 5981
+F L plane 7974
+K B bus 5342
+F U plane 2415
+Y U taxi 1654
+K B train 603
+V Y bus 8405
+U F train 809
+V L taxi 1804
+B 38
+bus
+train
+train
+plane
+bus
+plane
+plane
+train
+taxi
+bus
+bus
+train
+plane
+train
+taxi
+train
+train
+taxi
+bus
+taxi
+taxi
+taxi
+train
+train
+taxi
+bus
+bus
+bus
+train
+taxi
+bus
+taxi
+train
+bus
+train
+bus
+bus
+taxi
+53
+B W plane 3112
+U H bus 6020
+H B train 3814
+U Q plane 5179
+J W train 5031
+Q B bus 2930
+Q J train 7997
+Z Q plane 732
+J K bus 8179
+U Z taxi 5560
+X K plane 9334
+O K plane 9942
+U K taxi 6592
+Z J taxi 9593
+J B train 8949
+W X plane 814
+K J taxi 5612
+B X taxi 8853
+J H bus 5958
+J U train 813
+J U taxi 3639
+O J plane 2006
+X W taxi 2005
+B K taxi 6533
+Q B plane 8633
+O X plane 1631
+B K plane 3473
+H Q plane 1784
+Z W plane 8327
+B O plane 2352
+B Q taxi 7329
+Q W taxi 8499
+U O train 3706
+B Z train 7450
+Z U plane 1313
+Q U taxi 3853
+B O bus 6356
+W Q bus 6150
+O H bus 7754
+Z J train 6154
+W X train 1333
+O W plane 2316
+O Z bus 1167
+W O train 1603
+K Q bus 355
+K Z taxi 2496
+Q O taxi 3538
+Q X bus 9437
+W Q plane 5813
+O H taxi 5719
+W J plane 8464
+Z U train 7476
+Q H train 6477
+J 27
+train
+bus
+plane
+train
+taxi
+train
+train
+train
+train
+train
+train
+taxi
+plane
+bus
+taxi
+taxi
+plane
+taxi
+plane
+plane
+taxi
+plane
+plane
+taxi
+bus
+plane
+bus
+57
+F I bus 9879
+P I train 9779
+E G train 5575
+N R taxi 2049
+P F bus 7490
+S F plane 7963
+N R bus 9069
+R Z bus 3339
+R P bus 8512
+I G plane 5813
+I P plane 8347
+E F plane 8397
+E Z taxi 7035
+N F taxi 3287
+N S plane 6451
+G J bus 5449
+S F train 8283
+Z N bus 4314
+J I plane 2787
+S E plane 2173
+I S bus 3354
+N Z plane 4233
+S G taxi 863
+I J train 9399
+J Z taxi 5531
+G S plane 8584
+I P taxi 9168
+I J bus 9764
+R F train 4503
+J R plane 9904
+J N bus 3011
+J I taxi 2461
+F R bus 5000
+J E taxi 101
+S P bus 7110
+S G train 4947
+R Z taxi 9744
+S P taxi 224
+J N plane 6654
+Z G bus 5698
+S R bus 7296
+F J train 4858
+Z N train 873
+J G plane 6850
+E Z plane 2210
+E S taxi 9837
+S P plane 9360
+N I taxi 7553
+E I plane 1213
+S N train 2547
+P J taxi 9088
+G E bus 5665
+J Z train 9563
+S G bus 2978
+F G taxi 6144
+Z S train 9716
+N E bus 6938
+J 21
+bus
+bus
+plane
+taxi
+taxi
+bus
+taxi
+plane
+plane
+plane
+plane
+plane
+taxi
+bus
+bus
+plane
+bus
+bus
+bus
+bus
+taxi
+44
+N F plane 8911
+B M taxi 3799
+N A taxi 6915
+N H taxi 1830
+A Q bus 6791
+A I plane 6402
+J M bus 2588
+M I plane 2359
+M N plane 7352
+M N bus 2378
+B H plane 9334
+Q B plane 9181
+M J taxi 8054
+J F plane 8331
+A F taxi 5167
+Q M taxi 7260
+F M plane 5222
+Q J plane 6937
+N I bus 3876
+I B taxi 1032
+A Q taxi 4797
+Q N bus 356
+I N taxi 7759
+F A plane 3340
+N J plane 6087
+H N train 6878
+I J taxi 9937
+B I train 4455
+F A train 5437
+J M plane 2260
+Q N taxi 3568
+H A train 5273
+H M train 401
+M H taxi 2678
+N A bus 9962
+F H plane 4098
+N M taxi 132
+Q N plane 7496
+I H taxi 9631
+N H bus 203
+F Q bus 7435
+I H plane 633
+Q M plane 6627
+N I train 5690
+Q 33
+plane
+taxi
+taxi
+plane
+plane
+bus
+bus
+bus
+plane
+plane
+plane
+plane
+bus
+taxi
+plane
+taxi
+taxi
+bus
+plane
+train
+plane
+taxi
+bus
+bus
+train
+plane
+bus
+taxi
+train
+bus
+plane
+plane
+bus
+45
+U L plane 3323
+U D bus 4611
+X U plane 7621
+D Y bus 2320
+D W train 1441
+U C taxi 395
+I L taxi 1111
+F Y bus 5239
+U L bus 4144
+F W plane 8285
+W L taxi 1042
+X C plane 8809
+L D plane 1334
+D U train 5935
+Y C train 4098
+F L train 9781
+I U bus 5126
+F D plane 6671
+D F bus 2210
+X F bus 9205
+I Y bus 916
+F L plane 7467
+D C train 5309
+U X bus 1250
+D Y plane 6635
+C W taxi 598
+C X train 6708
+D X train 8006
+C F train 4936
+I X bus 3082
+D Y train 1177
+Y U bus 6197
+C I taxi 2955
+C F bus 6072
+L U train 6153
+I U plane 8257
+F C plane 8369
+I X train 3316
+L F bus 3756
+U D plane 364
+D C bus 4760
+Y F train 673
+W F bus 1288
+I U taxi 676
+D W plane 5625
+U 21
+plane
+taxi
+taxi
+bus
+plane
+bus
+bus
+bus
+plane
+bus
+train
+train
+bus
+plane
+plane
+train
+bus
+plane
+train
+plane
+bus
+34
+C B train 9964
+V C plane 853
+O R bus 8036
+N R plane 5276
+V R train 581
+V B plane 1865
+I R bus 6646
+B R train 6874
+C T taxi 3700
+V N bus 9644
+I R plane 6678
+V N taxi 8755
+R V bus 5136
+C B bus 8082
+V T train 347
+R T taxi 2229
+N T plane 4765
+R O plane 832
+V C bus 8021
+R B bus 3261
+I N plane 9228
+N B taxi 9041
+I V taxi 5011
+B N bus 7411
+B O taxi 4141
+B V taxi 9293
+B O bus 3797
+N R bus 8344
+O C plane 3093
+T R train 1255
+I R taxi 4784
+B T plane 244
+I O bus 5520
+B C taxi 5363
+R 22
+train
+plane
+train
+bus
+bus
+taxi
+bus
+taxi
+train
+bus
+plane
+bus
+plane
+bus
+bus
+plane
+taxi
+train
+plane
+plane
+taxi
+bus
+40
+F C plane 9402
+L X taxi 116
+F G bus 9223
+Q X bus 4172
+G Q bus 6788
+R X taxi 5186
+G L taxi 9452
+R K train 5873
+G Q taxi 1034
+R L plane 6914
+C X taxi 5470
+X F bus 4057
+L R taxi 1595
+R Q plane 3817
+C R train 3136
+K R taxi 620
+K X taxi 7294
+X L plane 9508
+K G taxi 2628
+Q F bus 3784
+L C bus 7462
+K C train 8937
+L K bus 1975
+C R taxi 1801
+X G bus 2014
+Q X taxi 492
+C Q plane 872
+G K train 2302
+X R plane 4729
+L G bus 6275
+L F taxi 435
+F G taxi 1281
+C G train 8627
+L X train 2079
+F X train 1876
+Q C train 4163
+K L taxi 7627
+K L train 9600
+Q R train 7131
+K X plane 6371
+F 34
+bus
+taxi
+bus
+taxi
+bus
+train
+bus
+bus
+plane
+bus
+train
+taxi
+bus
+taxi
+train
+taxi
+taxi
+bus
+train
+taxi
+taxi
+bus
+plane
+taxi
+plane
+train
+train
+train
+plane
+plane
+bus
+bus
+bus
+bus
+40
+P Q train 6757
+B P bus 9015
+K G train 6760
+G B plane 7115
+G K taxi 2090
+B K train 3219
+K E taxi 2572
+O H train 8513
+B Q train 8318
+B H bus 5539
+K G bus 5835
+H O bus 5292
+B P train 9760
+E G plane 3358
+Q H train 1613
+G E taxi 7711
+G P plane 3035
+O Q train 1691
+B H plane 8882
+P Q plane 2138
+E G bus 114
+Q P taxi 357
+E Q plane 6510
+P K plane 8442
+B O plane 7279
+E Q train 5780
+E H train 8786
+K O bus 1331
+K H bus 7794
+B P taxi 1620
+K Q plane 7515
+H E plane 9421
+K B plane 9473
+K E plane 6354
+E Q taxi 1597
+P B plane 3800
+O G train 2951
+G Q plane 5134
+H P taxi 9001
+G B bus 1318
+O 37
+train
+taxi
+plane
+bus
+bus
+train
+plane
+train
+bus
+plane
+bus
+train
+plane
+plane
+bus
+plane
+taxi
+bus
+taxi
+bus
+train
+plane
+bus
+bus
+taxi
+bus
+bus
+plane
+plane
+taxi
+plane
+train
+train
+taxi
+plane
+train
+train
+43
+P Z plane 791
+M T train 7997
+K C bus 8810
+V K plane 6183
+Z C bus 5142
+K V train 7387
+Z V plane 5901
+T G train 5116
+K G taxi 4790
+Z G plane 3866
+Z N train 7965
+N G plane 7498
+K V bus 2710
+V P taxi 1759
+K P taxi 2154
+N M train 8132
+G N train 6457
+V N taxi 7647
+G P bus 4427
+M V train 9628
+N T bus 1993
+Z G taxi 1945
+T Z train 7405
+T G plane 5370
+M G plane 7748
+N T train 9747
+Z G train 3423
+C V taxi 7597
+G P train 1791
+C K plane 7228
+T V plane 2403
+Z C plane 3603
+C G bus 9408
+T M taxi 1050
+V P plane 8163
+Z N taxi 5270
+Z G bus 984
+P K plane 867
+Z C taxi 5824
+M V taxi 2102
+V M bus 214
+V Z bus 5446
+G P taxi 4282
+N 36
+train
+bus
+bus
+plane
+plane
+bus
+train
+bus
+train
+bus
+plane
+train
+train
+train
+taxi
+plane
+taxi
+taxi
+plane
+taxi
+plane
+taxi
+train
+train
+bus
+taxi
+bus
+plane
+plane
+train
+taxi
+plane
+taxi
+bus
+bus
+taxi
+54
+Q N bus 510
+X O bus 8981
+Q G bus 1497
+O K taxi 2885
+Q Y bus 5918
+O Q taxi 273
+A G bus 683
+A Q bus 8717
+X C train 6007
+Y I taxi 482
+A K plane 1904
+I G bus 6045
+Y X bus 961
+K G train 862
+N G plane 1078
+Y O bus 9843
+X Y plane 5850
+I O taxi 387
+C O taxi 1460
+C G taxi 838
+C A bus 8086
+A X plane 6041
+O Q train 2916
+I N bus 1880
+K X train 7324
+C Q bus 9816
+K X plane 1444
+O Y plane 3105
+A Y taxi 6921
+A O bus 2656
+K O bus 9117
+I G train 6808
+Y N plane 6807
+I K taxi 4081
+A I plane 5430
+O X taxi 881
+X Q taxi 4413
+Y A bus 7656
+K Y bus 6049
+O A train 678
+C I plane 798
+A X bus 3970
+G A taxi 7215
+G X bus 6993
+K X bus 1291
+Y I plane 3454
+O X plane 5878
+O A plane 1268
+I C train 9619
+O K plane 7684
+C X bus 902
+X C taxi 1422
+K C train 4643
+Q Y taxi 3252
+I 22
+taxi
+taxi
+taxi
+plane
+bus
+train
+plane
+plane
+plane
+taxi
+taxi
+plane
+train
+bus
+bus
+plane
+plane
+train
+bus
+taxi
+train
+train
+49
+N H taxi 9977
+J R train 5027
+G N bus 2307
+R C plane 2826
+X L train 5058
+L N taxi 2786
+L J train 9831
+C L bus 8489
+R L plane 9294
+R T train 4758
+T N bus 2261
+L R taxi 3558
+T N taxi 2557
+X J bus 8835
+T X taxi 7060
+R H train 8451
+L J plane 1706
+C R train 6440
+L R train 284
+X J train 7089
+H T bus 9184
+X C taxi 6013
+G L plane 861
+C R bus 6013
+J R taxi 3458
+H C plane 9012
+L X taxi 1966
+J G train 9181
+R X taxi 2932
+C G bus 4680
+N C plane 6555
+R G taxi 2629
+G L taxi 3897
+T J plane 7230
+C G taxi 7624
+R G train 6007
+J T train 1540
+T R plane 4025
+N G train 9868
+L H bus 7375
+R L bus 1926
+R T taxi 5758
+J G bus 2280
+R C taxi 2825
+T C train 5754
+C T taxi 5744
+H G bus 2436
+H J train 6351
+G X taxi 9026
+X 32
+taxi
+plane
+train
+bus
+train
+taxi
+plane
+taxi
+taxi
+bus
+plane
+taxi
+train
+bus
+taxi
+taxi
+train
+bus
+bus
+train
+train
+plane
+plane
+train
+train
+plane
+taxi
+taxi
+taxi
+taxi
+plane
+taxi
+41
+Q P train 4949
+D P bus 1102
+Y L train 4433
+O Q bus 5058
+P R taxi 2577
+O L bus 6840
+L D train 3161
+Q X bus 8581
+G Q taxi 9480
+O Y bus 137
+L G plane 3948
+R P bus 2027
+G Y bus 649
+G R taxi 6704
+Q L train 8776
+R Q plane 275
+O X plane 1842
+D X plane 7098
+P D train 4583
+Q Y train 738
+D Q train 6672
+P Y taxi 9845
+Y D train 1063
+D G taxi 6970
+Q G bus 3334
+D O train 5986
+X Y taxi 8729
+R Q taxi 1459
+L O train 2436
+X G bus 1856
+G Y taxi 126
+X Q taxi 1265
+D Q plane 6268
+Q O plane 3997
+O D bus 5483
+O P taxi 5465
+L O plane 736
+X Q plane 8272
+Y X train 2389
+O Q taxi 9190
+R X plane 1962
+O 35
+bus
+bus
+bus
+train
+train
+taxi
+bus
+taxi
+plane
+taxi
+taxi
+train
+plane
+plane
+bus
+bus
+train
+train
+train
+plane
+taxi
+bus
+train
+bus
+plane
+train
+train
+plane
+taxi
+train
+train
+bus
+taxi
+plane
+taxi
+45
+U G plane 8927
+G I train 3198
+F N plane 1167
+U I bus 9153
+F W bus 6112
+G N bus 7360
+L I bus 3189
+Z F train 3247
+G P plane 8563
+F G bus 3955
+Z N train 3171
+W P taxi 3430
+N Z bus 6244
+G F plane 3206
+Z L train 1877
+N I taxi 267
+W U train 3189
+L G bus 2277
+P U plane 6612
+Z P plane 1082
+G L train 897
+Z U taxi 9599
+P L bus 580
+U W taxi 8249
+L U taxi 6647
+L N train 2575
+W Z bus 9700
+P Z taxi 8585
+N G taxi 5308
+G W plane 9229
+P W plane 4072
+I F taxi 4981
+I U plane 101
+F W taxi 4329
+Z G bus 6334
+G F taxi 3835
+P L plane 421
+L N plane 8918
+P L taxi 7354
+N G plane 2712
+I F plane 8780
+W P train 6189
+F I bus 216
+I U train 692
+I P bus 2283
+F 33
+plane
+bus
+taxi
+taxi
+plane
+bus
+train
+taxi
+taxi
+plane
+bus
+train
+bus
+bus
+bus
+train
+bus
+bus
+taxi
+plane
+bus
+bus
+plane
+bus
+train
+train
+bus
+plane
+plane
+plane
+taxi
+taxi
+plane
+47
+C S plane 8541
+D X taxi 5988
+P S plane 6568
+L F train 4642
+P X taxi 1018
+B C train 1886
+S L train 3299
+S F plane 8573
+S Q plane 9004
+B X plane 4540
+Q C bus 3711
+B Q plane 7369
+X B bus 6791
+X F bus 870
+D S bus 1166
+S C train 6438
+B C plane 1029
+L S bus 2335
+Q B bus 7537
+X D bus 1448
+X C train 4135
+B S bus 8577
+L Q train 5412
+B P train 652
+C B taxi 4498
+S B train 3888
+C P taxi 3966
+S Q bus 7090
+S X bus 5181
+B D plane 2424
+D S plane 824
+F D plane 3829
+B F taxi 1885
+C S taxi 4175
+F Q plane 5696
+L S taxi 7463
+S L plane 1504
+D Q bus 8587
+F B train 929
+B L taxi 9789
+S F bus 6757
+B D taxi 1016
+B L plane 2084
+F P taxi 8399
+F S taxi 6225
+B X train 8688
+C P bus 4051
+Q 36
+bus
+train
+plane
+taxi
+plane
+plane
+taxi
+plane
+train
+bus
+train
+plane
+train
+train
+bus
+bus
+plane
+plane
+train
+bus
+plane
+plane
+taxi
+plane
+taxi
+bus
+plane
+taxi
+plane
+bus
+train
+bus
+bus
+plane
+train
+train
+51
+B X train 7008
+F K taxi 8408
+A F plane 5686
+X A train 1454
+K T train 5913
+Q F taxi 8274
+K A bus 6154
+A X taxi 9014
+B F train 8961
+P T bus 7750
+P A train 2695
+L B train 8642
+Q T taxi 1219
+B K taxi 3402
+T X taxi 3499
+X Q train 9518
+X L bus 8878
+A L taxi 6076
+B L bus 9736
+L T plane 472
+T A train 9947
+X P bus 1209
+T A bus 5101
+Q F train 6751
+X Z bus 8742
+Q L taxi 8711
+L P bus 8627
+P F bus 7408
+K P plane 2003
+Z T taxi 4414
+B P taxi 371
+P A taxi 2483
+F Q plane 6369
+A Q taxi 2676
+Z T train 2754
+B K train 3263
+K Q taxi 780
+X K train 8675
+P X plane 949
+L X taxi 4361
+B P bus 5760
+K T taxi 8988
+Z L taxi 7409
+B A bus 9925
+A Q plane 6684
+X B plane 9578
+L X plane 6285
+L K taxi 6916
+A L train 4641
+Z X plane 9099
+X A bus 2736
+X 40
+train
+taxi
+plane
+taxi
+plane
+train
+train
+bus
+plane
+plane
+train
+taxi
+taxi
+taxi
+train
+taxi
+plane
+bus
+bus
+bus
+taxi
+taxi
+plane
+train
+taxi
+train
+taxi
+bus
+plane
+train
+bus
+bus
+bus
+taxi
+train
+bus
+plane
+train
+taxi
+taxi
+40
+B K train 7025
+B X bus 4960
+R K taxi 7002
+Y K taxi 6308
+B I plane 6533
+K Y bus 521
+Y R taxi 7965
+X I taxi 2685
+A K bus 7545
+B D train 8477
+A B taxi 2241
+D B plane 4883
+A X bus 7027
+Y I train 5418
+D R plane 5269
+R A plane 4759
+I Y bus 1488
+I D bus 5466
+A I bus 6185
+B K plane 3799
+B R train 2035
+A I train 3727
+A R taxi 7480
+Y A taxi 6426
+Y D bus 1486
+B Y bus 3202
+B X plane 4190
+Y X bus 2551
+X A plane 6741
+D Y train 8728
+D K taxi 2977
+A Y bus 1170
+R Y train 3919
+K D train 322
+A K train 5374
+B Y taxi 6296
+R B bus 6770
+R K bus 7456
+A D train 4060
+B A plane 9097
+R 21
+train
+taxi
+bus
+train
+plane
+train
+taxi
+train
+bus
+plane
+train
+taxi
+bus
+taxi
+bus
+plane
+bus
+bus
+taxi
+plane
+taxi
+58
+J U bus 6933
+A U train 7454
+V R bus 1867
+R V plane 128
+J A plane 6662
+A Z bus 2331
+N I taxi 8301
+P R bus 8371
+T P bus 7902
+J U taxi 1308
+U J plane 7181
+A T train 5384
+R I bus 6474
+Z P taxi 6458
+P U bus 2109
+P R train 3613
+V R taxi 1529
+I N bus 8475
+P N train 7207
+V J plane 1806
+U I bus 788
+V J train 8920
+N V bus 6168
+V I train 5474
+P J train 2816
+T V taxi 4274
+V N train 8002
+Z T taxi 8932
+P V bus 9338
+T J train 9698
+P I bus 5772
+T I taxi 6802
+J R plane 1753
+Z J taxi 6082
+I R train 8446
+V J bus 647
+I V plane 2941
+R A taxi 2545
+V A plane 6956
+I T plane 2997
+U V train 3935
+Z P train 9397
+V Z train 2977
+U A taxi 6003
+V I taxi 4189
+P U taxi 8490
+T Z plane 4185
+A Z plane 6250
+A U plane 5451
+T R plane 1771
+P R taxi 3659
+I A bus 9315
+I T bus 5127
+R I plane 5583
+N J bus 7989
+Z A taxi 2909
+Z V taxi 1868
+V U bus 5958
+I 29
+taxi
+plane
+train
+plane
+bus
+train
+bus
+bus
+train
+train
+taxi
+taxi
+taxi
+train
+train
+taxi
+plane
+bus
+bus
+bus
+train
+bus
+plane
+plane
+taxi
+train
+taxi
+bus
+bus
+48
+N C plane 1253
+O K bus 7888
+K J bus 595
+R X plane 3119
+N F bus 3686
+O I bus 2276
+F R train 7452
+R F plane 9933
+O J plane 3745
+C K taxi 3810
+X J taxi 324
+C O plane 2053
+O F train 2581
+F J taxi 2175
+X N train 1186
+I N train 5390
+R O taxi 1033
+C N train 8831
+I N taxi 4734
+N R plane 6129
+I J bus 9697
+C F bus 9954
+J N taxi 8268
+N K plane 7351
+O C train 3077
+K O plane 7811
+R J plane 4394
+K F plane 4531
+O X plane 4403
+J F train 8091
+N F taxi 7234
+J F bus 6281
+I N bus 8796
+R X train 7520
+K J taxi 5571
+C K train 8296
+C J taxi 5156
+F O bus 6587
+N J bus 2420
+O X train 8943
+X C taxi 5264
+X N taxi 1163
+O N plane 7841
+X C bus 5594
+I F bus 7565
+N K train 1883
+J O bus 2435
+C R plane 4617
+I 30
+bus
+bus
+bus
+train
+plane
+train
+bus
+taxi
+bus
+taxi
+train
+train
+plane
+plane
+bus
+bus
+bus
+taxi
+taxi
+train
+taxi
+plane
+plane
+plane
+train
+taxi
+train
+bus
+bus
+train
+43
+Z I plane 6917
+T Y bus 828
+T Z plane 4282
+Y U plane 7848
+B Y bus 8001
+Q L train 748
+L B train 5372
+Q H plane 1273
+B Y plane 6923
+I T bus 404
+U B train 2441
+I Q taxi 1693
+I Q train 965
+U L train 3438
+L Y train 7278
+I Q bus 2492
+Z L taxi 2239
+B L bus 9109
+U Z train 9390
+B I train 5170
+B Y train 5201
+U Q bus 6598
+T H bus 2452
+U B plane 3519
+Z Y bus 6042
+Y I plane 7872
+Q Z plane 5566
+L H taxi 5089
+B Q plane 1221
+I L plane 5782
+T Z bus 822
+U Q taxi 1257
+Z U plane 9498
+Z I train 2202
+L Q bus 5370
+L H train 4082
+H B taxi 7187
+T Z taxi 4072
+H L plane 5087
+B I taxi 3636
+Q T taxi 2746
+Q H bus 8097
+T B train 6287
+Z 31
+bus
+plane
+plane
+plane
+plane
+bus
+train
+plane
+plane
+plane
+train
+bus
+train
+bus
+bus
+plane
+plane
+train
+train
+train
+bus
+plane
+bus
+bus
+bus
+taxi
+plane
+plane
+plane
+train
+taxi
+36
+C G train 863
+Q K bus 6400
+F L taxi 5290
+Q X train 9665
+P F plane 2672
+X P plane 9754
+X C bus 3458
+K F bus 8320
+G P plane 6111
+F C taxi 673
+G Q bus 3315
+C F plane 9610
+L Q taxi 6064
+K C train 4249
+F Q plane 7333
+C P taxi 2860
+L F plane 493
+G K bus 8016
+F C train 4378
+G C plane 8435
+L C plane 5257
+G F bus 809
+X K taxi 6261
+P F train 266
+G K plane 1058
+P K taxi 1898
+K C taxi 3082
+G F train 1173
+P Q taxi 2465
+C K plane 2160
+L G taxi 7845
+K G taxi 1901
+C F bus 7036
+C P plane 707
+P X bus 2882
+P K plane 2851
+C 28
+taxi
+plane
+taxi
+plane
+plane
+train
+bus
+plane
+taxi
+plane
+taxi
+plane
+taxi
+bus
+bus
+bus
+plane
+train
+bus
+plane
+taxi
+plane
+train
+train
+plane
+plane
+plane
+bus
+49
+U S taxi 4890
+K W bus 4530
+K S bus 9251
+Q K train 8142
+W Q plane 7049
+U D taxi 2455
+D T plane 8594
+K S plane 8720
+D A taxi 7947
+K C taxi 5106
+D W taxi 8770
+K S train 4719
+U D train 1948
+D T train 2850
+Q S taxi 7077
+W S plane 3290
+T D taxi 3780
+C A train 8871
+D U bus 5380
+T S train 2392
+W A taxi 2693
+S C plane 1380
+K A plane 3308
+S Q train 5844
+A D bus 8532
+D K plane 5260
+D Q train 2637
+T Q plane 4040
+T U bus 8726
+Q C taxi 4184
+W D plane 3832
+C Q bus 229
+W C bus 9217
+A U train 1106
+A W plane 926
+W D bus 4310
+C K plane 2798
+C Q plane 7887
+S T taxi 1206
+U T plane 3618
+D U plane 4421
+Q D taxi 4567
+A D plane 422
+U K plane 8480
+T D bus 1805
+A Q train 4215
+D Q bus 4140
+S T bus 5481
+T C plane 4766
+W 22
+bus
+bus
+bus
+bus
+taxi
+taxi
+bus
+bus
+plane
+plane
+bus
+taxi
+taxi
+bus
+train
+plane
+bus
+taxi
+bus
+bus
+bus
+train
+45
+G D taxi 6155
+D N train 7435
+N K train 8155
+J A taxi 1227
+W J plane 8823
+W F plane 7040
+W G taxi 9912
+A F bus 5420
+A J train 701
+N J plane 9582
+J W bus 9782
+D K train 931
+F W bus 4530
+D R bus 2866
+A F train 1226
+W G bus 2953
+R W plane 8863
+R J taxi 5975
+R N bus 2882
+A N plane 5175
+D A taxi 1203
+R G train 578
+N F taxi 753
+J K taxi 6589
+G W train 380
+R A taxi 7942
+W A plane 1834
+D N plane 2799
+G W plane 1640
+W D train 2449
+F W train 7273
+F J plane 1331
+A F taxi 2852
+F R bus 3987
+F G plane 3375
+F G bus 3276
+D F plane 7044
+G R plane 7474
+R J bus 2528
+G N taxi 7256
+A G train 3510
+R K taxi 1902
+D G bus 2955
+G D train 8663
+F K plane 9641
+R 29
+bus
+plane
+bus
+bus
+plane
+bus
+train
+taxi
+train
+bus
+train
+taxi
+plane
+plane
+plane
+train
+taxi
+bus
+bus
+taxi
+taxi
+plane
+train
+plane
+taxi
+taxi
+plane
+plane
+train
+34
+J B taxi 8999
+T R taxi 8466
+R B bus 202
+M F bus 1760
+O J plane 8539
+T J plane 9327
+T O bus 1240
+F M train 5323
+O R bus 8791
+D T bus 3137
+O R train 6545
+M B plane 5970
+J T bus 1846
+O D plane 2533
+D R train 6213
+B J plane 1081
+J F taxi 606
+M O taxi 4968
+M R bus 1322
+O J bus 924
+T B plane 6313
+J R plane 6125
+J R bus 9926
+B F taxi 3599
+D J train 651
+J R train 8511
+R F taxi 5153
+T R bus 7014
+D J plane 8308
+F T taxi 864
+B M taxi 3748
+D O bus 7353
+M B train 1536
+F B bus 4149
+J 20
+bus
+plane
+bus
+taxi
+taxi
+plane
+taxi
+taxi
+train
+train
+bus
+bus
+taxi
+taxi
+bus
+bus
+plane
+bus
+train
+taxi
+34
+V A plane 820
+V F bus 6773
+T Z taxi 7936
+S X train 2798
+J V plane 3146
+J A bus 9928
+S V taxi 6172
+Z S taxi 6231
+J S train 4136
+A Z train 410
+F X train 7887
+X A plane 7169
+J T bus 4538
+A V train 158
+A T bus 8364
+Z J taxi 3904
+A T taxi 289
+J V train 2452
+X F bus 2033
+X V train 8656
+X A taxi 8994
+S T train 4197
+Z S plane 3797
+T F train 7422
+F Z plane 6624
+Z S bus 5860
+T S bus 914
+F Z taxi 8919
+V J bus 3635
+V Z taxi 9196
+S F train 1475
+Z V plane 3557
+F A train 7784
+Z F train 2503
+J 37
+train
+plane
+plane
+train
+bus
+taxi
+plane
+bus
+bus
+train
+bus
+train
+taxi
+train
+train
+bus
+train
+train
+plane
+taxi
+bus
+train
+train
+train
+taxi
+bus
+train
+bus
+train
+plane
+train
+bus
+train
+bus
+train
+train
+train
+47
+V Q train 5765
+C A train 5695
+V G bus 4003
+G A plane 3379
+U H bus 1632
+H G plane 3447
+H V train 9804
+G U bus 7818
+V R train 7472
+V C bus 6653
+G U taxi 290
+H I train 4460
+C H bus 910
+V A plane 5686
+H G bus 9621
+G Q train 4215
+H G taxi 8882
+Q H bus 6273
+C R taxi 7120
+Q I train 2510
+R C train 6649
+Q I bus 7295
+H C plane 7472
+V I taxi 9318
+R I bus 4148
+V U train 8509
+C G plane 7551
+H V bus 7575
+Q R bus 483
+H I plane 1382
+I A train 2474
+C Q taxi 7840
+Q R plane 8058
+C H taxi 7425
+Q I taxi 399
+A U train 3239
+Q G taxi 3980
+I U train 4055
+C Q plane 9417
+R I taxi 526
+G R train 2162
+Q G bus 4910
+V U plane 9309
+I U plane 7641
+U G plane 5387
+G A bus 2930
+R A train 9566
+C 23
+bus
+train
+train
+bus
+bus
+plane
+plane
+taxi
+bus
+plane
+bus
+bus
+plane
+bus
+taxi
+bus
+bus
+taxi
+plane
+taxi
+bus
+bus
+train
+52
+W L bus 4960
+H W bus 373
+V W taxi 4051
+Q H taxi 9998
+K W taxi 5669
+X J plane 2508
+W L taxi 9925
+Z Q taxi 7396
+Z K train 3746
+X H taxi 2621
+V X bus 2489
+V J taxi 1750
+L Z taxi 8344
+I X train 9391
+W H taxi 710
+Z Q train 1026
+I L taxi 8100
+V H plane 6897
+X K train 6018
+K H bus 4964
+X Q taxi 9169
+Q V taxi 2194
+V I plane 2580
+Z I bus 8830
+L J taxi 8347
+J K train 7077
+V Z taxi 5952
+Z Q bus 5376
+K Z plane 9371
+H L taxi 4377
+H K taxi 2351
+L Q plane 2866
+V W train 7139
+V K taxi 4101
+L J plane 2929
+Q K plane 4333
+Q K bus 1222
+Q J taxi 7910
+X V train 9437
+K X plane 5390
+J H plane 5810
+K Q taxi 7445
+V H bus 9585
+H V train 8066
+X W plane 7088
+J V bus 1438
+H Z bus 8077
+K H plane 4412
+I V taxi 6574
+W I taxi 1034
+Z W plane 6555
+X Q bus 4188
+J 30
+plane
+plane
+train
+train
+taxi
+taxi
+plane
+bus
+taxi
+bus
+plane
+taxi
+taxi
+taxi
+taxi
+taxi
+plane
+plane
+plane
+taxi
+train
+plane
+bus
+taxi
+plane
+taxi
+bus
+train
+train
+plane
+35
+B F plane 2801
+L I taxi 4820
+B L plane 4214
+L A plane 1230
+L N train 2979
+D N bus 9959
+Z A taxi 606
+B I train 1654
+F Z train 6061
+A I taxi 7471
+D Z train 5804
+N F train 127
+D I taxi 1346
+A B bus 8813
+I N bus 164
+L I plane 8687
+Z B taxi 3863
+A F plane 9771
+D I plane 5997
+A Z plane 5614
+I Z taxi 824
+F N plane 3965
+D L plane 1022
+F B taxi 3078
+I D bus 9654
+F N taxi 3719
+F A train 6062
+B N plane 2203
+L D train 3973
+B A train 842
+F B bus 9604
+B F train 2137
+A L taxi 6780
+L D taxi 4483
+A D plane 1594
+F 40
+bus
+plane
+plane
+plane
+taxi
+bus
+plane
+train
+train
+taxi
+train
+train
+train
+plane
+taxi
+plane
+taxi
+train
+bus
+plane
+taxi
+bus
+plane
+train
+train
+train
+plane
+train
+plane
+bus
+bus
+taxi
+plane
+taxi
+plane
+train
+train
+bus
+bus
+train
+38
+F O taxi 9405
+G F bus 219
+F C train 5235
+P C bus 1131
+G H train 8922
+X H train 9676
+G X taxi 7344
+O X train 1334
+H G plane 9692
+S F taxi 5654
+G O plane 1251
+S F train 8976
+G S taxi 7088
+C P train 589
+S C train 1360
+X C train 629
+C G taxi 5900
+S H taxi 7121
+H P taxi 3417
+C H bus 575
+H C plane 5624
+S C bus 308
+H G bus 1801
+P X taxi 6523
+S O taxi 3318
+X F taxi 4316
+S P plane 653
+P F taxi 2287
+O C taxi 1299
+P C taxi 2078
+H X taxi 8940
+X G plane 6255
+G F train 9132
+S X bus 2234
+F H taxi 2121
+F G taxi 8613
+G P train 3175
+G X train 2944
+H 26
+train
+taxi
+train
+train
+taxi
+taxi
+taxi
+train
+train
+bus
+train
+taxi
+train
+taxi
+plane
+train
+train
+plane
+taxi
+taxi
+bus
+train
+taxi
+bus
+train
+train
+54
+I W taxi 4281
+I K train 8202
+Y W taxi 553
+T I bus 7911
+Z S bus 7504
+S I taxi 1060
+J K train 8679
+T S train 9955
+I H train 4820
+K J bus 9768
+I W plane 6271
+H Y train 1043
+J Y train 4435
+H T plane 8741
+S J taxi 218
+T J taxi 7331
+H W train 8039
+O Z train 6893
+S T taxi 6143
+S I train 8597
+J Z bus 4925
+O T taxi 1754
+Y H taxi 9601
+H O plane 7242
+T S bus 2687
+I W train 9545
+K O plane 2880
+S J train 5032
+Y S train 7712
+W S train 2460
+S J bus 8901
+T Y taxi 2221
+Y H bus 1135
+T S plane 9559
+W T plane 6427
+J Y plane 7560
+T J train 3128
+K H train 6806
+W Z taxi 7618
+T J plane 4989
+O S plane 4560
+W O train 7313
+K Y taxi 5447
+O Z taxi 8219
+Z I plane 7220
+J O taxi 8422
+O Y taxi 1962
+S Y taxi 1459
+T K train 5689
+Y K train 6034
+J H taxi 2354
+T Y bus 5945
+O I plane 3027
+T W bus 3167
+W 38
+plane
+taxi
+taxi
+plane
+taxi
+train
+train
+plane
+train
+train
+taxi
+taxi
+plane
+plane
+taxi
+bus
+bus
+bus
+taxi
+bus
+train
+taxi
+bus
+bus
+bus
+bus
+train
+taxi
+bus
+train
+taxi
+plane
+plane
+taxi
+train
+taxi
+bus
+train
+39
+B Z train 9736
+Z H taxi 9682
+E Z bus 7970
+E N plane 8819
+B N bus 7689
+H B train 1502
+E Y train 6705
+Y N plane 9765
+H O train 7958
+Y I taxi 1090
+H Z plane 6284
+O Z bus 2089
+O B plane 8417
+Z I plane 8940
+E H plane 2874
+O Z train 2067
+Y N bus 8232
+Z E train 704
+O N plane 555
+N I train 2586
+E O bus 5898
+H N bus 4463
+N B train 757
+B Y plane 7819
+I B bus 5700
+O Y bus 3675
+N Z train 1553
+H Y taxi 8582
+H B plane 8477
+O Z plane 3405
+Z B bus 832
+I Z train 2053
+B H bus 5275
+B N plane 3035
+O B bus 748
+N H plane 9630
+H Z bus 9953
+N B taxi 2935
+N E train 1178
+I 22
+taxi
+taxi
+train
+plane
+bus
+bus
+train
+bus
+bus
+bus
+train
+bus
+plane
+train
+bus
+taxi
+train
+bus
+plane
+plane
+bus
+bus
+33
+C A train 5847
+R H plane 9364
+A R plane 3263
+D R bus 7923
+C A plane 9351
+A R taxi 9699
+D H taxi 9812
+C D plane 2982
+A W bus 1462
+C A bus 5804
+W D taxi 7598
+H W plane 3203
+W A taxi 8649
+R P plane 1148
+R D taxi 2101
+P H bus 1928
+P K train 9806
+H R train 6493
+D C bus 2687
+K R bus 2881
+H A plane 1057
+D C train 199
+C W plane 3093
+P C train 3586
+R W taxi 8258
+R W bus 1256
+P W train 2661
+W K bus 9088
+P H train 5715
+R K train 6739
+K C bus 8772
+R K plane 6375
+W K plane 3489
+R 31
+taxi
+train
+bus
+bus
+train
+plane
+bus
+plane
+plane
+plane
+taxi
+plane
+bus
+plane
+train
+train
+plane
+train
+plane
+bus
+bus
+plane
+bus
+train
+bus
+bus
+bus
+bus
+taxi
+plane
+plane
+56
+J W train 6643
+G H bus 1915
+G Z taxi 1287
+W Y bus 101
+K A train 224
+H J taxi 6420
+H Q train 2282
+W Q train 3726
+M Q train 9037
+A J plane 8468
+J K taxi 2175
+A Z plane 901
+Y M plane 8921
+M J train 8373
+Q M bus 9217
+W K train 7405
+W K bus 5158
+G A train 7408
+J K plane 7416
+H K train 3960
+A J train 2028
+Q Y train 2709
+Z M plane 362
+G Z plane 5092
+A K bus 3855
+K J train 3584
+Q H bus 5000
+K A taxi 6550
+H Z train 1073
+J M plane 1412
+K Z taxi 1799
+Z W bus 312
+G Y plane 7805
+H Q plane 9418
+J Z taxi 2809
+J Q taxi 117
+Z J bus 6712
+W Y plane 517
+H K plane 9003
+Z H bus 9664
+Z W taxi 2787
+K H bus 4605
+J Z train 577
+W A taxi 4224
+H K taxi 3416
+W G train 6623
+W G taxi 3091
+W K taxi 622
+M H plane 2286
+A Z taxi 6064
+Y Z plane 9268
+J W plane 3214
+M A taxi 8896
+G H train 5965
+G H taxi 9398
+H A plane 7444
+Z 27
+taxi
+taxi
+plane
+plane
+train
+plane
+plane
+taxi
+taxi
+train
+train
+train
+train
+plane
+bus
+train
+train
+train
+train
+plane
+plane
+train
+bus
+taxi
+train
+plane
+bus
+46
+L C plane 3204
+S L taxi 8037
+O Z plane 805
+P O bus 8816
+O S train 7344
+C W plane 2286
+S A train 1319
+C P taxi 5272
+N S train 1897
+P W plane 9564
+Z A bus 2783
+N P plane 5065
+Z C bus 1024
+L P taxi 9660
+A O taxi 560
+N L taxi 9854
+W O plane 2987
+N O plane 5192
+A W train 4259
+L W bus 3158
+L C taxi 8618
+A N bus 9921
+S P train 2751
+L Z plane 482
+W Z bus 921
+W L plane 4366
+O W bus 5689
+C N bus 136
+N C plane 7452
+S A bus 5334
+W P taxi 3131
+P S taxi 7064
+O A train 3880
+L S train 8950
+C S bus 5190
+S Z plane 9857
+A P plane 5309
+S N taxi 5863
+Z C plane 7030
+A N plane 5667
+W S taxi 3847
+P Z train 1829
+O A bus 5261
+O W train 7781
+S A taxi 5045
+S A plane 2528
+C 24
+taxi
+train
+train
+train
+plane
+train
+taxi
+bus
+plane
+plane
+train
+train
+plane
+taxi
+train
+taxi
+bus
+plane
+bus
+bus
+plane
+train
+plane
+plane
+36
+B U taxi 7396
+T V train 6007
+L F bus 2186
+B W plane 3619
+L W train 6050
+U T bus 844
+V B taxi 7718
+F U bus 3279
+L W bus 1426
+W V taxi 8064
+S W bus 4632
+T F taxi 1226
+T F train 9812
+W T train 2695
+V B train 777
+T S bus 7972
+B F train 557
+S U bus 8012
+B L taxi 8786
+S F train 4275
+F V bus 1549
+L B train 118
+T U taxi 893
+F L taxi 199
+U B train 2095
+W U plane 3252
+V S plane 8061
+U W train 2179
+W B train 7638
+W F bus 9541
+F B plane 7364
+S B plane 3984
+W B taxi 2579
+L B plane 3940
+F W train 8698
+S F taxi 5023
+F 36
+taxi
+train
+plane
+bus
+plane
+taxi
+train
+taxi
+train
+taxi
+bus
+train
+taxi
+train
+bus
+plane
+plane
+bus
+train
+train
+taxi
+train
+taxi
+bus
+train
+bus
+train
+train
+plane
+bus
+train
+train
+train
+train
+bus
+train
+54
+Q R taxi 6682
+W A plane 5959
+B C plane 1282
+R Z taxi 839
+R B train 2891
+W A train 9574
+Y C plane 3293
+G Z bus 9748
+Z W train 407
+F B train 8227
+A R bus 5378
+Q F bus 9396
+A B bus 5280
+G Y bus 8308
+F G bus 7570
+R A train 6088
+W R plane 141
+G W train 302
+R C plane 8633
+C Z plane 6840
+W F taxi 3173
+G C plane 6086
+Y Q plane 626
+C Z taxi 5955
+W G plane 4539
+A C bus 2766
+A G train 7794
+A B plane 6522
+A F plane 8882
+G A bus 1913
+W A bus 7120
+C Q taxi 5816
+Y R plane 3162
+C W taxi 5017
+Z B plane 6316
+Q C bus 8239
+R G taxi 2506
+F A taxi 2826
+W B bus 9925
+Z C bus 3916
+Q A plane 3048
+Z Y train 7418
+R F plane 7758
+A Z plane 3024
+Y W train 835
+R Y taxi 796
+Q G taxi 3471
+A C taxi 6699
+G F taxi 4681
+Y B train 4164
+A Q taxi 1183
+Y Q bus 7939
+A Y bus 3552
+A C plane 9358
+A 28
+train
+plane
+taxi
+taxi
+plane
+plane
+bus
+bus
+plane
+train
+taxi
+train
+train
+taxi
+plane
+taxi
+taxi
+bus
+taxi
+plane
+train
+plane
+plane
+plane
+plane
+taxi
+bus
+taxi
+38
+A L train 1176
+P R plane 6339
+R A taxi 2377
+L J taxi 5163
+R L taxi 4981
+J G bus 5510
+J R plane 2261
+E M bus 9477
+P J train 5110
+M A bus 9708
+L J bus 6780
+E A bus 292
+M E taxi 5606
+G J plane 3747
+L G bus 5931
+M G plane 6027
+J A train 4827
+R G train 2576
+L P train 5551
+L M plane 9955
+J A taxi 3494
+A J bus 499
+P M taxi 2763
+E J bus 2401
+P R bus 8640
+G P plane 4360
+J E train 5599
+R L plane 1195
+G J taxi 9612
+R E plane 1276
+G L plane 9456
+M J plane 6041
+G R plane 6523
+J L train 6547
+G P taxi 8072
+E P train 2444
+E L train 9355
+E P taxi 8315
+L 24
+plane
+taxi
+train
+taxi
+train
+bus
+train
+taxi
+taxi
+taxi
+bus
+bus
+train
+plane
+taxi
+plane
+plane
+train
+taxi
+taxi
+taxi
+plane
+plane
+train
+41
+O H taxi 243
+R X taxi 6412
+D Q plane 3780
+Q X taxi 3061
+R Q bus 716
+G X plane 5927
+R D train 2239
+O R taxi 3205
+D R plane 3332
+R Q plane 5486
+Q W taxi 1205
+H U plane 3113
+H Q bus 7479
+U X train 7548
+H Q train 1811
+D H plane 4054
+O H train 7997
+W O train 9899
+H R train 9333
+R U bus 1168
+R X train 7055
+Q H plane 5898
+O D plane 6932
+O X train 3534
+R X bus 6012
+W Q plane 9109
+U H train 1147
+R G plane 7355
+Q W bus 5817
+X H taxi 237
+U X plane 1846
+G W train 7277
+R G bus 9973
+O U plane 9359
+O H bus 1944
+D H taxi 1300
+O G taxi 873
+D H train 2597
+G H plane 5165
+R U plane 7364
+U H bus 902
+H 34
+bus
+plane
+taxi
+bus
+plane
+plane
+plane
+train
+bus
+bus
+bus
+bus
+plane
+bus
+taxi
+train
+taxi
+plane
+plane
+plane
+bus
+taxi
+taxi
+plane
+plane
+bus
+train
+taxi
+taxi
+train
+taxi
+taxi
+plane
+taxi
+60
+X M taxi 130
+Y S taxi 5758
+V B bus 3170
+X W plane 205
+G R bus 2272
+U S train 8668
+U S taxi 4737
+B M bus 3103
+M Y plane 1285
+V B taxi 2457
+W B bus 4143
+W R bus 4484
+Y S bus 4261
+Y G taxi 5259
+Y B taxi 756
+U S plane 8222
+G U plane 345
+B R plane 9460
+Y B train 7612
+M G bus 2920
+W U plane 6033
+R U taxi 3861
+G M train 8876
+U B taxi 8030
+S V train 9274
+B G train 2225
+U B plane 5850
+B X bus 6493
+Y X train 7323
+M S plane 1898
+R V taxi 143
+W V train 5463
+X V train 6989
+R M plane 7065
+W Y train 6535
+G B plane 4323
+V W bus 7962
+Y M taxi 8750
+G U bus 2390
+X B taxi 3631
+Y U plane 5362
+R B taxi 6786
+B S train 1344
+W G plane 6768
+U Y bus 2610
+U V train 9238
+S W bus 3066
+R X plane 6970
+U M train 6577
+R V bus 647
+U W train 8156
+U W bus 8069
+U V plane 1571
+V X taxi 1421
+U M bus 905
+S G plane 2224
+B X plane 6665
+B R bus 6439
+M G taxi 4063
+G R train 5565
+G 23
+bus
+bus
+bus
+train
+train
+bus
+bus
+plane
+plane
+bus
+plane
+plane
+bus
+train
+taxi
+taxi
+bus
+bus
+plane
+plane
+plane
+plane
+bus
+38
+F G taxi 272
+G E taxi 110
+G Q plane 4916
+Q B plane 7626
+G D train 1697
+G B bus 1963
+F Y train 6772
+Q E taxi 8890
+E Y bus 4773
+Q B bus 9269
+F Y plane 2982
+G Q bus 9912
+O F taxi 9668
+Y E plane 4505
+O G plane 1438
+Q Y bus 1263
+Q E bus 3978
+F B train 7328
+B D taxi 8834
+D Q train 3100
+Y G bus 7714
+O G taxi 4289
+Q F train 8616
+G Y taxi 4746
+D Q plane 8561
+B D train 9071
+E B bus 2450
+E D plane 2285
+Y B plane 7622
+G O bus 3410
+G E bus 6171
+O D train 8430
+Y Q train 4650
+Y B bus 7554
+F D bus 1140
+D O plane 1836
+O B plane 8032
+F E train 2318
+G 28
+taxi
+train
+plane
+bus
+plane
+taxi
+plane
+bus
+bus
+bus
+taxi
+plane
+plane
+train
+plane
+plane
+bus
+bus
+bus
+taxi
+bus
+bus
+bus
+plane
+bus
+train
+train
+bus
+45
+Z X train 5634
+E N train 4023
+B D plane 9228
+G B bus 2613
+Y E plane 7347
+D Z plane 8736
+T B train 9019
+Y X train 4624
+T N bus 883
+N D taxi 7536
+D N bus 5140
+X N train 8671
+G E plane 4016
+B Z bus 9581
+N G taxi 511
+X B train 2630
+T D plane 206
+N B plane 5629
+T Z taxi 2548
+D X bus 762
+G T train 4289
+Y B train 4680
+G B plane 8021
+B Y bus 8816
+E D plane 4298
+X G taxi 790
+X N bus 9395
+Z N bus 8316
+D X plane 9045
+Z G taxi 1044
+Z T train 6086
+Z N taxi 7752
+T Z bus 8278
+T X plane 7269
+T B plane 5317
+B T bus 6930
+Y T train 3920
+Z E train 2492
+N Y plane 6386
+T Y bus 5353
+X Y bus 600
+Z D train 7337
+X G train 2417
+B N taxi 3529
+X T taxi 7758
+D 29
+bus
+train
+bus
+plane
+plane
+plane
+plane
+bus
+taxi
+train
+plane
+train
+taxi
+train
+bus
+bus
+plane
+train
+train
+train
+bus
+taxi
+bus
+train
+taxi
+train
+plane
+taxi
+train
+36
+P J train 4484
+W D plane 4706
+P Z train 2505
+J X train 9890
+X Z bus 5824
+P W train 9184
+D W taxi 1465
+X D train 8117
+X N train 4021
+W D bus 3790
+Z G bus 7732
+W Z plane 178
+J N plane 9827
+G X taxi 7239
+J W train 403
+J P taxi 6508
+D N taxi 4824
+N P bus 9860
+P W bus 3322
+Z X train 7894
+P W taxi 3331
+G D taxi 9953
+D N bus 4366
+X D plane 2721
+D G bus 5586
+W Z taxi 1286
+P D plane 4307
+W N train 1144
+J D train 4614
+Z G taxi 9312
+D X taxi 6197
+G J train 5523
+X N bus 4250
+W N taxi 6869
+X J taxi 1974
+P N plane 9442
+P 20
+train
+taxi
+bus
+bus
+taxi
+taxi
+bus
+taxi
+train
+train
+bus
+train
+bus
+train
+plane
+taxi
+bus
+bus
+taxi
+train
+48
+J O train 8862
+J E taxi 3383
+Q W bus 3746
+H I bus 6897
+K U train 8098
+E I train 5736
+I J train 8338
+Q E bus 9857
+O Q plane 3481
+U I bus 115
+W E plane 9235
+I K train 3723
+K J plane 7100
+H K taxi 1976
+H W taxi 5830
+E O plane 9699
+H U train 9266
+J K train 6200
+H O train 8932
+E J train 6042
+U E train 3518
+W O train 2061
+I H plane 6834
+Q H taxi 2315
+O I bus 6782
+E I plane 8561
+J H taxi 4235
+U O taxi 4571
+H I train 7015
+Q I taxi 4289
+K J bus 4891
+Q O train 7112
+Q K taxi 4985
+O J bus 6529
+Q E train 3803
+K O plane 8367
+K H plane 4757
+H O plane 3554
+I J bus 4881
+W J train 9584
+J Q bus 1949
+O J taxi 2799
+U Q train 9311
+U E taxi 6189
+J U bus 801
+I K bus 8169
+K W taxi 6922
+K E bus 5107
+E 39
+bus
+taxi
+train
+bus
+train
+plane
+taxi
+taxi
+bus
+train
+taxi
+train
+bus
+plane
+taxi
+bus
+train
+bus
+train
+train
+train
+plane
+taxi
+plane
+plane
+taxi
+plane
+train
+plane
+train
+train
+taxi
+train
+bus
+plane
+taxi
+taxi
+plane
+train
+52
+C H bus 2275
+G R taxi 2902
+W X taxi 5684
+L H bus 2450
+W G train 8238
+K X train 5272
+L C bus 1272
+W G plane 6375
+X S taxi 6668
+H S taxi 4061
+G C plane 9932
+G C train 4265
+K X plane 3937
+H W bus 3165
+R W bus 4686
+H L taxi 4855
+R C taxi 502
+C L train 4621
+R W taxi 7097
+C R plane 5772
+L C plane 1404
+W C plane 7334
+K R plane 4645
+L C taxi 777
+X G bus 8408
+R C train 914
+S X plane 4097
+X G train 6788
+Z L train 9868
+G Z plane 7960
+G H train 5085
+G Z bus 1602
+L R taxi 656
+H R bus 9160
+S K plane 5845
+S W train 7736
+C R bus 3178
+L K taxi 1115
+G Z train 8749
+K L plane 9058
+G S plane 4396
+C S train 6771
+R G plane 4164
+K R bus 5816
+S Z taxi 1689
+S L plane 7078
+Z C taxi 9719
+W L plane 3533
+W G taxi 1751
+C W taxi 7241
+Z S plane 4363
+W L train 5535
+K 38
+plane
+taxi
+train
+taxi
+train
+bus
+bus
+plane
+plane
+taxi
+taxi
+bus
+bus
+plane
+train
+plane
+taxi
+plane
+plane
+plane
+train
+taxi
+train
+plane
+train
+bus
+taxi
+plane
+bus
+plane
+plane
+plane
+train
+bus
+plane
+plane
+train
+plane
+47
+T X bus 8236
+X Z plane 8669
+P L train 2021
+S E taxi 4177
+Z S train 2309
+S I plane 8274
+S P plane 1504
+T L taxi 7558
+L B taxi 9332
+X E taxi 2200
+B X plane 4402
+T P plane 4679
+L S plane 3739
+S X plane 4873
+L X taxi 2348
+Z T plane 3772
+I B taxi 6371
+S L bus 1477
+I Z plane 2970
+B P train 8572
+S B bus 4879
+E L bus 4838
+B X taxi 6851
+E L train 8907
+P X plane 8139
+I X bus 5092
+P E bus 7056
+Z E taxi 8110
+T S taxi 2336
+P T bus 1675
+P L taxi 7070
+I Z taxi 4160
+E I taxi 1114
+T B bus 1081
+B X train 4921
+P Z bus 3463
+L I train 3582
+Z L train 542
+T X plane 6408
+B L plane 3047
+E P taxi 9913
+B E bus 5217
+I Z bus 375
+B Z taxi 6548
+B E plane 4356
+Z X taxi 4741
+B T plane 7374
+Z 39
+train
+train
+bus
+taxi
+train
+plane
+taxi
+plane
+bus
+plane
+bus
+taxi
+train
+taxi
+taxi
+taxi
+taxi
+taxi
+bus
+plane
+bus
+plane
+bus
+bus
+bus
+bus
+bus
+bus
+bus
+taxi
+bus
+taxi
+bus
+plane
+plane
+train
+bus
+taxi
+plane
+38
+M W taxi 3678
+E S taxi 4279
+A E train 4679
+E P plane 4748
+P K train 3043
+K M plane 748
+A K taxi 8023
+E H plane 5904
+W M bus 1555
+A P train 277
+E S train 9574
+M H bus 3585
+E W plane 723
+H S bus 1907
+M P taxi 1434
+W A train 1062
+E A bus 1271
+M E bus 9678
+M E train 3949
+K M train 9204
+P W train 2633
+S H train 7498
+W H plane 9409
+P H plane 5100
+P A plane 1697
+K P bus 5405
+H M taxi 1753
+S W bus 1051
+W K bus 5487
+E H taxi 1471
+W P plane 8584
+P S taxi 5144
+P W taxi 6027
+P H bus 569
+M E taxi 7828
+A M taxi 5148
+M H train 1814
+A P taxi 3516
+A 20
+train
+taxi
+plane
+bus
+plane
+bus
+train
+plane
+taxi
+bus
+plane
+train
+bus
+bus
+taxi
+plane
+train
+train
+bus
+taxi
+45
+Z W bus 134
+T W plane 2885
+W O train 9161
+O T bus 4040
+G U plane 8080
+J B plane 8731
+G W bus 9878
+T Z bus 3432
+Q Z plane 1457
+G W taxi 2801
+G B plane 8922
+T Q train 6968
+U Q plane 6978
+J U plane 1054
+Z J plane 7689
+Z J taxi 8109
+W Q taxi 5111
+W T taxi 9989
+B U train 7610
+G Z plane 4408
+Z O train 1590
+U G taxi 8821
+W J train 4971
+W G train 424
+T O taxi 3707
+Q B plane 1645
+Z Q taxi 4313
+B Z plane 5641
+Q U bus 3089
+W Z taxi 1464
+U B bus 1237
+W J plane 2365
+Z B taxi 8832
+U B taxi 1819
+G Z bus 3417
+B T taxi 8046
+W O bus 7396
+U T train 347
+U W taxi 2241
+W B bus 4005
+O W taxi 4566
+W Z plane 1752
+O Q plane 7470
+Q W bus 9822
+J T train 8573
+U 20
+plane
+bus
+bus
+train
+taxi
+taxi
+bus
+taxi
+taxi
+plane
+train
+plane
+bus
+bus
+train
+taxi
+plane
+plane
+taxi
+taxi
+49
+X G bus 3908
+G I bus 4556
+I E plane 7441
+I C plane 8976
+K O train 6489
+A I plane 3285
+A O plane 5082
+G M plane 7208
+A C taxi 5698
+G K taxi 2407
+I E train 2634
+C X plane 6474
+M G bus 8069
+X G plane 7607
+O X plane 1958
+M C taxi 2232
+K A plane 7742
+A O train 7705
+C E train 535
+C G bus 6071
+I K taxi 5338
+A M plane 2179
+O I train 899
+O G taxi 5206
+M O plane 1271
+E G taxi 1659
+M G train 4117
+A G plane 7897
+K G bus 9851
+C I taxi 7863
+M X bus 9670
+O M bus 2596
+C K taxi 4714
+C X train 6554
+X A plane 3251
+O C taxi 7140
+E O bus 2649
+M G taxi 9008
+E K taxi 9170
+I X plane 7500
+O E plane 4630
+M K plane 482
+X C taxi 771
+E I bus 7112
+K I plane 3360
+I M train 2570
+I M taxi 5251
+O G plane 8518
+G X train 4865
+E 36
+bus
+taxi
+taxi
+train
+plane
+plane
+plane
+plane
+taxi
+train
+plane
+plane
+bus
+plane
+train
+plane
+plane
+plane
+train
+taxi
+taxi
+taxi
+taxi
+plane
+plane
+bus
+bus
+train
+bus
+bus
+taxi
+bus
+train
+plane
+taxi
+plane
+34
+D M bus 4992
+N P plane 6739
+M P train 1080
+N P train 6006
+M N train 4624
+C B plane 407
+U N bus 3054
+B M plane 7933
+P S taxi 8415
+S D train 1955
+P N bus 755
+U B taxi 6359
+M U plane 7716
+U S train 9433
+M N bus 7919
+B P taxi 450
+N M taxi 459
+D M taxi 8179
+C S bus 9698
+D C plane 2605
+P M plane 9766
+N B taxi 4910
+D P taxi 3375
+D P train 6206
+U M bus 7550
+C U bus 1451
+N S taxi 4339
+C D train 3476
+B P train 3140
+D N plane 7760
+B S train 5577
+C B train 2419
+B U bus 4717
+C N bus 6286
+U 27
+bus
+taxi
+plane
+train
+taxi
+plane
+plane
+train
+taxi
+train
+train
+plane
+bus
+taxi
+train
+train
+train
+taxi
+plane
+train
+taxi
+taxi
+train
+taxi
+train
+taxi
+train
+60
+P X taxi 8092
+B L bus 8806
+M N plane 1333
+B N bus 1726
+A P bus 6202
+X N taxi 8064
+D Q taxi 583
+A G train 7266
+D G bus 7415
+B D taxi 8416
+D M train 1231
+D X plane 5913
+L P train 8534
+P M bus 9395
+D X bus 4312
+B M train 698
+P X bus 7976
+A M taxi 9556
+D A train 9606
+D B plane 7336
+P L plane 8227
+P N taxi 6503
+M B plane 8696
+D Q plane 767
+M N train 8981
+N Q plane 629
+Q B plane 455
+G A taxi 2772
+P G bus 5003
+Q L train 3534
+G X taxi 6349
+X A taxi 2837
+N A plane 1160
+A M bus 3804
+P M train 1783
+X N plane 2481
+G D plane 4203
+M X plane 7895
+B Q train 3446
+N D taxi 8109
+Q X plane 2252
+X G bus 1542
+L P taxi 645
+Q P taxi 7224
+M B taxi 8799
+B N taxi 2221
+Q P bus 7689
+B D train 4879
+L D plane 3509
+P B plane 985
+G L bus 2786
+A D bus 9903
+L M taxi 4588
+Q M bus 2619
+L X train 6706
+A X plane 5494
+G P taxi 9593
+B X bus 3096
+X L taxi 5022
+Q B taxi 3631
+Q 36
+taxi
+plane
+plane
+train
+bus
+taxi
+plane
+taxi
+train
+taxi
+plane
+taxi
+plane
+train
+train
+taxi
+taxi
+train
+taxi
+train
+plane
+plane
+taxi
+train
+plane
+plane
+plane
+taxi
+bus
+taxi
+bus
+plane
+plane
+taxi
+plane
+train
+51
+D H train 1336
+K V taxi 770
+V E taxi 4843
+D Q taxi 6504
+D Q plane 8541
+C U plane 2994
+E Z train 556
+H Q bus 4674
+K H train 9835
+D E train 475
+R H train 9089
+Z Q plane 5868
+E U bus 2920
+C Z taxi 2242
+Z R bus 837
+K H plane 4053
+V D train 2775
+D V taxi 9578
+D U train 8429
+Q V train 8813
+U V bus 6078
+Q C plane 3904
+E K taxi 9995
+Z Q taxi 7678
+Q R plane 6194
+C U taxi 938
+V D bus 9107
+R D train 1203
+U Q taxi 7124
+V R taxi 8861
+Z K train 5579
+E U taxi 7581
+E R train 4506
+K D bus 5884
+K R plane 8244
+D V plane 9208
+C R train 1626
+H C taxi 7216
+V H plane 8479
+C R taxi 6977
+V H train 6862
+K Q taxi 313
+R H taxi 4963
+K V plane 7768
+D C taxi 1024
+Q Z bus 1299
+D H bus 9813
+Q V plane 3144
+R V bus 4270
+H E train 4032
+V H taxi 3839
+V 33
+taxi
+taxi
+train
+train
+taxi
+bus
+bus
+taxi
+taxi
+plane
+plane
+taxi
+taxi
+train
+train
+plane
+plane
+plane
+bus
+taxi
+plane
+taxi
+plane
+taxi
+plane
+bus
+taxi
+taxi
+train
+train
+bus
+taxi
+taxi
+54
+L U train 7787
+K V train 6002
+V U bus 3956
+T L plane 2816
+L F bus 2500
+V L taxi 7455
+O Y bus 7571
+K U taxi 2382
+F Y bus 7729
+O Y train 3585
+Y L bus 2839
+Y V plane 8979
+K F train 5495
+V G train 4271
+Y F taxi 4562
+T K plane 2301
+V H train 1254
+O U bus 6863
+H Y bus 780
+L O bus 6026
+O L plane 3693
+K L plane 3833
+U Y plane 5541
+F O taxi 5669
+L G taxi 748
+V H bus 3737
+T H bus 4982
+L T train 8524
+F H train 2400
+K F bus 8850
+L Y taxi 198
+H K bus 6223
+K U plane 8821
+U O taxi 4218
+L H taxi 9600
+F O plane 8004
+G K bus 6673
+V K bus 3011
+Y U train 3225
+Y L train 2088
+F H bus 6486
+O K train 2243
+U L taxi 4155
+H G bus 1170
+G U taxi 534
+T V plane 6218
+T Y train 1630
+G F train 8067
+F L taxi 5504
+U K train 4373
+G T train 9242
+G Y taxi 6674
+F V taxi 8632
+O U plane 5780
+L 39
+train
+plane
+taxi
+bus
+taxi
+plane
+bus
+bus
+plane
+taxi
+train
+bus
+train
+bus
+taxi
+plane
+train
+train
+bus
+bus
+bus
+bus
+bus
+train
+train
+taxi
+taxi
+taxi
+taxi
+taxi
+taxi
+taxi
+train
+train
+bus
+taxi
+taxi
+taxi
+train
+55
+B H taxi 7090
+M Z bus 2764
+F L bus 7698
+N B train 8419
+M J bus 3144
+B N bus 9859
+H M plane 5093
+L N plane 4979
+F X taxi 411
+L H taxi 3701
+B X plane 8308
+X H taxi 1415
+J H bus 8966
+B X taxi 7811
+N P train 6539
+J H plane 8899
+M X taxi 1726
+B Z plane 1244
+M F plane 9484
+J N bus 904
+F Z taxi 2392
+X M bus 4508
+L F train 2417
+Z N train 7532
+Z P taxi 8387
+F X plane 2134
+F J bus 7899
+Z F plane 9651
+M P bus 176
+P J plane 8384
+M J train 8591
+H M bus 9656
+Z B bus 7944
+N Z taxi 6472
+L P plane 4152
+H J taxi 1446
+X H plane 7432
+H N plane 9698
+L N bus 4597
+F H train 2244
+F J train 8863
+B F taxi 6801
+P L train 2073
+J P train 9626
+Z H bus 6835
+L P bus 4286
+H X bus 2134
+F N taxi 3335
+X N taxi 1371
+F H plane 9479
+J B train 8208
+X P plane 7181
+J N train 2090
+Z N bus 1446
+P X taxi 7300
+X 25
+bus
+bus
+bus
+plane
+taxi
+taxi
+train
+train
+train
+train
+plane
+plane
+plane
+train
+taxi
+bus
+taxi
+taxi
+plane
+bus
+bus
+taxi
+bus
+bus
+train
+33
+H R train 1912
+U A train 9041
+R U bus 2970
+H A taxi 3337
+B H taxi 6695
+N R plane 8616
+B W bus 805
+U N plane 3601
+U H plane 3305
+B Y bus 5933
+Y W train 7227
+Y N bus 9925
+N U bus 8017
+A B train 3659
+Y W plane 6238
+A W bus 3886
+U Y train 7574
+R N taxi 6469
+N H bus 8432
+N Y plane 9742
+A U taxi 8906
+R Y bus 4289
+A R taxi 9538
+H W bus 4679
+W U bus 4071
+H N train 2211
+H N plane 7737
+H B plane 5284
+W B train 581
+W A taxi 7213
+H R plane 4374
+H B train 8419
+R H taxi 8106
+U 25
+train
+taxi
+plane
+plane
+plane
+bus
+plane
+train
+train
+bus
+bus
+train
+taxi
+bus
+bus
+train
+train
+bus
+plane
+train
+plane
+plane
+taxi
+bus
+bus
+34
+A E train 5544
+J P taxi 7858
+E J plane 5480
+P A train 1369
+J R train 4923
+J P plane 6182
+F P bus 6409
+R V taxi 5443
+G F plane 9508
+F R plane 4153
+P R train 5474
+P F plane 5771
+A P plane 4880
+P E taxi 4846
+F R taxi 3208
+R P taxi 312
+V E taxi 8541
+V J plane 3886
+V F taxi 723
+P G plane 7971
+F P taxi 4156
+E A plane 5490
+E F train 6133
+P E train 5119
+V G train 1978
+V P taxi 3824
+R A train 8076
+E R taxi 7337
+E V bus 8345
+V G taxi 1186
+V P train 4254
+G F taxi 8837
+R J bus 8177
+A R taxi 1338
+J 31
+plane
+train
+plane
+bus
+bus
+taxi
+train
+taxi
+plane
+taxi
+taxi
+taxi
+plane
+bus
+plane
+taxi
+plane
+taxi
+taxi
+plane
+train
+bus
+train
+plane
+train
+plane
+taxi
+taxi
+train
+bus
+taxi
+39
+G N bus 4877
+G K plane 910
+N M plane 695
+N M train 7737
+Z D train 3712
+Z I train 7112
+M I taxi 2618
+G Q train 6043
+D I plane 1462
+N Q taxi 7477
+Z M plane 7358
+Z G plane 7014
+I Q bus 7729
+K M bus 1953
+I K bus 4477
+N D taxi 1157
+Z I plane 7608
+D K bus 2756
+Q K bus 9695
+D K taxi 9681
+G K bus 9341
+Q G bus 763
+N D train 7241
+D K train 7280
+I D bus 2927
+K M taxi 3693
+I M plane 1636
+G D taxi 9797
+M D taxi 4246
+I Q plane 2123
+I N taxi 8725
+D Z taxi 2769
+N Z bus 5062
+N G train 8490
+Z N taxi 995
+I K taxi 3643
+M K train 2881
+I K plane 9752
+D N bus 936
+G 30
+bus
+train
+train
+taxi
+bus
+plane
+train
+train
+bus
+bus
+plane
+train
+bus
+train
+taxi
+bus
+train
+train
+train
+bus
+taxi
+taxi
+train
+train
+train
+plane
+plane
+bus
+bus
+train
+40
+E R train 2874
+V P train 3396
+I E plane 7844
+Y P taxi 1253
+L I bus 4733
+P R bus 2724
+I V taxi 6893
+I E taxi 2423
+L F train 8903
+V E plane 7903
+Y F bus 6232
+V L taxi 4085
+I F bus 3911
+E P plane 6242
+R L plane 3959
+Y I train 9728
+Y R taxi 8891
+V E train 7999
+I F plane 3362
+F I train 9903
+Y F plane 6224
+E V bus 1529
+V P plane 6913
+P F taxi 9419
+V F train 6701
+P Y train 3026
+Y R train 4850
+F E taxi 4389
+R L bus 7771
+Y L taxi 6727
+P R plane 3472
+F P bus 5048
+P I bus 3529
+V F bus 9616
+R V plane 5063
+V Y train 9945
+L V plane 2567
+Y L plane 7711
+E R plane 7297
+R E taxi 4682
+L 24
+plane
+plane
+train
+bus
+taxi
+plane
+plane
+plane
+bus
+plane
+taxi
+taxi
+taxi
+plane
+taxi
+taxi
+plane
+plane
+plane
+taxi
+bus
+bus
+train
+bus
+59
+A R train 6212
+J K train 631
+N A bus 1223
+B J train 8533
+V J taxi 7504
+K Z train 5923
+J Z plane 2310
+R W taxi 2950
+A Z plane 5040
+B W taxi 7474
+V R plane 6349
+K B plane 6497
+A Z train 488
+R V train 1984
+J N train 2305
+A K taxi 4730
+K W train 6681
+N R train 8911
+B A taxi 8787
+N V train 4610
+K V taxi 571
+Z J train 581
+W B plane 7116
+E W plane 2714
+B E plane 1056
+E J plane 7051
+A E train 5032
+B V taxi 7508
+E J train 9644
+J B plane 5291
+K E taxi 242
+J W plane 5031
+E B bus 7691
+J B bus 5609
+Z K bus 7427
+R Z train 6705
+B N taxi 1722
+N E bus 342
+V A train 5211
+Z W train 5844
+A R taxi 5224
+K Z taxi 7900
+W R plane 4195
+J A taxi 9332
+J K bus 1481
+K V bus 2498
+K A plane 3146
+V K train 2432
+Z E train 9872
+W N train 355
+R B train 6047
+J A plane 8770
+W J train 2684
+A J train 2771
+Z V taxi 1948
+R K train 7395
+K W taxi 9130
+V E train 3346
+E Z bus 1886
+B 32
+taxi
+train
+taxi
+plane
+train
+plane
+plane
+train
+plane
+plane
+taxi
+train
+taxi
+train
+train
+taxi
+taxi
+bus
+train
+taxi
+train
+train
+plane
+bus
+plane
+train
+train
+taxi
+train
+train
+taxi
+taxi
+55
+O U plane 7528
+R D plane 1270
+M U taxi 6064
+M P train 9467
+H R plane 8601
+U J bus 2545
+O H bus 2174
+J U taxi 341
+O G train 9641
+O I taxi 4914
+G H bus 9531
+O J plane 3299
+J M train 6754
+U O train 9708
+I R bus 9570
+M H plane 3326
+U P plane 5125
+I U train 1563
+D P taxi 3693
+R M bus 7749
+U R plane 1593
+U P train 5772
+H U train 8465
+P J taxi 6647
+D U bus 5785
+D U taxi 7883
+P M plane 1023
+I P plane 5364
+G J train 9966
+U H plane 5220
+O P taxi 2840
+G R taxi 3377
+J P plane 2276
+D P plane 4340
+M P taxi 2465
+J R taxi 381
+G R plane 7586
+J G plane 428
+O I train 3442
+O P train 3555
+U G bus 7359
+R D bus 6182
+H J plane 6723
+O M train 1752
+I O bus 1060
+D M plane 1520
+J M taxi 3918
+M I train 8021
+I M plane 6838
+P I taxi 5348
+H R bus 1457
+R P train 4353
+I U bus 7542
+H J taxi 1559
+R O taxi 7758
+H 27
+plane
+taxi
+taxi
+taxi
+train
+bus
+train
+plane
+bus
+bus
+taxi
+train
+taxi
+train
+plane
+plane
+plane
+taxi
+taxi
+train
+train
+bus
+plane
+plane
+plane
+taxi
+train
+39
+B K bus 2176
+C U train 5993
+Z Y bus 5492
+Z B bus 5280
+U S plane 776
+C Z bus 2561
+X Z bus 9506
+K C bus 1857
+U Y bus 181
+C U bus 7927
+Z S train 6252
+Z C plane 9537
+X Y plane 7063
+X B bus 1744
+K Z train 416
+U Y train 9776
+X B taxi 1758
+Y B bus 4047
+C Z train 2102
+Y C taxi 6450
+Y C plane 1733
+S X plane 3679
+Y K taxi 5557
+B X train 3065
+Y B train 2884
+U S taxi 3492
+X C train 1154
+X K train 7431
+C B plane 5428
+S C taxi 4974
+U Y taxi 6751
+S U bus 4107
+Z S plane 2863
+U Z train 243
+C B bus 8436
+S K bus 4345
+Z C taxi 1571
+X U plane 325
+U K plane 8557
+Z 38
+bus
+bus
+bus
+plane
+bus
+train
+train
+bus
+bus
+plane
+train
+bus
+train
+taxi
+taxi
+taxi
+bus
+taxi
+plane
+train
+train
+bus
+bus
+taxi
+bus
+bus
+train
+plane
+train
+taxi
+bus
+taxi
+bus
+train
+plane
+bus
+taxi
+train
+60
+U P taxi 4829
+C T plane 1509
+D I taxi 8767
+U W plane 6686
+P T plane 8588
+P R bus 588
+I R bus 7685
+K R plane 2583
+P W plane 5250
+J T taxi 9161
+I D train 4222
+P K taxi 4921
+I T train 3450
+I C train 4556
+D C train 1196
+U J train 7001
+J C plane 4388
+R C taxi 8078
+D J plane 8360
+U W train 1745
+C I taxi 2557
+K W bus 6440
+T I taxi 4810
+T W plane 3645
+T D train 9550
+R D taxi 3101
+K R train 835
+W K taxi 4592
+T J bus 1961
+U T plane 3150
+W I train 5637
+K D plane 4633
+J W plane 492
+K D taxi 6182
+U P bus 3313
+I C plane 2744
+W D train 1126
+D C taxi 4799
+U R taxi 4450
+D K train 4589
+U C train 5994
+W R taxi 444
+I U taxi 7754
+W I bus 2238
+P U train 1451
+R T plane 3465
+P K plane 5870
+W P taxi 1660
+D R bus 6491
+U C taxi 1021
+I P plane 7286
+R C plane 702
+U D train 6290
+D W bus 4771
+D T taxi 4757
+R U plane 267
+D U taxi 4791
+K C plane 4562
+C T train 3530
+I C bus 1092
+I 36
+bus
+plane
+plane
+bus
+plane
+plane
+plane
+plane
+plane
+plane
+train
+plane
+plane
+plane
+train
+taxi
+plane
+plane
+plane
+bus
+taxi
+train
+train
+plane
+train
+train
+taxi
+train
+taxi
+bus
+plane
+taxi
+bus
+taxi
+plane
+train
+39
+U H taxi 469
+E F taxi 9448
+H R plane 9339
+T U taxi 5118
+F T taxi 3481
+E T plane 5754
+H J taxi 4887
+F T train 9154
+J W train 5562
+E H taxi 3616
+E W plane 7170
+U J bus 7952
+U T plane 2724
+H R taxi 1870
+E T taxi 5614
+H J train 3629
+W E taxi 723
+U W plane 791
+T H plane 9559
+H F bus 807
+H F train 4726
+W F bus 4359
+F U plane 1214
+R W taxi 3958
+J W taxi 5320
+H E train 9594
+U R bus 413
+W H bus 6827
+H U train 2118
+E U bus 5724
+F U train 6893
+F T bus 9162
+H W taxi 6951
+R J train 7238
+R H bus 2194
+W F train 880
+U R train 9939
+E J taxi 8224
+R F plane 7962
+E 36
+taxi
+plane
+train
+train
+taxi
+plane
+plane
+bus
+plane
+taxi
+taxi
+bus
+train
+train
+plane
+taxi
+train
+taxi
+train
+bus
+taxi
+taxi
+train
+train
+taxi
+bus
+plane
+plane
+plane
+train
+taxi
+train
+train
+plane
+train
+taxi
+34
+D H plane 9200
+I G train 3702
+E I taxi 4938
+I G taxi 1712
+G E train 6125
+G A train 6312
+H G train 7015
+A B bus 5142
+Z I plane 9065
+Z D plane 110
+B A taxi 1495
+A E bus 5673
+G D bus 7891
+Z H train 7461
+H B taxi 7654
+D A train 4249
+Z E taxi 8542
+H I taxi 1388
+A E train 9887
+B E plane 3189
+G H plane 5755
+I H plane 5172
+H D train 5275
+Z H plane 9180
+I D plane 1463
+D A bus 9526
+H E bus 6724
+G H bus 7007
+E Z plane 6198
+A Z bus 3122
+G A bus 7324
+H E train 4932
+B I bus 4835
+D B bus 9276
+H 25
+plane
+train
+train
+train
+bus
+bus
+bus
+taxi
+taxi
+bus
+bus
+taxi
+train
+train
+train
+train
+taxi
+bus
+bus
+bus
+bus
+bus
+bus
+train
+train
+57
+F A taxi 8076
+J K bus 2875
+H E taxi 8037
+E H bus 7025
+N K plane 3003
+A H plane 9693
+A F plane 8399
+K E plane 5981
+G H train 9019
+O G bus 1352
+E F bus 9508
+E G train 2862
+N F taxi 543
+K A plane 3749
+O E bus 2950
+B A taxi 5205
+O A bus 6527
+F K plane 6641
+O E plane 1164
+H G bus 6998
+A J taxi 7589
+B G taxi 8167
+J B plane 668
+F E train 2536
+J E train 802
+G F plane 2084
+B E plane 6090
+N E taxi 4716
+A B plane 8008
+J G plane 9279
+H O plane 4435
+O B bus 2382
+B H taxi 6304
+J H bus 8446
+E F plane 7322
+K E bus 1163
+A N taxi 4708
+F H plane 4237
+A B train 2257
+E F taxi 6163
+G O plane 3043
+B K train 5628
+K H taxi 3104
+K H bus 8297
+O F taxi 4706
+J F train 5197
+J K plane 3828
+K O bus 5866
+F K train 6772
+N J taxi 8289
+G O taxi 9104
+G A bus 2935
+J B taxi 6375
+F O plane 272
+B G plane 7214
+O H train 7632
+J F taxi 5525
+E 30
+bus
+train
+plane
+bus
+plane
+plane
+plane
+plane
+plane
+taxi
+plane
+plane
+train
+plane
+plane
+plane
+bus
+plane
+taxi
+taxi
+plane
+bus
+taxi
+taxi
+plane
+plane
+taxi
+taxi
+taxi
+bus
+40
+Y L plane 8667
+N O bus 7058
+J S bus 6516
+G S bus 6087
+N O plane 5675
+G B train 1620
+S Y bus 1007
+G N taxi 4023
+J O bus 9084
+Y G taxi 5607
+N L bus 2332
+S J train 3935
+O B bus 9314
+S J plane 5477
+J B bus 2539
+L G train 3337
+L B train 7315
+S J taxi 4269
+B S taxi 6175
+J N taxi 2365
+B G bus 8082
+N S plane 100
+J Y plane 4576
+O Y taxi 6470
+S L taxi 9428
+O S plane 3670
+N B bus 4163
+S G plane 3611
+B J plane 3613
+L O train 1201
+L G bus 2333
+G Y train 1513
+Y L bus 2588
+O G taxi 6185
+N Y taxi 4663
+Y B plane 1093
+J G train 2809
+B N train 805
+O Y plane 586
+N G train 2557
+L 22
+train
+train
+taxi
+train
+bus
+plane
+taxi
+bus
+plane
+plane
+train
+plane
+train
+bus
+taxi
+bus
+train
+bus
+train
+taxi
+taxi
+train
+44
+N P train 8630
+J P plane 3247
+Y P plane 2094
+N K plane 9830
+O K bus 3667
+Y B bus 7967
+Y V taxi 8825
+O P train 5633
+B O taxi 5938
+P Y taxi 2000
+O I taxi 140
+O N taxi 1320
+J N bus 8294
+K V bus 307
+J N train 6521
+K O train 2504
+O J taxi 5959
+K V taxi 5991
+I B bus 2578
+K P train 1491
+K N taxi 6852
+K I taxi 3726
+Y O train 6439
+O J train 8632
+J P train 9357
+Y V plane 500
+I N taxi 8864
+N J plane 7644
+P K bus 7687
+P J taxi 7150
+V O plane 8155
+P O bus 4035
+O Y plane 9182
+V P plane 1479
+O I train 5865
+K I train 2250
+J K train 5633
+N O bus 7486
+O I bus 9711
+I P train 4721
+N O plane 1177
+K I bus 894
+B K taxi 7572
+J O bus 9835
+O 39
+plane
+plane
+plane
+plane
+train
+train
+train
+taxi
+plane
+bus
+taxi
+taxi
+taxi
+bus
+taxi
+taxi
+train
+plane
+train
+train
+taxi
+bus
+plane
+plane
+bus
+bus
+bus
+bus
+taxi
+bus
+bus
+bus
+plane
+plane
+taxi
+bus
+plane
+train
+bus
+55
+J I train 2580
+A D train 5267
+P Y bus 3411
+S Y taxi 720
+D B train 1507
+Z S bus 2333
+Z Y train 9238
+J Z taxi 8652
+V Y plane 6022
+P J taxi 102
+B S taxi 5064
+A B taxi 158
+I Z train 612
+S A bus 9335
+D V bus 7263
+B A plane 7106
+P Z train 5251
+A I plane 6931
+Y V train 147
+B J plane 2423
+S I taxi 5577
+P I bus 5517
+Z D taxi 7633
+Y D bus 3264
+D A bus 6298
+B Y taxi 6380
+I S plane 2394
+S P plane 5038
+B Y plane 6389
+A V bus 5699
+D A taxi 2040
+J B taxi 275
+S Y train 8289
+I P train 1021
+Y Z bus 2043
+Z Y plane 5092
+A I bus 1352
+V J plane 3507
+P V train 1249
+S Z plane 6509
+V Z taxi 566
+B I train 2580
+A V train 1771
+D Y train 1743
+V S plane 6166
+B I plane 8486
+B Z bus 4128
+B J train 4520
+J Y plane 1541
+Y I bus 5672
+J S taxi 3011
+A Z taxi 2058
+Y B bus 3310
+D S bus 9052
+J A taxi 446
+I 21
+train
+taxi
+plane
+train
+plane
+taxi
+plane
+train
+train
+train
+bus
+bus
+bus
+bus
+plane
+plane
+plane
+taxi
+bus
+bus
+taxi
+42
+Z G plane 9355
+N G taxi 5550
+U Q bus 5641
+U N train 988
+Z G bus 5935
+D R plane 4437
+E Q taxi 7919
+U Q taxi 5622
+E U taxi 1315
+R E bus 6407
+Z Q bus 2883
+B R bus 7391
+G B train 2077
+B G bus 6671
+G R train 9535
+U E bus 5198
+B Z plane 5442
+B Z train 5302
+U Z train 7191
+N R bus 435
+N Q train 2879
+B E taxi 1562
+Z D plane 898
+B D taxi 9172
+G D taxi 9804
+R U train 9710
+B U taxi 6799
+Z Q train 1575
+Z G taxi 451
+E R taxi 5395
+R U plane 9904
+G N plane 7333
+G Q plane 5831
+G U plane 6472
+D U plane 8624
+D B plane 6140
+G E taxi 741
+B N taxi 1624
+U D taxi 3903
+B N plane 6018
+Z E train 2969
+E U plane 462
+Z 37
+bus
+plane
+plane
+taxi
+taxi
+taxi
+plane
+bus
+plane
+taxi
+train
+taxi
+plane
+taxi
+taxi
+bus
+bus
+plane
+plane
+plane
+taxi
+taxi
+train
+taxi
+taxi
+bus
+taxi
+plane
+train
+taxi
+taxi
+train
+plane
+plane
+bus
+plane
+taxi
+33
+W A plane 9282
+K N plane 700
+K W bus 5843
+A K taxi 5411
+A F taxi 993
+A N bus 9168
+G X bus 5649
+F G taxi 9059
+G A bus 2804
+F X plane 6229
+X W taxi 646
+F N train 6160
+A W bus 8088
+F G bus 3942
+N F bus 5602
+I N bus 6564
+N G taxi 5824
+A I plane 904
+A I bus 2026
+K G taxi 4416
+X W bus 7412
+I K bus 3891
+K I taxi 6663
+K N train 8360
+I X bus 1730
+W I taxi 1625
+W I plane 4611
+I G taxi 4807
+G W taxi 5482
+K X train 2595
+K I train 3444
+A X train 4787
+G A taxi 9132
+A 32
+plane
+taxi
+bus
+taxi
+taxi
+plane
+bus
+taxi
+bus
+train
+plane
+train
+train
+taxi
+taxi
+bus
+taxi
+taxi
+taxi
+taxi
+bus
+taxi
+bus
+bus
+plane
+bus
+bus
+train
+bus
+plane
+plane
+taxi
+39
+N W plane 2485
+X H taxi 1711
+W V bus 1270
+H G train 4533
+W N taxi 9102
+N W bus 2876
+W H bus 2667
+X B taxi 4571
+J W plane 8433
+B X bus 7679
+N J plane 8228
+N V bus 3924
+N B train 147
+G X train 5985
+J H plane 5602
+J H train 2433
+W G bus 2008
+X H plane 6041
+W G taxi 3444
+J X train 7217
+X W bus 3816
+J H bus 4307
+W J bus 7884
+J W train 5640
+W B train 9570
+W H taxi 8426
+N X bus 5942
+N G train 2621
+B H train 6694
+V B train 6618
+W N train 622
+W G plane 2072
+V N taxi 770
+V G taxi 4461
+B H plane 9942
+G N taxi 501
+H G plane 9273
+J V bus 8697
+J N taxi 7953
+J 30
+taxi
+train
+plane
+bus
+bus
+plane
+taxi
+bus
+plane
+taxi
+train
+taxi
+bus
+bus
+train
+bus
+train
+bus
+taxi
+plane
+bus
+train
+bus
+bus
+train
+bus
+taxi
+train
+plane
+train
+49
+J V bus 580
+O Q train 8891
+B H plane 1155
+E O taxi 2982
+K V plane 8141
+H E train 7462
+O E plane 7560
+H K taxi 1624
+I B train 5103
+B J taxi 1813
+V B train 4194
+Q H taxi 8240
+H O taxi 8933
+J O train 3474
+J V plane 4319
+E Q train 7658
+I K plane 3735
+V O bus 5607
+E J plane 4346
+J E bus 9093
+K I bus 6969
+O K bus 2160
+V I bus 4835
+K I taxi 3143
+H K bus 2128
+Q H plane 8557
+K V taxi 4196
+I O plane 5136
+V E taxi 4980
+V Q plane 7788
+H J bus 7342
+I B bus 9217
+E Q taxi 9515
+B K bus 6051
+E I train 6276
+E K taxi 397
+O K train 6610
+I E taxi 6697
+H I plane 654
+H J train 8819
+K E bus 4147
+J B train 3250
+J K train 3232
+Q B bus 5009
+I V train 3307
+Q I plane 4578
+K O taxi 5582
+K V train 1794
+B E plane 1673
+I 20
+bus
+bus
+plane
+taxi
+plane
+plane
+bus
+bus
+train
+bus
+taxi
+bus
+plane
+bus
+taxi
+train
+taxi
+bus
+train
+plane
+33
+B Y bus 4941
+O Y train 3240
+Q V plane 8783
+B V taxi 5296
+E O taxi 6156
+J B bus 3182
+E V plane 6728
+B Y train 7460
+V Z bus 6049
+Q E taxi 1416
+V Y bus 635
+O J bus 5702
+O Q taxi 7575
+V Y taxi 8685
+J Q taxi 8444
+O E plane 4814
+Z O bus 410
+Z B taxi 2178
+V E taxi 2761
+B E train 9115
+Y O plane 8798
+Q J plane 5741
+B O taxi 6795
+Q Y taxi 9238
+B O train 3857
+B E taxi 2103
+Y Q bus 545
+Y Q plane 9743
+B E bus 6495
+B J plane 8525
+V J taxi 418
+J Y bus 5769
+E J train 9293
+O 38
+train
+plane
+bus
+taxi
+taxi
+bus
+plane
+train
+train
+bus
+taxi
+bus
+bus
+taxi
+taxi
+train
+bus
+train
+taxi
+plane
+plane
+taxi
+taxi
+taxi
+train
+bus
+train
+train
+train
+bus
+bus
+plane
+bus
+taxi
+plane
+bus
+bus
+taxi
+59
+Y E taxi 2947
+L G plane 1299
+L Q taxi 7168
+K Y bus 2508
+L K taxi 3968
+G V plane 8374
+V K train 8510
+E X plane 9001
+X L train 1637
+L Y plane 5317
+K Y taxi 5159
+E K bus 8048
+L U train 1580
+V L train 4194
+W Y train 1222
+U K bus 259
+V E train 6660
+K Y plane 471
+W V train 268
+L E bus 4523
+K V bus 5683
+Y X train 1887
+K G taxi 6642
+X U bus 8641
+X W taxi 5568
+X G plane 4970
+G W train 1794
+K L plane 6587
+W Q train 5406
+V Y train 2216
+Y E train 537
+E K train 409
+G E taxi 4192
+G K plane 979
+Y U plane 7297
+E L train 2655
+Y Q taxi 8400
+E G plane 4168
+G E train 2561
+L U plane 638
+Q X taxi 7587
+L X plane 5308
+X K plane 8968
+E Q taxi 555
+Q W taxi 3163
+V E plane 3838
+W L plane 7518
+Q K plane 1568
+L V taxi 1422
+V K taxi 8768
+K E plane 5005
+L G taxi 6169
+G L train 7969
+X G bus 5413
+Q K train 1845
+E W taxi 3415
+K L bus 4983
+Y G taxi 3886
+Q L bus 7757
+K 34
+plane
+train
+plane
+train
+train
+bus
+plane
+train
+plane
+train
+train
+train
+train
+train
+train
+bus
+train
+plane
+plane
+plane
+taxi
+train
+taxi
+bus
+train
+train
+train
+taxi
+train
+taxi
+taxi
+bus
+taxi
+train
+57
+S C bus 7762
+H I train 1588
+C S train 6900
+B I taxi 3163
+V K plane 2121
+Q I train 7467
+C H plane 1975
+K L taxi 5905
+B L bus 1130
+F Q bus 6299
+L F taxi 8091
+L Q bus 3333
+V F plane 3718
+I K taxi 6697
+B I train 6764
+K S train 3368
+B V plane 1358
+S B train 1620
+L C plane 9667
+I K train 5759
+K H taxi 9173
+K S plane 2263
+F B plane 5424
+C Q bus 5727
+K F train 2890
+H V taxi 3089
+S V train 8019
+V B train 5480
+V F taxi 4173
+H F plane 5623
+B S plane 9199
+I H bus 4581
+F L bus 204
+V Q train 1395
+L C taxi 5103
+L V train 1720
+B K plane 7822
+B L plane 5236
+I C bus 9529
+C F taxi 1978
+V B bus 5426
+C V taxi 2261
+K Q taxi 6692
+I F bus 6457
+C V plane 2940
+C K plane 6242
+Q C plane 9464
+C Q train 3308
+F B train 3906
+V H train 8620
+F I plane 6906
+F C bus 5002
+V K taxi 9926
+V C bus 2105
+V I taxi 5462
+H B train 9523
+F K plane 5232
+F 34
+taxi
+plane
+train
+train
+plane
+taxi
+bus
+taxi
+taxi
+bus
+taxi
+plane
+train
+bus
+plane
+plane
+taxi
+train
+taxi
+taxi
+bus
+bus
+train
+train
+bus
+bus
+bus
+plane
+train
+train
+plane
+train
+bus
+taxi
+54
+G B train 6852
+B R plane 3332
+K I train 2651
+B S taxi 4558
+G X bus 5976
+I F taxi 3861
+X S bus 8571
+G I bus 8037
+G S train 1389
+G K bus 9920
+S I taxi 1860
+R G bus 2186
+D B train 7953
+D S taxi 412
+D A bus 5385
+X F taxi 6282
+A B train 9534
+S F plane 3767
+G K plane 3024
+S R bus 2986
+I R taxi 4679
+A F plane 5080
+R D train 5430
+X G train 6066
+K X plane 9444
+F A bus 5543
+K B taxi 6802
+K A taxi 2841
+X F plane 1598
+X K taxi 410
+F S taxi 8402
+F S bus 9296
+A I plane 9304
+B R taxi 1309
+K S plane 3399
+X I bus 3253
+R I train 7294
+I B taxi 1711
+I A taxi 8288
+F K bus 8730
+A I train 9636
+A S plane 8179
+D I taxi 6036
+B D plane 1942
+I F train 6013
+F G taxi 8769
+X F train 1292
+B F bus 4897
+F I bus 1353
+B R train 6547
+I X taxi 2953
+F G plane 1148
+A S taxi 4509
+X K train 7975
+X 36
+train
+plane
+taxi
+taxi
+bus
+bus
+train
+bus
+taxi
+bus
+train
+taxi
+train
+bus
+bus
+taxi
+train
+bus
+plane
+taxi
+bus
+taxi
+taxi
+train
+taxi
+train
+bus
+bus
+bus
+train
+bus
+taxi
+taxi
+bus
+plane
+bus
+48
+U W plane 5441
+G H plane 9046
+A H train 2276
+H P plane 8271
+P D bus 9910
+B G plane 4713
+P J bus 2751
+J G train 5093
+J D taxi 979
+A P plane 6051
+H B plane 9803
+J W plane 1617
+A P bus 1557
+P D taxi 1842
+H P bus 1720
+W J train 4658
+D A train 6513
+U B taxi 4758
+H W train 8645
+D B plane 2250
+U J taxi 3237
+D P train 8015
+P B taxi 6598
+P B bus 3647
+B W train 4276
+A U plane 2051
+U P bus 3283
+U D plane 6655
+W G plane 2046
+P H train 378
+J G taxi 3576
+W U train 7228
+H A taxi 2663
+D U train 5923
+B H taxi 2141
+H D train 7793
+A H bus 7447
+W A plane 933
+H G taxi 9023
+W G bus 3834
+P U train 2168
+G W train 3067
+B U train 7762
+A D taxi 2080
+G U bus 9103
+W P bus 9193
+A P taxi 5708
+B A train 7393
+U 31
+plane
+plane
+bus
+taxi
+taxi
+bus
+train
+plane
+plane
+train
+train
+plane
+taxi
+train
+taxi
+taxi
+train
+train
+train
+train
+bus
+train
+plane
+bus
+train
+plane
+bus
+taxi
+bus
+train
+taxi
+60
+C O bus 4953
+E K taxi 9350
+E O taxi 2864
+U Z taxi 5749
+Z K plane 5423
+X H plane 1686
+H C bus 8516
+C Z taxi 1203
+M C taxi 9938
+X E bus 5314
+O R train 2406
+H O plane 4832
+U C train 2018
+K R plane 2276
+M Z bus 2471
+U Z plane 521
+R O plane 4887
+E K train 4360
+X E taxi 1963
+C K train 9898
+U E train 7362
+Z H taxi 1057
+R C taxi 8152
+U X plane 3927
+O R taxi 8329
+E X train 5496
+R Z train 8525
+E Z plane 1575
+M X plane 1890
+O M train 1384
+K M bus 8717
+H M train 3929
+Z C train 2356
+H R train 8895
+M Z train 2809
+K X plane 3193
+U M plane 6661
+M E train 4570
+K Z taxi 916
+Z X taxi 5931
+C M plane 3175
+C X taxi 6689
+R C plane 4768
+U X taxi 8526
+H M bus 3632
+O U plane 2399
+O U train 3403
+R E bus 8293
+C H taxi 7967
+U H plane 2843
+X R taxi 1994
+M O plane 2271
+Z E train 3990
+O Z bus 4227
+O X plane 4695
+R U plane 8598
+X E plane 2030
+H O train 1577
+X C plane 537
+E H taxi 731
+K 29
+plane
+train
+taxi
+train
+train
+taxi
+bus
+bus
+train
+plane
+bus
+train
+taxi
+bus
+taxi
+plane
+train
+taxi
+taxi
+plane
+train
+taxi
+plane
+taxi
+plane
+plane
+bus
+plane
+bus
+34
+D P taxi 1253
+L U train 376
+O C train 6639
+O L taxi 396
+U O train 2132
+X D taxi 3486
+C D bus 6979
+O U plane 2208
+O W train 3610
+U D bus 609
+X U train 6991
+X P train 4707
+W L bus 7266
+U D plane 4200
+X P bus 7313
+C L taxi 8627
+D W bus 5794
+W D train 6577
+L D taxi 6146
+P O taxi 1164
+X D bus 9076
+U O taxi 2755
+C U bus 7930
+D O train 5002
+X W train 1071
+X W taxi 893
+W U taxi 7804
+O P bus 770
+P L bus 9317
+X U taxi 471
+U P plane 8429
+X L plane 4989
+D C taxi 8023
+O L train 2529
+U 33
+plane
+bus
+bus
+taxi
+taxi
+plane
+bus
+train
+train
+bus
+bus
+train
+plane
+train
+train
+train
+taxi
+taxi
+bus
+train
+train
+taxi
+taxi
+taxi
+train
+plane
+bus
+bus
+taxi
+taxi
+taxi
+taxi
+taxi
+49
+L X train 7657
+T X bus 5099
+V X train 7047
+E X plane 7327
+W A bus 5258
+V W plane 5234
+D E taxi 2376
+X L plane 1476
+E D train 8895
+V E train 7908
+D X taxi 8020
+V H taxi 1663
+D T plane 8292
+D A bus 9302
+T A train 2206
+D H taxi 2036
+H L train 6090
+E X bus 3531
+V W train 7084
+A L train 2447
+W T taxi 7612
+A L plane 7904
+E X taxi 4387
+V L taxi 1599
+V X taxi 4775
+E H taxi 6446
+V L train 3388
+A L bus 4911
+W L train 5540
+V D plane 1030
+H E train 6483
+T D train 1463
+H A bus 6686
+H X train 909
+V T taxi 5376
+X T taxi 9956
+E V plane 5153
+T H plane 9357
+T E bus 1133
+W L taxi 4533
+H D plane 1991
+A D plane 5861
+W A taxi 6666
+V A taxi 9167
+D V train 2287
+D L bus 580
+X V plane 1559
+W H train 2553
+W X plane 7983
+W 25
+plane
+plane
+taxi
+train
+plane
+bus
+taxi
+plane
+taxi
+taxi
+train
+taxi
+taxi
+train
+bus
+taxi
+plane
+train
+train
+train
+train
+bus
+taxi
+train
+taxi
+36
+K Q taxi 8842
+C Q taxi 2860
+O C taxi 5174
+C O train 4350
+I Q train 7332
+C O bus 6347
+C K train 9919
+K F plane 8966
+C I taxi 8206
+I O bus 200
+C F taxi 1246
+C M train 4850
+Q M taxi 5118
+O C plane 9535
+I Z plane 3644
+O Z taxi 8564
+I M plane 4109
+I Z train 8646
+F K taxi 1825
+C I bus 1482
+O Q plane 8024
+K M train 9458
+F Z train 9365
+F O taxi 3872
+K O train 9420
+F Q train 5823
+O Z train 266
+M Q plane 5754
+F Z plane 8766
+Z Q bus 3680
+K I train 5504
+Q F bus 7263
+M O plane 9396
+F Q taxi 6051
+I F plane 5709
+I K bus 5462
+I 35
+plane
+taxi
+plane
+taxi
+taxi
+plane
+train
+train
+bus
+plane
+taxi
+bus
+train
+plane
+plane
+taxi
+plane
+taxi
+train
+taxi
+plane
+plane
+plane
+train
+bus
+bus
+taxi
+bus
+taxi
+plane
+train
+taxi
+train
+taxi
+bus
+58
+N Q bus 401
+R Z taxi 9036
+A Q plane 9127
+Q Z bus 9907
+A J train 1760
+A Q train 6575
+N Z taxi 8377
+Y D plane 5493
+N Y taxi 6736
+Y Z bus 3706
+O N taxi 4748
+O Q bus 2086
+D A taxi 8840
+Y N train 6048
+D S taxi 2500
+Q O taxi 8377
+Q Z plane 1084
+A R taxi 7152
+Q J train 6105
+Q D plane 3427
+N J train 3568
+D O plane 8022
+Y A plane 2972
+Q D bus 8643
+D Y taxi 1808
+Z J plane 4719
+D A bus 2631
+A D train 2800
+N D train 2814
+Z A plane 9833
+O A plane 8749
+R Q bus 5246
+Q R taxi 6485
+Y R train 4784
+D N bus 9228
+R Y plane 8918
+Z S train 8120
+J R plane 643
+N S bus 4508
+O N plane 8906
+A R plane 820
+S J train 8868
+J R taxi 5683
+S R train 7206
+D Z bus 1093
+D O train 2031
+Z R train 7636
+Q R train 4519
+A Z taxi 8369
+A N plane 8373
+J O train 2202
+N O train 7044
+Q Z taxi 1966
+R J train 578
+R S plane 7787
+S Q bus 5408
+N J bus 376
+O J bus 8660
+D 30
+bus
+bus
+train
+bus
+plane
+train
+bus
+taxi
+train
+taxi
+bus
+plane
+plane
+plane
+taxi
+train
+taxi
+plane
+taxi
+plane
+train
+plane
+taxi
+taxi
+bus
+taxi
+plane
+train
+taxi
+train
+37
+B G train 6285
+A W plane 571
+B A bus 2086
+A K bus 8860
+G J bus 2548
+G O bus 9650
+G T train 4145
+W J bus 7244
+J O plane 6404
+T O taxi 8356
+A O bus 6406
+O J train 5623
+A O train 1682
+K A train 8555
+W G plane 8717
+B A plane 8183
+B K bus 4583
+B A train 5181
+K T taxi 6004
+W B bus 2462
+O T bus 1713
+O A plane 4722
+T K plane 4613
+K A plane 4622
+O K taxi 9203
+A T plane 3205
+G K plane 5049
+A W train 3359
+A G plane 9470
+K G train 8073
+J T plane 9649
+G O plane 9969
+K J plane 9359
+T G taxi 9615
+T A train 9674
+T W bus 1280
+A G train 547
+B 40
+bus
+plane
+train
+train
+train
+plane
+train
+taxi
+plane
+plane
+taxi
+taxi
+plane
+train
+bus
+bus
+bus
+plane
+train
+train
+plane
+taxi
+plane
+bus
+bus
+taxi
+plane
+train
+taxi
+taxi
+bus
+train
+plane
+plane
+bus
+train
+plane
+taxi
+train
+plane
+57
+E D taxi 9617
+T E train 2995
+D T train 818
+U D train 1905
+I L taxi 613
+U B bus 2455
+A L taxi 2763
+I B train 6014
+L B bus 2893
+A I bus 4532
+M L bus 1745
+C T train 9488
+A E bus 8118
+L E taxi 3961
+C A plane 8253
+T U plane 8262
+I U bus 4875
+B I plane 2453
+C B plane 6163
+C T bus 8604
+I M bus 8631
+D T bus 9056
+M B plane 3331
+I C bus 8959
+C D taxi 1609
+U E bus 8297
+D M train 3517
+M U plane 2724
+U C bus 3354
+L C train 1681
+C L plane 1943
+C B bus 6232
+I L bus 641
+B U taxi 9404
+M I train 6637
+A I train 8968
+M B bus 8943
+M T taxi 894
+C A taxi 6172
+M D taxi 3031
+D U plane 1149
+I E train 5780
+E A train 6186
+T D plane 9127
+E D train 7679
+D A bus 198
+D B taxi 7831
+L D bus 9570
+I L train 8596
+M A taxi 2667
+I E bus 9826
+C T plane 4192
+B A train 282
+U T bus 8471
+L E plane 4897
+M L train 9691
+I E taxi 4028
+I 40
+bus
+train
+bus
+train
+plane
+taxi
+bus
+bus
+bus
+taxi
+bus
+train
+bus
+plane
+train
+bus
+bus
+taxi
+bus
+bus
+bus
+bus
+train
+train
+train
+train
+plane
+plane
+bus
+bus
+bus
+bus
+bus
+plane
+train
+bus
+bus
+plane
+bus
+taxi
+47
+F S bus 9476
+Q W taxi 7104
+F T bus 6581
+E T taxi 8108
+E T train 3529
+E W bus 8013
+S E taxi 1514
+F I plane 1046
+H F plane 4883
+F S plane 5527
+S A bus 8763
+I H taxi 8332
+W A train 8385
+A Q train 9572
+F I bus 1489
+S A plane 4279
+T H train 4660
+T S train 1601
+I H train 2713
+F T train 4301
+A I taxi 7980
+W F plane 876
+E H train 5043
+W H train 5823
+F H taxi 9306
+F T plane 6575
+T H taxi 8171
+W S train 675
+S I taxi 4648
+Q H plane 4719
+E W taxi 9211
+S A train 6783
+I Q taxi 7907
+F A train 8200
+Q H train 271
+T W train 9588
+E F plane 8440
+Q W bus 494
+F E taxi 6000
+A T train 6014
+H W taxi 7280
+H A taxi 2104
+E I bus 8248
+A I plane 8431
+Q I plane 610
+H T plane 4984
+A W bus 397
+F 25
+bus
+train
+taxi
+plane
+plane
+plane
+taxi
+taxi
+train
+train
+taxi
+train
+bus
+taxi
+plane
+bus
+train
+bus
+taxi
+train
+train
+plane
+plane
+train
+train
+35
+H C bus 5822
+K H train 827
+S T bus 1216
+S C plane 7842
+R K taxi 3798
+R E taxi 4466
+R H taxi 9106
+H S bus 6835
+E R bus 358
+C R bus 1863
+B H train 9278
+C E taxi 2911
+C K bus 7526
+R T bus 6252
+K E taxi 6961
+K T taxi 6945
+R E plane 7191
+R K plane 4532
+K C taxi 7103
+B C plane 815
+S R train 2404
+S R plane 4749
+H S taxi 1946
+R B train 583
+E B plane 6924
+K E bus 770
+T S taxi 7240
+T K plane 296
+K B plane 862
+C B bus 5923
+B T taxi 6466
+B K train 4024
+S R taxi 5490
+E B bus 8203
+E C bus 6291
+K 35
+plane
+train
+bus
+taxi
+train
+train
+train
+bus
+taxi
+plane
+bus
+train
+plane
+bus
+taxi
+taxi
+taxi
+bus
+bus
+plane
+bus
+taxi
+plane
+taxi
+plane
+plane
+plane
+taxi
+plane
+bus
+train
+taxi
+plane
+taxi
+bus
+41
+B G bus 4406
+U A taxi 829
+J U train 3777
+U P taxi 8790
+L B bus 8746
+B L plane 6826
+A J bus 5812
+H C bus 3511
+U B taxi 8395
+B H bus 9474
+A J taxi 8998
+G H taxi 1751
+A B plane 7772
+B P train 8609
+C B plane 3697
+U L train 9360
+G L train 5406
+A B taxi 434
+H C plane 4584
+G L bus 9598
+C A train 4899
+C H taxi 1434
+G A plane 9320
+A L taxi 9617
+B C train 2891
+B J bus 5278
+J P taxi 5990
+G U taxi 6821
+G L taxi 7862
+J B train 8958
+A B bus 2769
+H B taxi 4056
+P L train 8082
+U P bus 2817
+A L train 6127
+C P taxi 4291
+J P train 8950
+G H plane 6965
+U C taxi 2908
+J H plane 6473
+J C plane 6235
+C 32
+taxi
+train
+plane
+train
+bus
+bus
+bus
+bus
+bus
+bus
+train
+bus
+train
+plane
+plane
+plane
+bus
+bus
+train
+taxi
+bus
+bus
+taxi
+train
+train
+train
+train
+train
+taxi
+plane
+train
+train
+44
+P H train 8705
+H Y taxi 5558
+U R plane 5460
+P U bus 1189
+F P plane 9331
+A Y taxi 756
+F P bus 3131
+R X taxi 8383
+U Y bus 4318
+Y H bus 8584
+H N bus 2749
+U A train 2480
+A U bus 4063
+P A train 7536
+A R train 6579
+R Y taxi 8609
+H X train 3469
+X P train 626
+A H taxi 9741
+X N bus 7008
+N P bus 5936
+Y X bus 1127
+H R taxi 481
+P F taxi 4363
+P H bus 9808
+P R bus 5108
+Y P taxi 6696
+Y X plane 5159
+F N bus 429
+A P plane 7925
+A N plane 726
+P U plane 6763
+H F plane 3019
+A H plane 1590
+U H bus 8344
+H R bus 2562
+A Y bus 8208
+F P train 8727
+P X taxi 7609
+F A plane 9270
+U R taxi 1174
+A P bus 9856
+H P plane 4022
+X U train 8655
+Y 28
+taxi
+plane
+bus
+bus
+bus
+taxi
+bus
+taxi
+taxi
+bus
+plane
+bus
+taxi
+plane
+bus
+plane
+bus
+taxi
+taxi
+train
+bus
+plane
+train
+bus
+bus
+taxi
+train
+bus
+41
+Y Q plane 8962
+O N taxi 3567
+P C taxi 4428
+P R train 1713
+N C taxi 9102
+M O bus 7072
+Y J taxi 7900
+Y C plane 4093
+C P train 1755
+P N plane 1176
+M Y plane 549
+N R train 2931
+M P bus 1390
+O R taxi 5570
+C R train 8015
+Y P plane 6927
+N Y train 7767
+Q J plane 6490
+J C taxi 5486
+N P bus 6534
+Q Y taxi 1133
+Q R plane 748
+C Y train 1851
+O Q bus 1441
+N Y bus 5148
+P Y train 4067
+P Q bus 6473
+M J plane 3722
+M C train 6889
+R O train 8293
+P Q plane 6864
+O J train 8869
+J Y plane 571
+R J taxi 1816
+Y M taxi 9431
+M Q train 342
+O C plane 5698
+P R taxi 1101
+J O taxi 2502
+M Q taxi 5374
+M J taxi 3750
+P 24
+train
+plane
+taxi
+taxi
+train
+plane
+taxi
+taxi
+train
+taxi
+train
+plane
+plane
+bus
+bus
+plane
+plane
+bus
+taxi
+taxi
+train
+taxi
+train
+train
+54
+N L train 9843
+Y Z plane 3777
+N P plane 6486
+Z B bus 5270
+Q M train 943
+M L train 2972
+M Y train 9792
+P M taxi 9553
+M C bus 4763
+Q V plane 9349
+C V bus 6973
+C M plane 2028
+B Q bus 3325
+C Q bus 1082
+N V plane 7173
+L B train 7196
+N V train 2925
+M B taxi 8232
+Q L bus 3058
+V B bus 7384
+C L bus 9001
+M Z taxi 477
+N C bus 5191
+P L bus 2625
+Z V train 8992
+L C taxi 9694
+V B train 7471
+N B train 6321
+M V train 4389
+B P plane 776
+Y Z train 7050
+V N taxi 7444
+M L taxi 8403
+Z B train 5244
+Q Y train 8541
+C L plane 6469
+Q L plane 4654
+V L bus 5132
+Q M bus 5380
+C V taxi 9591
+Z V plane 8926
+N B bus 8219
+Q M taxi 7369
+N Q plane 9761
+L B plane 3554
+L Q train 2231
+M B plane 3835
+C B taxi 4161
+Y B taxi 4088
+P C bus 2880
+P Z train 5651
+C N taxi 2224
+V Y bus 5998
+Z M train 4385
+L 22
+plane
+bus
+plane
+plane
+plane
+plane
+taxi
+plane
+bus
+taxi
+bus
+taxi
+bus
+taxi
+plane
+bus
+taxi
+train
+train
+plane
+bus
+taxi
+43
+Z V bus 9443
+S K taxi 6339
+W J plane 2060
+S V taxi 6553
+W S train 7678
+V E plane 6890
+V W plane 8161
+V Z taxi 148
+E K taxi 3269
+W D plane 9748
+D S taxi 119
+Z V plane 4153
+D K train 9443
+J Z taxi 9734
+E D plane 6841
+U V bus 2195
+Z E bus 960
+K D bus 9925
+K U train 5566
+V Z train 932
+D J bus 1545
+E J plane 9002
+V S bus 635
+W K plane 5211
+Z K train 7752
+J E train 9266
+Z S taxi 1424
+Z S bus 3349
+S K plane 783
+W E plane 3023
+J K plane 2448
+V U train 2380
+S K train 283
+U S train 7562
+J S plane 6637
+W V bus 6232
+W J bus 4253
+Z E plane 4525
+Z W taxi 5230
+D E train 4076
+S E plane 4452
+V J bus 4306
+K U plane 2372
+S 34
+train
+plane
+bus
+bus
+bus
+bus
+plane
+plane
+train
+bus
+taxi
+plane
+bus
+taxi
+bus
+plane
+train
+taxi
+taxi
+plane
+train
+bus
+plane
+taxi
+taxi
+bus
+plane
+plane
+bus
+bus
+plane
+bus
+train
+taxi
+47
+Q K train 8862
+C Q plane 1366
+K X taxi 9453
+Q Y train 7464
+H Y taxi 4425
+Y J train 837
+C Q bus 7165
+Q I bus 9717
+Q C taxi 5220
+J K plane 7659
+X H train 4119
+I C taxi 1362
+C I plane 4613
+X Q taxi 5435
+K C bus 9141
+H K plane 2544
+J X plane 9664
+X Y bus 5962
+E I taxi 3393
+I J bus 8603
+Y I train 7697
+C K taxi 7911
+Q H taxi 9624
+Q K bus 6788
+X C taxi 1346
+X C train 7311
+X Y plane 3565
+K H bus 1861
+K Q plane 1535
+E H bus 6945
+J K bus 6734
+I Y bus 3620
+J I taxi 8424
+Q E plane 2883
+C E taxi 7962
+Q I plane 8856
+E X plane 6990
+Q H plane 9396
+E J taxi 2993
+E J bus 2385
+X I plane 4699
+Y E plane 7000
+X K plane 3964
+Y E train 3072
+H J bus 9253
+K H train 6006
+J C taxi 9676
+I 21
+taxi
+plane
+train
+taxi
+taxi
+plane
+plane
+taxi
+taxi
+plane
+bus
+bus
+train
+plane
+bus
+taxi
+train
+train
+taxi
+bus
+train
+36
+I X train 5319
+G N plane 1455
+M G train 3408
+D S plane 3349
+J D taxi 4083
+S J train 2033
+I D taxi 9150
+D S bus 4306
+M S train 5389
+J M train 9657
+D G plane 9556
+I S plane 4379
+M D bus 3919
+I J bus 1041
+N G train 7770
+G M bus 3548
+M I taxi 5134
+G M plane 2836
+N X bus 1068
+X N train 7183
+N X plane 1274
+S N bus 1505
+G D train 2534
+J D train 2211
+X I plane 9047
+M D plane 2676
+N D plane 437
+G X plane 5808
+M J bus 6666
+X D train 211
+D J bus 3045
+D M train 2918
+X J taxi 8476
+D M taxi 8165
+J N train 6594
+G S train 8558
+G 23
+plane
+train
+plane
+train
+train
+train
+bus
+train
+taxi
+train
+train
+train
+bus
+bus
+train
+train
+plane
+train
+train
+plane
+plane
+train
+bus
+45
+J C bus 7291
+L R taxi 3563
+L H train 5974
+R A plane 1988
+L Q train 2594
+Z J plane 2979
+L T bus 6739
+C L plane 2581
+Z C taxi 8401
+H C taxi 9928
+Z Q taxi 8108
+L Z plane 1134
+A H train 3279
+T Q plane 2578
+J C taxi 2293
+J H bus 6408
+J H train 9770
+A T plane 8080
+T R plane 3107
+A T train 1724
+L J plane 2659
+Q C bus 4913
+A Z plane 2374
+L T plane 9675
+Q H train 4946
+C A train 1141
+H Z bus 8976
+Z T plane 1477
+R T train 7099
+A R train 9801
+A H plane 1036
+L Z train 7183
+Z Q bus 3894
+Q Z plane 8278
+H Z plane 876
+T J taxi 4790
+H C bus 7856
+C R train 742
+Z T bus 6070
+J L train 5369
+L J taxi 5997
+C A plane 2146
+Z J taxi 3520
+C R plane 9284
+C T plane 4442
+Z 27
+plane
+train
+plane
+bus
+bus
+train
+train
+train
+taxi
+plane
+plane
+plane
+train
+bus
+train
+bus
+bus
+plane
+train
+bus
+plane
+train
+taxi
+plane
+plane
+train
+plane
+47
+U Y train 1173
+U N plane 1959
+D Z bus 1958
+U Z taxi 4489
+S E train 8205
+U N taxi 851
+D N bus 5260
+U A plane 5027
+N Z train 9140
+U N bus 8753
+Y U plane 2939
+Y U taxi 4780
+D L taxi 2034
+A Y taxi 8329
+S N train 1789
+N S taxi 5120
+D A train 983
+D Y taxi 2699
+A U train 3726
+D S train 910
+E L bus 9586
+A L taxi 1716
+D Y bus 9515
+Z S train 5473
+N A taxi 210
+N E plane 427
+D N plane 2898
+S U plane 4824
+E A plane 8988
+N E bus 1668
+A L bus 8743
+D L train 6810
+N A plane 561
+L D bus 1862
+Y Z taxi 8059
+U E taxi 874
+Y E train 7733
+L S bus 4966
+Z E bus 1472
+E L plane 5620
+U D taxi 5268
+U D bus 2026
+E L train 2732
+N A bus 8793
+Z E train 3988
+U A bus 9303
+S E plane 958
+U 27
+taxi
+train
+taxi
+train
+taxi
+plane
+train
+taxi
+plane
+train
+taxi
+train
+taxi
+bus
+train
+taxi
+taxi
+bus
+bus
+bus
+train
+bus
+train
+plane
+bus
+taxi
+bus
+36
+I K bus 4009
+B W plane 1468
+U R train 6973
+K R bus 4049
+B R bus 9094
+T W train 9791
+K W bus 8395
+B K plane 3699
+U I taxi 9157
+X W bus 4872
+X R taxi 7863
+X B bus 1788
+B I train 2416
+K B train 1156
+U I bus 7962
+X T taxi 1193
+I U plane 4227
+R X plane 4580
+U T bus 793
+I T taxi 4720
+I R plane 4132
+R K plane 2196
+R U plane 3643
+U X train 4243
+T B taxi 2978
+X T train 900
+U B train 7895
+W I taxi 1698
+W K plane 5622
+T U train 658
+T W plane 8913
+K B taxi 6654
+B W taxi 4688
+I K plane 6117
+T X plane 7794
+T U taxi 7968
+T 23
+taxi
+train
+train
+bus
+bus
+taxi
+bus
+bus
+taxi
+taxi
+taxi
+bus
+plane
+train
+plane
+taxi
+bus
+bus
+bus
+bus
+taxi
+plane
+taxi
+35
+Z T plane 6466
+P K plane 6143
+K Z taxi 735
+K Z bus 1731
+F T train 1873
+K O plane 7043
+Q Z plane 6244
+C O taxi 8109
+T Q plane 4638
+C Q train 9391
+K O taxi 2256
+K Q plane 2874
+Q O taxi 7780
+F C train 6731
+Z C plane 5625
+F Q plane 4246
+K F plane 4011
+Z Q bus 3774
+K O train 3054
+T O plane 5509
+F O bus 484
+C O train 9460
+K T bus 9790
+T P plane 3149
+Q P train 5485
+O Z train 2794
+F Z train 6208
+K C taxi 2099
+T O bus 7932
+F O train 468
+Z T taxi 1723
+P O bus 5924
+T C bus 3350
+P O train 7655
+K T train 3953
+K 30
+plane
+plane
+taxi
+train
+train
+train
+taxi
+train
+taxi
+bus
+taxi
+plane
+plane
+plane
+plane
+bus
+bus
+taxi
+plane
+bus
+train
+taxi
+train
+bus
+taxi
+bus
+bus
+train
+bus
+train
+49
+S T taxi 3401
+Z O train 1575
+O S train 6248
+X F train 434
+Z B train 2889
+A Z taxi 6033
+F A taxi 7286
+S J train 8395
+Z S taxi 5336
+T B taxi 6681
+X B bus 3641
+S X taxi 3998
+S O taxi 412
+Z F train 1906
+J X bus 2758
+A T train 7207
+Z B plane 7973
+F X bus 5631
+J T train 3306
+J X train 477
+J Z bus 7709
+O S bus 8737
+J T bus 6196
+A J train 5887
+A F train 5365
+J T taxi 6981
+B O train 2208
+J Z plane 7554
+T O train 7867
+O A plane 1114
+J F bus 9863
+X O bus 8855
+B T plane 1884
+T S train 6139
+O B taxi 8958
+T F bus 7091
+A X plane 9455
+A J bus 2643
+F S bus 9191
+X O train 5701
+Z A bus 6210
+J B taxi 2628
+X A train 7930
+T A taxi 7163
+O T bus 5673
+X F taxi 5884
+X J taxi 5273
+X T train 9121
+X T bus 8121
+A 21
+train
+train
+taxi
+train
+taxi
+train
+train
+taxi
+train
+train
+plane
+bus
+taxi
+taxi
+taxi
+bus
+train
+bus
+train
+bus
+taxi
+42
+U Q plane 3954
+X C taxi 4127
+F Q plane 9354
+T C taxi 461
+W T taxi 5851
+O W taxi 7299
+X E taxi 6119
+W C taxi 1443
+W E bus 6906
+X W taxi 7881
+W E train 2956
+U O taxi 9067
+Q X taxi 7007
+T O taxi 7415
+W Q bus 9587
+C O plane 4385
+X U bus 3596
+T F plane 8197
+O E taxi 1815
+O Q taxi 4046
+F C train 4168
+T F taxi 5815
+O E train 597
+X Q train 1621
+W F taxi 6725
+O Q bus 5725
+T W train 9685
+E U bus 3271
+T W plane 8454
+O Q plane 6421
+F T bus 817
+W F train 9866
+W O plane 6480
+Q U bus 252
+W E plane 7513
+U W taxi 496
+X O plane 9258
+W Q plane 7825
+F O train 4300
+E F bus 1969
+X Q plane 143
+T U plane 2607
+F 26
+plane
+taxi
+plane
+taxi
+taxi
+plane
+train
+taxi
+train
+bus
+plane
+plane
+plane
+taxi
+train
+taxi
+bus
+plane
+taxi
+bus
+plane
+taxi
+train
+taxi
+plane
+bus
+46
+H C plane 4158
+F C plane 6596
+G O plane 6265
+F G bus 9046
+I K plane 9717
+T C bus 4350
+T I plane 3286
+I H plane 7002
+H I taxi 1444
+K T plane 4426
+C G bus 6636
+C F taxi 7819
+I W taxi 9487
+H T train 9772
+G K bus 6379
+O T taxi 3392
+K F train 1018
+I G train 4713
+C K train 5413
+K T taxi 2218
+K G train 9289
+W C train 1176
+H W train 3302
+K W bus 7320
+H G train 2265
+G T train 2392
+C K plane 3641
+C W taxi 2289
+O W taxi 8660
+F O plane 5278
+I C plane 6577
+T K bus 3465
+G O taxi 875
+F I plane 7752
+I T bus 9988
+I K train 7107
+I W bus 4214
+K H train 4516
+H T plane 8679
+I O taxi 7311
+G C train 7666
+O G train 7045
+W G bus 3199
+T K train 2773
+O W plane 4230
+W K train 1106
+I 30
+plane
+train
+plane
+plane
+plane
+plane
+bus
+bus
+bus
+train
+train
+plane
+train
+train
+taxi
+bus
+plane
+taxi
+train
+plane
+plane
+plane
+plane
+plane
+plane
+bus
+train
+bus
+bus
+plane
+33
+R X plane 9213
+Q C train 2024
+X S plane 5392
+M X train 1127
+S C train 8610
+K F taxi 9813
+F C taxi 8788
+M K bus 1693
+M S train 3948
+S K train 4544
+M Q plane 5234
+M F taxi 1422
+Q M bus 7898
+R M train 8514
+X R taxi 5102
+Q M taxi 958
+M F bus 2857
+S R plane 9967
+K X taxi 3679
+C M plane 9203
+R F plane 3575
+X C train 7612
+S K taxi 7808
+C X taxi 9919
+F S bus 3990
+C S plane 1647
+X Q plane 3993
+K M train 7869
+M K plane 2639
+M F train 8812
+X Q train 4779
+F C train 7741
+R S taxi 583
+M 23
+bus
+plane
+train
+train
+taxi
+plane
+plane
+bus
+plane
+train
+train
+taxi
+train
+taxi
+taxi
+train
+taxi
+train
+train
+taxi
+taxi
+taxi
+taxi
+58
+M Y bus 1117
+Y C plane 1907
+B H taxi 2551
+S L plane 8940
+U C bus 1213
+B S train 8402
+L H train 1153
+C H bus 8678
+S R taxi 7729
+R M plane 7410
+A B taxi 3079
+A M train 3043
+R A plane 4785
+H L plane 3054
+A U bus 9805
+S U bus 889
+S A taxi 5316
+L B taxi 4108
+Y L taxi 7681
+Y L bus 5421
+U C plane 1450
+A S train 4648
+C L plane 3946
+R H bus 5311
+U S taxi 2068
+L A bus 7430
+B C taxi 1162
+H M plane 2577
+U L plane 3218
+H Y bus 6394
+H A plane 1688
+A H taxi 9914
+L H taxi 8838
+H Y taxi 1700
+L U taxi 5269
+H B plane 7556
+Y U plane 974
+L R plane 8453
+R L taxi 1835
+U L train 3483
+A Y plane 4465
+H A bus 456
+Y C taxi 7387
+A H train 2344
+R M taxi 5859
+B M train 3787
+M H taxi 1920
+B R bus 7478
+A U taxi 1480
+H S taxi 2565
+Y S bus 2652
+H R taxi 4765
+S M train 5821
+B L plane 2803
+L B bus 4846
+A B plane 2297
+M S bus 8689
+U C train 8562
+A 30
+plane
+plane
+taxi
+bus
+plane
+bus
+bus
+plane
+bus
+train
+plane
+train
+plane
+taxi
+bus
+taxi
+bus
+bus
+bus
+taxi
+plane
+plane
+plane
+train
+plane
+bus
+bus
+plane
+taxi
+bus
+59
+T N train 4939
+D M plane 5299
+W T train 2762
+D J train 8849
+T W bus 3845
+A W taxi 6910
+N M train 3140
+M T plane 8305
+M R plane 6038
+Y J plane 3561
+A W plane 2539
+W N train 4478
+R B train 6697
+W N taxi 8357
+R B taxi 9270
+J M bus 8511
+B A bus 4505
+T D bus 7462
+Y M train 6744
+D B bus 5827
+Y D bus 1343
+Y B plane 8521
+J R train 4312
+M A train 633
+J N bus 5691
+D A plane 2566
+M D taxi 9298
+D B train 6147
+A Y train 4709
+J R bus 9941
+Y N train 1549
+A T train 7117
+Y W bus 6871
+N D train 8149
+J T taxi 1958
+A Y plane 9565
+A T taxi 2738
+M A bus 123
+R D plane 8571
+A R train 2784
+T R train 2171
+D T taxi 7617
+A B taxi 5468
+A N bus 2312
+A J bus 377
+J M taxi 2527
+W M taxi 8633
+M D bus 8740
+Y A taxi 4592
+R J plane 964
+W N plane 3725
+N M bus 1820
+D B taxi 7347
+A N train 4383
+W B bus 616
+A R taxi 5758
+N T taxi 8024
+B M taxi 8615
+W A train 3150
+Y 22
+train
+train
+train
+bus
+plane
+train
+train
+plane
+plane
+train
+bus
+taxi
+plane
+bus
+bus
+train
+bus
+plane
+train
+bus
+train
+bus
+33
+M D taxi 5953
+S M plane 4198
+M L plane 669
+L S train 4519
+A S bus 3800
+M B taxi 774
+O D train 8677
+D A taxi 5692
+A S plane 9413
+M O train 5575
+S M taxi 2401
+S Q taxi 2510
+S L plane 6915
+Q D taxi 8992
+L D bus 854
+L O taxi 9176
+O L plane 1946
+Q O plane 3720
+D B train 1327
+D B taxi 2619
+L A bus 2904
+L A plane 222
+D L plane 5374
+M D bus 5584
+B Q plane 6908
+D M plane 3380
+S B bus 2466
+Q D plane 8269
+Q S bus 9256
+M S train 6057
+O S bus 3804
+B O taxi 3389
+A O taxi 7302
+M 29
+taxi
+bus
+taxi
+taxi
+train
+bus
+taxi
+taxi
+taxi
+plane
+plane
+taxi
+taxi
+plane
+train
+taxi
+train
+plane
+taxi
+plane
+plane
+taxi
+train
+plane
+plane
+taxi
+taxi
+taxi
+train
+55
+E B plane 3269
+S Q train 2314
+Z E train 1201
+Z B bus 7657
+Z F train 4773
+Q B taxi 4740
+E T plane 4176
+S F train 4094
+F H plane 2775
+E S taxi 5935
+Z F plane 7357
+T S plane 8916
+Z T bus 354
+Q F taxi 8384
+Q F train 2354
+T Z train 162
+E U bus 9043
+B Z taxi 7908
+S B plane 5797
+E B bus 7764
+G Z train 3832
+Z U train 1761
+F B plane 389
+G B bus 9685
+H Z taxi 2396
+S B train 868
+H F bus 8929
+F E plane 713
+G F bus 103
+F E bus 7475
+Q H plane 8047
+E H taxi 8849
+T U bus 7282
+B F bus 4719
+B T plane 5582
+Z T plane 3138
+E F train 4446
+Q F bus 8682
+Q T taxi 9360
+S H train 2492
+T S train 1834
+Q H train 5008
+Q B bus 6136
+H E bus 5855
+U S taxi 3966
+S H taxi 8457
+E Z taxi 8925
+Z T taxi 3304
+S Q bus 1774
+H E train 3421
+U E plane 7708
+F S bus 5355
+U E train 9621
+S G bus 7531
+B Z train 6333
+U 37
+train
+taxi
+bus
+taxi
+plane
+plane
+bus
+taxi
+bus
+train
+train
+bus
+bus
+plane
+bus
+taxi
+taxi
+train
+bus
+train
+bus
+taxi
+train
+train
+bus
+taxi
+plane
+bus
+plane
+bus
+plane
+taxi
+train
+plane
+bus
+train
+plane
+44
+S H bus 2045
+L H taxi 5012
+S O plane 8709
+R G plane 9943
+G O taxi 7537
+Y G plane 6433
+Y E bus 1068
+L Y bus 9650
+H Q bus 660
+G Y bus 1125
+L R plane 3543
+E G train 7527
+S H plane 2132
+L H train 4335
+O Q taxi 1381
+H Q train 9078
+Y L train 9579
+H O bus 2303
+G Y train 521
+Q E taxi 6331
+H E taxi 5251
+H Q taxi 3670
+Y H plane 3373
+E R train 3686
+Q Y bus 9531
+Q L plane 4638
+E S taxi 3874
+E G plane 1188
+Q O plane 9164
+L H plane 5609
+O E train 3236
+H Y train 531
+E G bus 4081
+Y E plane 353
+E S bus 807
+R L train 7034
+L S train 659
+O S train 9207
+R Y plane 5409
+S Q taxi 1433
+R Y bus 8545
+R E plane 2352
+H R bus 2658
+O G plane 3600
+E 36
+bus
+bus
+bus
+bus
+train
+bus
+bus
+taxi
+plane
+plane
+bus
+train
+taxi
+bus
+plane
+bus
+plane
+taxi
+plane
+plane
+train
+taxi
+train
+train
+bus
+plane
+train
+train
+bus
+taxi
+plane
+plane
+plane
+train
+train
+bus
+58
+P Y bus 5471
+F J train 5810
+O J train 3989
+W P taxi 3697
+W J bus 2349
+O J bus 6725
+J E taxi 4607
+E Z bus 2678
+H E bus 5477
+L Z train 5859
+W L plane 657
+O P bus 3880
+Z Y plane 7152
+E P taxi 7202
+J P bus 5248
+L P plane 6794
+P W plane 1014
+J E train 2487
+Z W taxi 5520
+E J bus 7881
+Z P taxi 7866
+W O plane 6397
+Z O bus 4202
+L P train 7993
+E Y train 7675
+H J train 5110
+E L bus 4627
+L H taxi 322
+Z F bus 1328
+W Z train 1318
+Z P train 1921
+H W train 6828
+P H train 2894
+P W train 9344
+W L train 1903
+F W plane 5662
+F W taxi 779
+W E plane 3771
+E Y taxi 9745
+F J taxi 2446
+E H taxi 2165
+L Z taxi 1811
+L F plane 670
+Y W taxi 3074
+Y J taxi 2618
+O L train 3057
+H L bus 3276
+O F bus 4635
+W Y train 6655
+P O train 9465
+Y E plane 8705
+W L taxi 5433
+H Z bus 1924
+J Z bus 7348
+H F plane 2041
+Z P bus 5540
+O H taxi 176
+Y L taxi 996
+W 34
+plane
+taxi
+taxi
+train
+taxi
+train
+bus
+bus
+bus
+taxi
+taxi
+bus
+plane
+train
+taxi
+taxi
+taxi
+plane
+train
+train
+taxi
+taxi
+plane
+plane
+bus
+taxi
+plane
+taxi
+plane
+taxi
+bus
+plane
+taxi
+taxi
+59
+V S plane 9828
+S H plane 917
+P X taxi 3102
+X J plane 8596
+V K plane 8843
+Z Q taxi 8001
+V H plane 4589
+K Z bus 6354
+Q S bus 7950
+H S train 8226
+J Q plane 8946
+P S plane 925
+S Q taxi 6900
+P X train 7945
+P K taxi 7550
+X Z plane 5246
+H J taxi 1073
+Z H bus 5348
+H J train 3311
+K Q taxi 2867
+V P train 6434
+M Q train 6117
+K Q bus 891
+X S train 8118
+X P bus 2859
+M H taxi 6041
+S K train 9673
+M J taxi 1598
+S M bus 1033
+Z S plane 3459
+S Z bus 8762
+Z P train 9567
+P K bus 9595
+S K bus 1951
+Z X train 6575
+H Q train 6205
+M H bus 3545
+M K taxi 8554
+Z M plane 8117
+P X plane 7519
+J Q taxi 5872
+S J plane 8594
+Q J bus 1764
+S P taxi 3390
+H M plane 1243
+M X train 6216
+P J bus 9162
+P H train 9086
+S P train 8960
+M Z train 6211
+Z H taxi 6927
+X V plane 3612
+Q V train 4501
+H Z train 881
+J X bus 2709
+Z V bus 7341
+X K train 2532
+J Z taxi 8964
+Q H bus 8385
+Z 21
+bus
+bus
+train
+train
+train
+train
+bus
+train
+taxi
+bus
+plane
+plane
+train
+taxi
+plane
+train
+train
+taxi
+taxi
+train
+train
+51
+B R plane 1569
+Q M plane 1923
+R I plane 1462
+Q R train 2694
+U Q train 557
+R U bus 6979
+B Z train 2336
+B W taxi 5122
+I Z taxi 3668
+R B bus 4883
+Q Z taxi 483
+S R plane 2890
+W S plane 859
+S J taxi 2291
+J S plane 8159
+U R taxi 6886
+W M bus 198
+W B plane 6363
+Q W bus 4829
+J U taxi 2846
+U Z taxi 8625
+S U taxi 1373
+B J train 4382
+I J train 9047
+Q U plane 6670
+Z M taxi 777
+U R plane 5811
+B M plane 7510
+Z Q plane 4673
+B Q train 6336
+U I taxi 8680
+Q B plane 400
+Z J taxi 6251
+R I taxi 8774
+M S plane 2004
+B S train 5237
+Z B bus 7759
+J S train 139
+I W bus 4553
+S W train 6869
+B U bus 9902
+S R train 2638
+M Q taxi 482
+W J bus 4444
+Z Q bus 980
+M B bus 8052
+S M train 122
+U Q taxi 7281
+S R taxi 3690
+I M train 1191
+U M plane 6584
+Q 39
+plane
+train
+taxi
+bus
+bus
+taxi
+taxi
+plane
+train
+train
+train
+bus
+plane
+plane
+bus
+bus
+taxi
+train
+plane
+train
+train
+plane
+bus
+plane
+plane
+taxi
+taxi
+bus
+bus
+bus
+taxi
+train
+taxi
+train
+taxi
+taxi
+taxi
+bus
+train
+44
+S P taxi 8258
+N P plane 3945
+D V train 8291
+D N bus 7696
+P V bus 9486
+P N train 9937
+H E train 7459
+P S bus 3188
+P D plane 7616
+S M bus 5515
+P H train 7376
+S M plane 7101
+N M taxi 5996
+H M taxi 9490
+H S train 2299
+N M bus 516
+M S train 9191
+A M train 1145
+S N plane 8727
+M P taxi 7628
+P V taxi 742
+H D taxi 4898
+M E bus 7935
+P M train 7663
+S A bus 3241
+H A train 2838
+E M plane 4239
+S N train 2171
+E H plane 6552
+D H train 2144
+M A taxi 9461
+V S plane 5468
+E V plane 7109
+E P bus 5567
+E N train 7122
+M P plane 8064
+E A plane 9503
+E V bus 3839
+V A plane 1048
+H S bus 9862
+E A taxi 3337
+A V bus 8081
+V A train 675
+V S train 6780
+P 34
+bus
+train
+plane
+plane
+train
+plane
+plane
+bus
+plane
+plane
+train
+train
+bus
+bus
+plane
+train
+bus
+plane
+train
+bus
+train
+train
+train
+train
+bus
+train
+train
+bus
+bus
+taxi
+taxi
+train
+bus
+train
+34
+X P bus 910
+A P plane 131
+P E plane 2119
+E F taxi 655
+E D bus 6909
+C E train 7245
+X F bus 3797
+W X train 1677
+A W taxi 8313
+D C plane 2128
+E A plane 5106
+W E train 1521
+W P plane 2891
+A C plane 2571
+C A train 1582
+C X bus 805
+C D taxi 4232
+E C plane 5942
+X A taxi 958
+C P taxi 3875
+D E train 2517
+P D bus 8862
+D F taxi 2083
+W C bus 4612
+X F plane 7021
+W C plane 3670
+E X train 2442
+F E train 3233
+W D bus 8887
+F C taxi 1073
+P E bus 5099
+X D train 1721
+X A train 3859
+A W train 4204
+W 36
+train
+plane
+taxi
+train
+train
+train
+train
+taxi
+plane
+train
+taxi
+taxi
+taxi
+bus
+plane
+bus
+bus
+taxi
+train
+train
+taxi
+plane
+train
+bus
+plane
+plane
+plane
+plane
+bus
+bus
+plane
+plane
+train
+train
+train
+taxi
+41
+W G taxi 7813
+I B plane 5334
+S J bus 1295
+M N taxi 3044
+W M plane 6039
+W B train 7039
+M S train 2985
+D W train 5960
+I J plane 1033
+D J plane 1128
+W S train 9765
+G S bus 4008
+S J plane 1422
+W B bus 3271
+D M plane 3924
+N J bus 628
+M I taxi 574
+D B bus 7054
+B W plane 5825
+M N bus 9390
+M N plane 3096
+S G plane 7977
+I D train 3331
+S I plane 1251
+S B plane 5037
+B M taxi 9315
+M J bus 5210
+N J train 2105
+W D bus 4098
+M G train 6936
+M J train 6670
+J S train 7622
+G D plane 8623
+J I taxi 2705
+G M bus 5013
+B W taxi 2386
+I D bus 9867
+B J taxi 4135
+B G bus 5514
+I J bus 4448
+J W plane 6460
+J 25
+bus
+plane
+plane
+plane
+train
+bus
+taxi
+bus
+plane
+bus
+plane
+bus
+plane
+taxi
+taxi
+taxi
+plane
+plane
+taxi
+bus
+plane
+taxi
+plane
+bus
+train
+38
+W Q bus 4141
+Z R bus 5137
+Z Q train 108
+Z H bus 4804
+H Q taxi 6053
+U B taxi 4587
+R U taxi 9025
+H W plane 2931
+B Q taxi 8035
+B R plane 2214
+Z Q taxi 6611
+B Z plane 8756
+H G train 6358
+G R bus 5441
+G W bus 214
+B W taxi 3584
+Q R plane 9187
+Q W plane 5026
+H G taxi 4328
+W G train 7224
+B Z train 8989
+U Z taxi 3194
+Z H train 7506
+Z G train 5856
+W U taxi 7747
+H U bus 9997
+R B bus 8708
+Q R bus 7105
+Q Z bus 9913
+H B train 1199
+H B plane 9131
+Z R plane 7233
+Q U taxi 1028
+Q H plane 7664
+G Z bus 5284
+H U train 2016
+U R train 8488
+Z W bus 6154
+U 27
+taxi
+taxi
+bus
+train
+plane
+train
+bus
+plane
+taxi
+plane
+bus
+plane
+train
+taxi
+plane
+taxi
+bus
+plane
+train
+train
+taxi
+taxi
+plane
+taxi
+plane
+bus
+train
+42
+W T taxi 1975
+X T taxi 3760
+A B train 2577
+A J taxi 6488
+A L taxi 7114
+C T plane 1850
+T Z taxi 9811
+A Z train 3013
+J C taxi 7063
+A Z plane 8589
+X L bus 5670
+T Z plane 9666
+X W plane 5442
+C A train 6466
+B W taxi 2517
+X A taxi 1860
+J A train 3600
+A B taxi 3784
+L Z taxi 7397
+L J plane 428
+C L plane 9977
+T A train 6714
+W T train 507
+X A train 6204
+B Z plane 2998
+L W taxi 1911
+J B train 1692
+X J taxi 7695
+X L plane 609
+J Z bus 4542
+C J bus 9338
+A B bus 9862
+Z L train 6057
+W A train 5731
+C A taxi 1555
+W C bus 2755
+C J train 8898
+T W bus 824
+B W bus 2821
+J W train 6446
+Z T train 7526
+J L bus 4074
+C 29
+train
+taxi
+bus
+train
+plane
+plane
+plane
+plane
+train
+taxi
+train
+taxi
+plane
+taxi
+taxi
+plane
+plane
+train
+taxi
+plane
+plane
+bus
+train
+train
+plane
+bus
+plane
+taxi
+taxi
+33
+E D plane 4533
+E Z bus 4851
+N D plane 7171
+N B train 6153
+D A taxi 9935
+Z N taxi 8125
+M E taxi 5847
+D Z plane 4854
+E A taxi 7035
+A M train 5770
+Z E train 3969
+D Z taxi 1538
+R D train 8815
+E D taxi 5576
+B Z bus 8950
+N E taxi 5206
+B R taxi 4308
+A D plane 9564
+B D plane 2884
+B A taxi 3676
+D B bus 2286
+A Z train 9017
+A D bus 2548
+E A bus 9139
+B N plane 7103
+M A plane 4594
+E R taxi 2814
+N A bus 2687
+M D bus 2527
+Z N plane 7407
+D R taxi 5524
+R E bus 8224
+E M bus 6989
+A 26
+taxi
+taxi
+train
+taxi
+bus
+plane
+train
+taxi
+train
+bus
+taxi
+train
+bus
+plane
+train
+taxi
+taxi
+taxi
+taxi
+bus
+bus
+plane
+bus
+bus
+plane
+train
+42
+C E plane 1186
+V N taxi 458
+K A taxi 6131
+X K taxi 7493
+V X bus 5048
+A X train 3822
+C V bus 780
+X M bus 1314
+M C train 5666
+M X plane 4172
+E A bus 4992
+M E plane 7637
+C A plane 700
+K N train 7160
+X N taxi 5291
+V A train 3571
+K R plane 9306
+R M plane 4474
+N R plane 7546
+C M bus 5841
+K E plane 7603
+A X bus 3653
+C M taxi 8835
+R M train 5162
+A M train 5832
+M N plane 4129
+E K taxi 3696
+E K train 9837
+A K bus 372
+R V plane 6243
+A K train 6827
+N X train 5548
+K V train 8590
+A M bus 9692
+A V plane 239
+R K taxi 126
+E X bus 4128
+V X taxi 4536
+A N taxi 4385
+M V plane 3522
+E N train 615
+V E taxi 8184
+C 23
+bus
+taxi
+taxi
+train
+train
+taxi
+plane
+taxi
+train
+plane
+bus
+train
+taxi
+taxi
+taxi
+taxi
+taxi
+train
+train
+taxi
+plane
+plane
+train
+38
+F W bus 2158
+L E plane 7471
+E X train 1952
+F L bus 1417
+E K taxi 1495
+E F plane 7304
+L O plane 8938
+X O bus 1533
+O F taxi 2333
+A K plane 9293
+L W train 2445
+L O taxi 5027
+F L train 3693
+K W train 501
+W A bus 9552
+W A train 3415
+L X train 4700
+W K bus 2361
+E K bus 1996
+A X plane 9191
+E X plane 3838
+X L bus 1683
+L E bus 2052
+O E plane 3516
+K X train 3487
+W O train 8465
+W E bus 5180
+O W bus 327
+E A taxi 5175
+O F plane 6740
+K X bus 3696
+L W plane 9794
+E O taxi 8119
+E O train 1380
+X A bus 4223
+O K taxi 3003
+K A taxi 1570
+K E train 1619
+O 25
+train
+bus
+bus
+bus
+bus
+train
+taxi
+taxi
+bus
+bus
+taxi
+taxi
+bus
+train
+plane
+plane
+plane
+taxi
+taxi
+bus
+bus
+taxi
+plane
+train
+train
+57
+Z Q taxi 6563
+S C taxi 167
+O Z bus 8493
+O G bus 7948
+X V bus 2063
+X S train 6523
+I Y bus 3715
+O C bus 9052
+Y X plane 7518
+Z Y bus 311
+S Q bus 546
+S I train 8750
+G X plane 3804
+G Q bus 2089
+V Z plane 8332
+I V taxi 3240
+S X bus 1485
+S V plane 935
+S Z train 5473
+S O plane 701
+Z V taxi 1564
+Q O plane 3348
+Z I taxi 9833
+V I plane 5248
+S X plane 6375
+Z C bus 8651
+S V bus 4708
+O I bus 3286
+Y Z train 5236
+I O train 8259
+G I plane 6269
+X I train 9710
+S I taxi 6367
+G I bus 9573
+I S plane 5302
+Y I train 831
+Q Z bus 8908
+S Z bus 144
+Y Q plane 3289
+C V bus 9112
+V X plane 9266
+Y O taxi 1200
+S Y taxi 8086
+Q X bus 2499
+Y C train 3682
+X G train 3116
+X O plane 1093
+Z G plane 3695
+X C train 2259
+G V train 675
+C I taxi 5147
+C Y bus 4250
+S Q plane 9641
+C O plane 6876
+I G taxi 8949
+G C taxi 8014
+V C plane 6830
+V 35
+train
+bus
+bus
+plane
+bus
+bus
+train
+taxi
+plane
+taxi
+bus
+plane
+bus
+plane
+plane
+train
+train
+plane
+train
+plane
+bus
+train
+plane
+bus
+plane
+bus
+bus
+bus
+plane
+bus
+taxi
+bus
+plane
+bus
+plane
+44
+W A plane 1483
+O S train 4364
+A O taxi 3286
+K E train 3866
+A S taxi 7708
+W E plane 3887
+X E taxi 5303
+E O plane 1820
+X O train 2621
+S X train 2363
+X V plane 8081
+T X bus 3324
+O E bus 7934
+E T plane 777
+T S taxi 7393
+A X plane 4007
+V X taxi 9203
+T W bus 8304
+E W train 908
+W A bus 4269
+S V train 4171
+W V taxi 7723
+O S plane 8030
+S A train 3787
+W T train 1666
+K V bus 9732
+E T taxi 7246
+E K taxi 3963
+E A taxi 1656
+T W plane 4129
+V K train 9961
+S A plane 9678
+E V plane 3539
+O S bus 5666
+V O plane 8919
+K S bus 8371
+V T taxi 7819
+O X taxi 2049
+S T plane 2059
+V A taxi 3636
+W E bus 8427
+K W train 5454
+V A bus 6600
+E T train 3289
+E 40
+bus
+plane
+bus
+train
+taxi
+bus
+train
+train
+taxi
+bus
+plane
+taxi
+plane
+plane
+train
+train
+train
+plane
+bus
+train
+plane
+bus
+train
+bus
+bus
+plane
+plane
+taxi
+plane
+plane
+train
+train
+taxi
+bus
+train
+plane
+plane
+train
+train
+plane
+46
+L M plane 6995
+G W train 8677
+W V bus 9796
+V M train 8087
+W K taxi 9851
+J Z taxi 4765
+K Z plane 5751
+Z M train 3563
+Z G train 7776
+Z V bus 1045
+W M plane 1124
+V G train 973
+G J taxi 5678
+M V taxi 679
+G L bus 5373
+M K plane 8235
+V W taxi 4501
+D M plane 6147
+M Z bus 8598
+V L train 745
+W K bus 6277
+G K taxi 9958
+W D taxi 9943
+M W taxi 3759
+L V bus 9827
+D V bus 2279
+W G taxi 4313
+K L taxi 5844
+M K bus 8729
+M G bus 8138
+W M bus 3289
+V D plane 8549
+K L train 4399
+Z W plane 5230
+D J train 6164
+V J train 7366
+Z G taxi 3674
+D V taxi 1627
+V Z train 6665
+L G taxi 9298
+J L plane 4399
+K Z bus 4688
+Z M plane 9403
+K V train 5533
+Z L bus 725
+W L taxi 3687
+W 35
+bus
+train
+train
+bus
+train
+plane
+taxi
+train
+bus
+bus
+bus
+bus
+bus
+bus
+train
+taxi
+taxi
+plane
+plane
+bus
+taxi
+taxi
+bus
+train
+taxi
+train
+bus
+taxi
+plane
+train
+train
+plane
+bus
+train
+taxi
+34
+G U taxi 8150
+B U bus 8735
+L T taxi 3133
+B R train 390
+R B plane 5718
+U P bus 2512
+L P bus 7003
+P K train 6687
+L T train 321
+U R plane 9746
+L K taxi 9948
+G U plane 5933
+T B plane 9277
+R T train 7305
+L B train 7489
+B U taxi 5140
+L T bus 7729
+P L taxi 3267
+P L plane 3835
+T G taxi 9790
+G K plane 4576
+R G plane 7451
+R U train 4639
+K R taxi 5678
+K T bus 6200
+U L bus 5738
+B R taxi 3548
+T P taxi 916
+R K train 9029
+U K train 2958
+B P taxi 3058
+K L train 2389
+U P plane 2396
+R L taxi 8059
+B 33
+train
+taxi
+taxi
+taxi
+plane
+bus
+taxi
+plane
+taxi
+bus
+plane
+bus
+bus
+plane
+bus
+train
+taxi
+taxi
+bus
+taxi
+train
+train
+taxi
+train
+train
+taxi
+taxi
+bus
+taxi
+taxi
+plane
+train
+train
+34
+E F taxi 6178
+E C train 447
+E M plane 9671
+T F bus 6527
+C E bus 189
+M J plane 699
+X F bus 2327
+J C train 8714
+M E train 5590
+C E taxi 2497
+N E train 1415
+J F taxi 6172
+E N plane 5733
+F C taxi 3455
+M X taxi 6262
+E X taxi 6191
+F M train 9436
+T C train 1544
+J X train 4512
+F J bus 1400
+M T bus 9237
+T E bus 6573
+E X bus 329
+N X bus 4350
+X M bus 3100
+N T taxi 5816
+M C plane 5091
+M X train 4556
+T J bus 5941
+M E bus 2421
+C N bus 3364
+N X plane 4363
+C T taxi 6933
+N J taxi 1628
+M 32
+bus
+taxi
+plane
+train
+taxi
+taxi
+train
+bus
+bus
+taxi
+plane
+train
+bus
+train
+bus
+taxi
+plane
+taxi
+train
+bus
+taxi
+taxi
+plane
+plane
+bus
+taxi
+taxi
+plane
+plane
+plane
+taxi
+train
+33
+N E plane 7299
+N L bus 6942
+N J bus 2235
+L U bus 6646
+N J train 5632
+F W taxi 8071
+L W bus 6373
+N W bus 154
+J L taxi 1925
+B E train 4596
+J E plane 296
+F U train 2475
+F E taxi 4538
+J B train 6913
+U N plane 9659
+L N plane 5338
+J L plane 3805
+J E bus 3828
+F N taxi 6090
+L U train 3192
+B F bus 9051
+U L plane 6904
+W B bus 2190
+W B train 4254
+U J taxi 7817
+W J taxi 2697
+B L plane 1494
+E W bus 646
+U N taxi 5443
+L B bus 6967
+E N taxi 348
+J W bus 2367
+W F train 1598
+W 38
+bus
+bus
+plane
+plane
+bus
+plane
+bus
+taxi
+taxi
+taxi
+plane
+taxi
+bus
+plane
+bus
+bus
+bus
+train
+bus
+taxi
+bus
+bus
+train
+plane
+bus
+train
+plane
+train
+train
+taxi
+plane
+bus
+taxi
+train
+bus
+taxi
+plane
+bus
+54
+Q G train 1089
+G T bus 2446
+O N taxi 120
+Z N train 7201
+Q U taxi 8998
+E N bus 9813
+W Z plane 1387
+P W plane 9114
+Z E plane 919
+O T taxi 7747
+W P taxi 585
+P O train 1247
+W U taxi 5117
+P O bus 6332
+Z G bus 1156
+W O train 6009
+O T train 6429
+Z E taxi 6659
+O Z plane 6477
+U Q bus 8369
+P E bus 127
+G W plane 2037
+G W train 871
+T E bus 2066
+E W train 6078
+E O bus 1192
+Z Q bus 3018
+Q U train 576
+P Z taxi 980
+W U train 8111
+G P plane 6401
+Q N bus 377
+O G train 5358
+N T train 6430
+N W plane 4914
+O Q bus 6005
+G O bus 6316
+O N plane 5413
+N Q taxi 7967
+T U plane 6677
+T Z train 856
+N W train 7727
+N E plane 2488
+P Z bus 9103
+Z O taxi 4577
+Z W taxi 9669
+P T train 9332
+E T train 5792
+O P plane 7450
+E U bus 7832
+U O train 1407
+Q P bus 6051
+O W bus 7425
+W G bus 7232
+Z 35
+taxi
+taxi
+train
+bus
+taxi
+train
+train
+bus
+taxi
+train
+taxi
+train
+bus
+bus
+bus
+bus
+bus
+bus
+bus
+taxi
+bus
+train
+train
+plane
+bus
+bus
+plane
+bus
+train
+taxi
+bus
+train
+bus
+train
+plane
+56
+E P taxi 2610
+J F taxi 5248
+J L train 9153
+E R train 2108
+H P plane 3276
+Z F bus 900
+F R taxi 476
+L I train 5792
+E H bus 6888
+L X train 1375
+E J taxi 4313
+X H plane 9993
+I E train 5900
+J E plane 3046
+J P bus 7235
+R E plane 3901
+X R taxi 147
+Z L bus 3097
+I P train 2185
+E H plane 5718
+H I plane 918
+J E train 749
+X I train 3737
+P H taxi 3795
+R L train 9419
+L X plane 2849
+H L bus 3724
+L P train 8913
+Z I bus 3787
+I Z train 5033
+E P plane 1658
+X P train 8557
+E X plane 4287
+L J plane 9040
+J X bus 8911
+R I bus 6766
+J R train 4050
+P F taxi 1724
+P L plane 817
+X H bus 9163
+F I train 6828
+R F plane 4045
+X H taxi 4371
+X R bus 9421
+J L bus 1018
+X J train 9825
+P I taxi 7764
+Z J train 4397
+R L bus 9313
+R X plane 830
+H P train 8375
+X F plane 6620
+L R plane 3741
+H L train 3581
+I L taxi 3053
+F L bus 1836
+H 27
+train
+train
+train
+train
+bus
+taxi
+plane
+plane
+taxi
+train
+train
+train
+train
+plane
+train
+plane
+train
+train
+taxi
+plane
+plane
+train
+train
+train
+taxi
+taxi
+taxi
+33
+Q C bus 7937
+A L plane 3997
+N G taxi 2994
+N R taxi 9363
+E G train 2385
+N E train 5087
+E C train 6181
+L R plane 672
+E C taxi 4761
+N Q taxi 482
+R C bus 401
+G C plane 8925
+C Q train 1707
+N A train 8582
+N L plane 7025
+N G train 1426
+N R plane 7308
+A L bus 8498
+E R bus 110
+L N bus 2227
+Q R bus 2238
+L C bus 663
+Q N plane 8518
+A R train 4380
+A E taxi 4027
+Q R taxi 4619
+Q A plane 6934
+N C bus 8276
+L Q plane 354
+R C plane 9078
+A L train 961
+E G bus 1452
+G A train 9156
+G 36
+plane
+train
+plane
+bus
+plane
+bus
+train
+train
+taxi
+plane
+bus
+bus
+taxi
+bus
+train
+train
+plane
+plane
+bus
+bus
+train
+train
+train
+train
+taxi
+taxi
+bus
+train
+train
+bus
+taxi
+bus
+taxi
+plane
+plane
+plane
+33
+L Z taxi 7834
+O Q taxi 1222
+F K train 9679
+F Z train 9589
+K B plane 5488
+I O train 6922
+B O taxi 5264
+I K taxi 3295
+O I plane 3255
+F L plane 6968
+F I plane 3091
+K L bus 954
+L O train 9260
+F Q bus 7285
+F Z plane 7140
+B Z taxi 3090
+Z K train 1481
+Z F bus 8850
+L Z bus 4810
+I L taxi 7358
+F O bus 5498
+O I bus 3793
+O Z bus 2969
+Z Q taxi 9256
+L B train 1885
+I B bus 8932
+B Z plane 5285
+Q B taxi 6970
+Z I plane 3274
+Q I plane 8879
+L K plane 4174
+K I train 8951
+Z Q plane 4511
+K 37
+train
+taxi
+plane
+taxi
+bus
+bus
+taxi
+train
+bus
+bus
+plane
+bus
+plane
+train
+plane
+plane
+train
+taxi
+train
+train
+taxi
+plane
+plane
+plane
+plane
+taxi
+taxi
+train
+taxi
+plane
+bus
+plane
+train
+train
+bus
+train
+plane
+55
+W C train 4256
+O Q taxi 9379
+T I plane 178
+O Q plane 4474
+W U train 7990
+N L taxi 9680
+C T bus 7185
+O T taxi 8842
+I O plane 4468
+Q T bus 2063
+W Q plane 6099
+U C taxi 2589
+N L plane 4729
+R O train 1956
+Q I plane 9271
+Q T taxi 5310
+O U bus 6528
+T R plane 7635
+Q N bus 6579
+C U bus 5518
+W N bus 4401
+I C bus 3900
+C L bus 5712
+R I train 4349
+C T train 1348
+T O plane 2224
+O R bus 2438
+L O taxi 7110
+N L train 8414
+C O train 4709
+L W train 1958
+R T bus 8126
+O W taxi 926
+Q R train 9587
+Q R taxi 510
+L Q taxi 6645
+T N train 9322
+C N plane 2898
+U L train 1804
+U I plane 1624
+U N taxi 8025
+R T train 3338
+U O taxi 830
+C I taxi 3565
+R Q plane 8728
+O U plane 9467
+L W plane 3940
+R U train 1328
+Q L bus 5411
+I C plane 7552
+O W train 2995
+O C plane 1223
+Q T train 5155
+N R taxi 2219
+I O bus 9248
+R 22
+taxi
+plane
+taxi
+train
+plane
+bus
+train
+bus
+taxi
+bus
+taxi
+taxi
+bus
+taxi
+train
+bus
+plane
+plane
+bus
+plane
+plane
+taxi
+48
+Y J bus 9278
+J E train 4644
+V K bus 9737
+Y O bus 6496
+D Z taxi 3381
+Z K train 7897
+O L train 653
+Y J taxi 229
+Z O bus 1709
+V J taxi 787
+V K taxi 2777
+E O train 925
+D Z plane 3714
+L J taxi 9968
+L D taxi 5728
+K L plane 7282
+D L bus 2884
+K J taxi 4545
+J V train 9693
+V Y taxi 6283
+Y L bus 3566
+O L taxi 400
+L K bus 2116
+E L bus 2478
+L V plane 4839
+L V taxi 7139
+V O train 2048
+D Z train 5161
+E Y plane 1243
+V J plane 1289
+Y D taxi 7875
+E J taxi 8721
+Z Y bus 5551
+J E bus 9454
+D K bus 4848
+E Y taxi 5204
+O L bus 2403
+Z O plane 7900
+D Z bus 9844
+E J plane 1759
+Z V train 2508
+D O plane 1925
+D J train 469
+K D plane 8565
+L Y plane 1244
+V L bus 5105
+L J plane 7316
+O D bus 7291
+E 39
+train
+train
+taxi
+bus
+bus
+plane
+bus
+bus
+plane
+bus
+bus
+taxi
+train
+bus
+bus
+bus
+bus
+train
+plane
+plane
+plane
+taxi
+plane
+train
+bus
+plane
+bus
+train
+taxi
+plane
+bus
+taxi
+train
+bus
+train
+taxi
+plane
+bus
+train
+53
+Z Q taxi 2323
+Z Q train 7908
+N U train 3325
+B K plane 5974
+Q R taxi 2089
+C N plane 8220
+N D bus 5855
+Q C taxi 714
+C Z train 5062
+C K plane 6318
+K I taxi 1780
+N B train 5743
+K U bus 4235
+R N train 8684
+C Z plane 1201
+D C taxi 4162
+C B train 907
+I C train 3671
+C R plane 5389
+B R plane 2178
+U Q train 3145
+D R plane 1428
+B D bus 5557
+D K train 6674
+C I plane 7711
+I U taxi 6310
+N U bus 202
+N K plane 2843
+C B bus 9917
+R B bus 1886
+Q C train 4464
+C Q bus 5261
+Q B train 1113
+N B taxi 4265
+Z B plane 7169
+N Q plane 6984
+R C train 9499
+Q N train 7524
+I U train 1089
+Z C bus 827
+B K bus 7193
+K Z train 8728
+B Z taxi 761
+C K taxi 9622
+I U plane 8481
+Z U train 839
+Q D plane 8576
+U Q bus 9376
+D R train 1491
+Q D taxi 3549
+U D plane 8269
+K Q bus 7810
+N C train 8486
+N 31
+plane
+train
+plane
+plane
+taxi
+train
+bus
+train
+plane
+train
+train
+plane
+plane
+bus
+train
+plane
+plane
+bus
+taxi
+train
+train
+bus
+train
+train
+train
+taxi
+bus
+plane
+train
+train
+bus
+49
+H A plane 1497
+N I taxi 8867
+M R train 8193
+N H bus 6669
+I O plane 5760
+C X train 1674
+O X bus 6435
+O R plane 4404
+N C taxi 608
+A N bus 2908
+R X plane 9259
+N H taxi 4287
+I O train 5655
+A R taxi 3770
+C I plane 7608
+M R plane 8123
+A C taxi 4299
+R H train 1894
+M X bus 545
+M C train 5753
+I O taxi 6847
+M N bus 1438
+H I taxi 2784
+N I train 1200
+A C bus 8278
+I R plane 9119
+X A bus 1311
+I C bus 3910
+X H taxi 3606
+A N taxi 9830
+R C plane 5141
+X I taxi 2508
+R X train 8297
+A O plane 8216
+A O train 7076
+N H train 9381
+M H taxi 8633
+M C plane 7507
+A X train 1820
+R C bus 9639
+X N plane 1903
+M O bus 3561
+C N bus 6119
+R X taxi 2039
+H I bus 9914
+C R train 4593
+M I taxi 6230
+X I bus 631
+M R bus 7666
+R 22
+taxi
+train
+taxi
+bus
+bus
+taxi
+taxi
+bus
+train
+train
+train
+bus
+taxi
+plane
+taxi
+plane
+plane
+plane
+plane
+train
+taxi
+train
+58
+Q U plane 1571
+B N taxi 2943
+P Q plane 7289
+Z O plane 7522
+B Z taxi 5362
+Y B taxi 2137
+Q Z plane 2725
+G Z train 5820
+G N plane 9341
+Y S plane 3725
+G P train 9503
+P Y taxi 2660
+O B bus 1609
+O B plane 3193
+G U plane 8066
+O Q plane 5455
+U Y plane 6537
+S Y train 9497
+G Z bus 2618
+S N plane 6215
+Q Y plane 6680
+B Y bus 5843
+S N bus 8206
+O G bus 7664
+Y Z train 6741
+N P plane 9750
+Q P bus 3677
+S Y taxi 8495
+U P train 2696
+O S taxi 130
+Z N plane 2270
+O Z taxi 1296
+S G taxi 6244
+N U plane 7379
+U Y bus 7627
+Z B bus 9171
+B U plane 592
+N U train 1120
+S B plane 5726
+G Y plane 6196
+P U bus 4203
+B Y train 1570
+G B taxi 2642
+P B plane 2948
+G B train 9138
+S U plane 1994
+S Z train 4164
+N Q train 1689
+P S taxi 2736
+G S bus 4324
+N O taxi 708
+Y G bus 7067
+Z P plane 5669
+Z U plane 665
+O Y plane 6477
+N Y taxi 6558
+S G plane 932
+Q G bus 3184
+O 30
+bus
+train
+train
+train
+train
+train
+bus
+plane
+taxi
+bus
+taxi
+taxi
+plane
+plane
+taxi
+plane
+plane
+bus
+plane
+plane
+plane
+taxi
+bus
+plane
+bus
+plane
+plane
+plane
+taxi
+train
+38
+L J taxi 3400
+M A plane 9617
+L M train 6213
+A C train 4284
+V C taxi 4303
+J G train 5515
+J A plane 2652
+Z G taxi 3752
+A Z plane 4300
+V L train 8458
+M V plane 9342
+C J taxi 8798
+V Z bus 7636
+C A plane 9923
+J M plane 8837
+G C bus 3443
+Z V plane 8534
+C V plane 4148
+Z J plane 9407
+L A bus 7234
+Z C taxi 1594
+Z M taxi 4492
+G M bus 8868
+A G plane 7031
+A L taxi 5286
+L A train 2612
+Z A bus 156
+J L bus 4697
+V A bus 4475
+J A taxi 3135
+G L bus 3341
+M V bus 2945
+V L taxi 9001
+M J taxi 9185
+M L plane 2037
+J V plane 1823
+A Z taxi 5427
+A V plane 5167
+A 25
+plane
+plane
+bus
+plane
+taxi
+plane
+taxi
+taxi
+plane
+train
+bus
+plane
+plane
+plane
+taxi
+taxi
+train
+plane
+bus
+taxi
+taxi
+plane
+plane
+bus
+taxi
+56
+D W bus 5097
+D W taxi 9612
+W S train 2946
+B I taxi 878
+D S bus 4819
+C D plane 473
+Z C train 5787
+B D train 9034
+M I plane 2154
+I Z plane 9412
+S L bus 3416
+C B plane 7315
+Z L taxi 211
+F Z bus 6436
+Z M taxi 5172
+I M train 4157
+W L plane 1474
+S F bus 8952
+M I bus 5863
+W M plane 6658
+Z W train 9686
+B I bus 8672
+I F plane 8607
+L I taxi 7216
+L F bus 265
+B W bus 8377
+W C bus 2213
+B Z taxi 6939
+D S taxi 9646
+W S bus 5878
+M S taxi 5418
+F S taxi 9792
+F B taxi 1212
+F M plane 2971
+Z F plane 8649
+I W bus 5149
+C S plane 3933
+L I plane 956
+B M train 8978
+S I bus 8335
+W Z plane 2056
+F D train 7391
+C I train 1605
+M L train 639
+C D train 9240
+D I bus 9682
+F I taxi 6541
+M W bus 8194
+M Z bus 8626
+L B plane 4408
+L Z train 6278
+W I taxi 6871
+L W taxi 9495
+D B plane 992
+C F train 3845
+S C train 7474
+C 22
+train
+train
+train
+train
+plane
+taxi
+bus
+plane
+plane
+bus
+plane
+plane
+plane
+bus
+train
+train
+taxi
+taxi
+bus
+train
+taxi
+bus
+58
+S Q train 3256
+V H taxi 1155
+V S plane 1256
+K J bus 8551
+K V taxi 8054
+Y M taxi 4256
+Q Y plane 7789
+H Y bus 1192
+Q H plane 201
+Q V bus 4194
+S Y taxi 7853
+M F bus 1555
+S H bus 7849
+H R taxi 2224
+M Q train 6727
+F R taxi 9188
+S J train 7377
+S F train 1208
+K R plane 7085
+R J bus 7677
+S F bus 1558
+Q H bus 3989
+Y J bus 6576
+V F bus 8535
+Q M taxi 1815
+M S plane 4759
+K Q bus 4695
+S Y train 5030
+H V plane 1853
+K M train 4502
+Q F plane 8609
+Y S plane 1047
+S K plane 754
+Q J taxi 9312
+S R train 5434
+R V taxi 1900
+V K train 3268
+Y K taxi 4727
+K F taxi 8192
+S H train 3881
+M F taxi 7318
+K F train 4191
+K F bus 1243
+S F taxi 9020
+K Y train 6628
+F H train 2695
+H M taxi 2390
+K M bus 1301
+V Y taxi 4568
+J Q train 5432
+S H plane 7808
+V S train 6938
+J Y plane 5661
+H Y taxi 2498
+R Y plane 9294
+Y Q taxi 8194
+J S taxi 9990
+F Y plane 2408
+V 29
+taxi
+plane
+train
+plane
+train
+train
+plane
+bus
+train
+plane
+taxi
+taxi
+train
+taxi
+plane
+plane
+train
+bus
+plane
+taxi
+taxi
+train
+bus
+train
+plane
+taxi
+plane
+train
+taxi
+54
+W F bus 6894
+W F plane 7724
+F N bus 2208
+W M plane 4071
+R W bus 4446
+D M train 652
+W D bus 4910
+Z M bus 6900
+I Z train 3149
+Y I bus 4521
+W D taxi 1035
+Y S plane 345
+D Y taxi 5747
+R Z taxi 8953
+I N bus 8273
+I N taxi 1995
+I N train 3748
+R I taxi 6081
+R M plane 8015
+I Y train 9102
+S R plane 684
+N R bus 1871
+Y F train 8364
+Z D bus 2865
+W S bus 8291
+M R taxi 6921
+S D train 8717
+Y F taxi 3512
+S D plane 5669
+M D bus 8376
+S I plane 3110
+N R train 2810
+Y Z train 5412
+D N plane 7265
+D M plane 5560
+Y W taxi 4894
+F D train 7804
+W Z bus 8136
+D Z taxi 8204
+Y R train 4386
+M Y bus 4852
+Z S train 4224
+S Z bus 2915
+R F bus 5096
+W R plane 185
+Z R plane 3933
+M Z plane 7724
+N Z taxi 5049
+Y D bus 9863
+I W taxi 5405
+N S taxi 7918
+S Z taxi 8891
+M S train 4660
+N W plane 8261
+N 39
+bus
+bus
+plane
+train
+train
+plane
+plane
+plane
+taxi
+train
+bus
+bus
+train
+bus
+plane
+train
+bus
+plane
+taxi
+taxi
+taxi
+plane
+plane
+train
+plane
+plane
+bus
+plane
+bus
+taxi
+taxi
+taxi
+bus
+taxi
+taxi
+plane
+train
+bus
+bus
+35
+Q X train 5914
+W T plane 8734
+L W train 1519
+X R bus 6996
+L J plane 2164
+T J taxi 690
+J W plane 7821
+L W plane 1935
+W Z train 1360
+L Q taxi 3568
+Z Q train 5655
+L R train 6644
+Q W taxi 404
+R L plane 5293
+W L taxi 4324
+Q W bus 8608
+L W bus 9628
+T Q bus 4450
+Z J taxi 4495
+J W train 3625
+Q T taxi 1468
+T W taxi 771
+Z T bus 7281
+L T bus 5043
+J R taxi 1167
+Q T train 9311
+Q X taxi 9412
+X T train 8968
+J X taxi 4237
+X Q plane 4749
+W R taxi 6654
+T Z plane 2102
+T R train 4198
+T J bus 5535
+T Q plane 2534
+Q 22
+train
+bus
+bus
+bus
+taxi
+taxi
+plane
+plane
+plane
+plane
+bus
+train
+taxi
+taxi
+plane
+taxi
+taxi
+bus
+taxi
+bus
+taxi
+plane
+33
+J G plane 7683
+G A train 3642
+G S taxi 3094
+H I taxi 6250
+H A taxi 8899
+G H plane 4473
+A J train 8135
+A Z plane 5675
+Z R bus 4039
+R J taxi 6779
+I J taxi 8709
+H Z plane 1046
+I Z plane 7503
+S J bus 2699
+J R train 2283
+Z R taxi 3358
+G S plane 223
+Z S train 4535
+I S train 7358
+H Z bus 5590
+A G plane 7262
+S G train 3664
+A J taxi 2057
+S H train 1820
+H G taxi 1715
+A R plane 1195
+Z J taxi 4687
+I R train 5933
+R H bus 7990
+I H bus 8559
+J Z bus 4426
+I J bus 9292
+R J bus 2504
+I 34
+taxi
+taxi
+train
+plane
+train
+plane
+plane
+train
+plane
+train
+bus
+train
+bus
+plane
+bus
+bus
+plane
+taxi
+bus
+plane
+bus
+bus
+plane
+plane
+plane
+bus
+taxi
+taxi
+plane
+plane
+train
+bus
+plane
+train
+58
+D U bus 3412
+A R train 417
+Z R taxi 3877
+W Y plane 5327
+Z A taxi 1280
+W Z taxi 8797
+A W plane 7676
+Z N train 8967
+N R taxi 170
+W D train 3199
+A N bus 1124
+U N plane 3077
+Z Y plane 9711
+F W train 3836
+U F taxi 7185
+F W plane 8329
+F K plane 4871
+R D plane 5578
+Z A bus 732
+Z Y taxi 690
+Y R bus 6363
+Z F plane 8906
+K R taxi 5126
+A Y taxi 1937
+Y D plane 7069
+Y U train 3813
+Y D bus 7889
+Z U plane 1156
+Y F train 6971
+W N taxi 9352
+U W bus 6989
+N Y train 9348
+W R plane 8344
+N R bus 5210
+W Y train 1732
+A Z plane 8518
+N Z bus 7748
+D N train 3075
+F A train 3590
+U N taxi 9792
+D R bus 7433
+K A plane 694
+W A bus 103
+W K taxi 3424
+Z A train 771
+K D train 6353
+N R plane 6802
+Z D taxi 3357
+W D bus 1710
+N U train 3197
+K U plane 4580
+K D taxi 3450
+D R train 5556
+D N taxi 983
+K Z plane 9446
+W R taxi 4220
+W F bus 3934
+K R bus 2337
+K 20
+taxi
+taxi
+taxi
+bus
+train
+train
+taxi
+plane
+bus
+bus
+plane
+plane
+bus
+train
+taxi
+taxi
+train
+train
+taxi
+taxi
+49
+D T taxi 7747
+T M plane 8666
+B D plane 4794
+W D taxi 7156
+M T train 7319
+B N plane 172
+N J bus 9080
+J D taxi 8016
+N M plane 1538
+M J bus 4421
+R T bus 5344
+R W train 4593
+D B train 6310
+W T train 4618
+T M bus 2059
+R T plane 8919
+E N train 6430
+J R taxi 4956
+T N train 6390
+D T train 5492
+D E taxi 189
+N R train 7089
+E J bus 6429
+W R bus 4086
+R J bus 6571
+B W bus 4652
+M T taxi 1656
+M B train 2334
+R J train 7366
+N M bus 4259
+D N taxi 4665
+D E bus 1805
+W T taxi 7977
+J T plane 757
+T W plane 6280
+J T train 1000
+D M taxi 7348
+R D taxi 1148
+M B plane 6104
+M W taxi 6791
+M J taxi 7105
+R J plane 6685
+B E train 2189
+N D plane 9185
+D N train 1665
+B W taxi 8899
+W N taxi 6615
+W E plane 4497
+B E plane 7281
+D 21
+train
+bus
+taxi
+bus
+bus
+plane
+taxi
+train
+plane
+train
+bus
+taxi
+bus
+train
+plane
+taxi
+train
+plane
+plane
+plane
+plane
+34
+J T train 4995
+E R taxi 2736
+Q J plane 1020
+J S train 4293
+F E plane 2845
+P E taxi 8317
+S T bus 4735
+J E taxi 4429
+Q P bus 9192
+R P train 142
+E S plane 8403
+J S bus 422
+J Q train 2370
+S E bus 7314
+P S bus 8834
+Q R train 2165
+T J bus 8635
+E T plane 5602
+J Q bus 1731
+Q P plane 6427
+E Q taxi 2380
+F P train 6491
+F Q taxi 5206
+R J bus 8778
+P S taxi 6493
+S F taxi 6445
+T P plane 9148
+F S plane 3928
+E P train 2316
+Q P train 2252
+R P taxi 911
+E R bus 6803
+R T train 4623
+F P bus 305
+T 34
+plane
+bus
+train
+taxi
+taxi
+taxi
+train
+train
+taxi
+bus
+plane
+bus
+train
+bus
+taxi
+plane
+train
+plane
+bus
+train
+bus
+bus
+bus
+bus
+train
+taxi
+taxi
+plane
+taxi
+taxi
+bus
+bus
+plane
+bus
+56
+V K bus 1874
+M K bus 9559
+A B bus 5922
+M P bus 1637
+A K train 6496
+T P train 4673
+I V taxi 6065
+R A plane 736
+M R train 4677
+M P taxi 5476
+I M plane 7943
+K P taxi 7939
+T A bus 7559
+R B bus 7557
+V I train 6957
+A P bus 5517
+A K taxi 3032
+A L plane 9324
+M K taxi 6341
+I T taxi 2624
+L V train 2015
+M B train 3196
+K R taxi 2143
+B P taxi 5047
+I B plane 5655
+R K bus 464
+V A train 2381
+P L plane 7791
+P K plane 1503
+T P plane 7872
+M L taxi 540
+T V taxi 8173
+I P taxi 4730
+V R plane 3687
+K I taxi 8041
+I L bus 2270
+R B train 273
+M B taxi 3725
+P B train 7879
+T M train 7154
+T V bus 9967
+K L taxi 9065
+P M plane 8780
+V T train 7112
+R M bus 2205
+T A plane 8230
+A P train 873
+K T plane 3277
+B L train 4957
+I L taxi 2107
+V B taxi 2388
+T M plane 6391
+B K taxi 5585
+V R bus 6679
+A K bus 1073
+I P bus 312
+P 37
+bus
+train
+train
+taxi
+plane
+plane
+train
+train
+plane
+bus
+plane
+train
+bus
+plane
+bus
+train
+taxi
+plane
+taxi
+taxi
+plane
+train
+train
+plane
+taxi
+bus
+train
+taxi
+bus
+bus
+train
+plane
+taxi
+taxi
+taxi
+plane
+train
+43
+H E taxi 2444
+H S bus 3761
+N H plane 2706
+J E plane 9610
+I S bus 2152
+R E plane 2255
+N J train 4164
+V I taxi 7550
+E H plane 9984
+P H train 4463
+V I plane 7618
+S E bus 2404
+R E bus 3309
+P H bus 9421
+V N train 6687
+I N train 496
+N R train 127
+V S bus 1798
+N J bus 2522
+E V taxi 914
+P I train 6720
+P I bus 1980
+P V plane 964
+R S plane 1653
+V P train 246
+N S train 8899
+R P bus 960
+H I taxi 7059
+N V bus 7831
+R I taxi 7163
+H J train 4552
+E I bus 6536
+P E plane 7629
+P V bus 8493
+P E taxi 268
+V J train 6011
+E V train 9705
+J E train 4939
+P I plane 1910
+P I taxi 5872
+V H bus 9102
+N R plane 3968
+E V bus 8242
+P 34
+taxi
+taxi
+bus
+train
+train
+train
+bus
+bus
+train
+bus
+train
+bus
+train
+train
+train
+taxi
+taxi
+bus
+train
+taxi
+bus
+bus
+plane
+plane
+bus
+plane
+train
+taxi
+taxi
+taxi
+bus
+plane
+plane
+train
+48
+N Q taxi 8156
+Q U plane 9749
+X N train 4247
+A F plane 7135
+Q A plane 1742
+N K train 6607
+N K taxi 7329
+U N taxi 9888
+F X bus 4325
+K W plane 9930
+Q D train 2881
+W X taxi 9159
+N X bus 8896
+A N train 6841
+K D plane 5687
+D Q bus 7686
+D A bus 3637
+F Q train 7433
+A U train 7585
+Q W train 5533
+K U plane 1365
+F K plane 1604
+N A bus 1350
+W F train 9083
+Q U taxi 138
+W A bus 3103
+D W bus 6599
+F W plane 9393
+U N plane 1541
+X U bus 6216
+K A taxi 9554
+K N bus 3248
+F A taxi 4186
+W F taxi 1813
+W U bus 9984
+U Q bus 7065
+Q X plane 7962
+N F bus 203
+A Q bus 5045
+Q N bus 5240
+D K taxi 2454
+D U train 1931
+K D bus 4505
+X K train 5351
+K N plane 6460
+K D train 3248
+W K bus 3884
+A W plane 1661
+N 22
+taxi
+train
+plane
+bus
+train
+bus
+bus
+plane
+plane
+bus
+plane
+bus
+bus
+bus
+bus
+plane
+taxi
+plane
+bus
+bus
+taxi
+bus
+58
+S L train 169
+O L taxi 6527
+U B bus 4377
+F Z train 4470
+U Y bus 1949
+F Y plane 8449
+U L taxi 1666
+B V taxi 7368
+V L taxi 917
+L B train 1549
+O S bus 154
+B L plane 9663
+L Z train 8534
+S O plane 1234
+F V taxi 4102
+U L plane 5429
+U Z train 6420
+U B train 3903
+U L train 2618
+Y Z plane 5139
+D F train 1186
+D U bus 9718
+F B taxi 6211
+O U taxi 4513
+V S taxi 8171
+Y U plane 320
+Y F taxi 732
+F V train 2853
+S U taxi 6355
+D V bus 2876
+F D bus 5131
+Y O taxi 2406
+V U bus 7750
+U D train 2041
+U F taxi 299
+Y D bus 1942
+O Y plane 6022
+Z F bus 4230
+S L bus 7292
+Z D plane 374
+O S taxi 2813
+O D train 1367
+U Y train 5853
+O U bus 9548
+O D taxi 4245
+U D taxi 1672
+F O plane 3948
+Z B bus 6889
+B Z plane 8583
+O V bus 6262
+B Y taxi 6161
+Y B plane 4469
+L F train 3378
+U S train 7913
+V U train 5610
+Y U taxi 4360
+V F plane 1398
+B D bus 1855
+U 35
+bus
+bus
+bus
+taxi
+train
+bus
+taxi
+taxi
+taxi
+train
+train
+bus
+train
+bus
+train
+taxi
+train
+bus
+train
+bus
+plane
+train
+taxi
+taxi
+bus
+taxi
+taxi
+bus
+bus
+plane
+taxi
+taxi
+bus
+taxi
+taxi
+46
+V P taxi 3597
+D Y plane 3431
+Y V bus 8059
+B Y plane 8001
+V Y taxi 1258
+E C plane 6841
+J B taxi 1426
+C Y bus 1803
+P J plane 8837
+J E train 4720
+J Y bus 323
+L B taxi 3214
+P D bus 8215
+D E plane 1740
+E V bus 6989
+C B taxi 1069
+V D train 7257
+D B train 6287
+D B bus 1789
+L Y bus 3130
+V D taxi 4586
+J V taxi 6698
+J Y train 3741
+D C taxi 1623
+L P taxi 8574
+V B taxi 7604
+Y B taxi 1776
+Y L plane 409
+E V plane 1460
+B C bus 6908
+E B train 7752
+J L train 672
+J D taxi 4343
+V L bus 165
+E V train 3296
+L J plane 5576
+C L bus 2085
+D P taxi 9740
+D E train 4125
+L E train 3346
+D E taxi 6399
+P L bus 8998
+L E bus 7571
+Y E plane 3005
+C B train 1693
+J Y taxi 4924
+J 29
+taxi
+taxi
+bus
+bus
+train
+taxi
+bus
+plane
+plane
+train
+train
+bus
+train
+bus
+train
+train
+bus
+taxi
+train
+bus
+taxi
+plane
+plane
+taxi
+bus
+train
+plane
+taxi
+taxi
+45
+K Z plane 3928
+K B train 5029
+F Q train 9561
+E Z bus 9944
+E D plane 6029
+Q D train 4049
+Z D taxi 7821
+X Y taxi 2838
+K Y plane 2575
+Z Q train 7854
+B Q train 6747
+Y Z bus 6712
+Z K train 9504
+F Q taxi 5974
+Y D taxi 5586
+Y Q plane 8610
+B Z bus 8344
+Q D bus 4939
+E K taxi 7223
+F Z plane 5233
+F E bus 3009
+F Z train 1771
+Q D taxi 3853
+D E train 7865
+F B train 3569
+K Y bus 1799
+E Q train 120
+Z F bus 8638
+D Y train 3671
+E Q plane 6246
+E Y plane 3261
+X D plane 3487
+D E bus 2295
+E K plane 1590
+B D taxi 7352
+Y E bus 7214
+X D bus 5712
+K Z bus 946
+X Y train 2235
+Z Q plane 9020
+Y D plane 5212
+F Y bus 8026
+K Z taxi 3413
+K Q taxi 7690
+X E plane 8606
+Q 38
+plane
+plane
+taxi
+bus
+bus
+taxi
+taxi
+train
+train
+train
+bus
+bus
+train
+taxi
+train
+taxi
+taxi
+taxi
+train
+bus
+train
+plane
+taxi
+taxi
+plane
+train
+bus
+train
+bus
+train
+taxi
+train
+train
+bus
+bus
+bus
+bus
+taxi
+40
+H L taxi 1725
+H V bus 352
+H Q taxi 8832
+M Q train 1776
+M X train 7759
+M X bus 6287
+Q O bus 9878
+T M bus 1652
+M O plane 9614
+M Q bus 5473
+X Q train 7943
+O V train 1291
+M V bus 1700
+T M plane 4353
+Q H bus 9693
+T V train 5725
+V Q bus 9466
+X Q taxi 3101
+V L plane 7366
+H M train 5201
+M O train 1264
+L V train 133
+T X bus 920
+H T train 425
+M X plane 8071
+T O train 423
+T H taxi 6330
+T Q plane 4187
+M L taxi 5027
+O X plane 9471
+X L bus 5220
+H M taxi 8938
+L M plane 5944
+T L train 6850
+L O bus 2483
+X V bus 7398
+H Q train 1202
+X T plane 185
+X Q plane 9236
+T O taxi 3988
+L 24
+taxi
+bus
+plane
+train
+bus
+plane
+bus
+bus
+train
+plane
+taxi
+bus
+bus
+taxi
+plane
+bus
+bus
+plane
+train
+train
+train
+plane
+train
+plane
+46
+M J bus 7162
+E M bus 256
+A N train 870
+J K plane 9288
+B E plane 1706
+K H train 5685
+N H plane 9844
+A K taxi 6199
+J B train 7798
+H K taxi 9244
+N A bus 3169
+H E train 1359
+B K train 7691
+H N train 7412
+K E plane 8899
+B N plane 570
+M A bus 6594
+B K bus 2382
+N B train 3005
+V B taxi 7045
+E K train 8255
+H E bus 5507
+J B taxi 5284
+N V plane 6382
+N E bus 8657
+K A train 1954
+V H plane 7125
+N V taxi 4146
+H J plane 6376
+E A train 5395
+J V bus 508
+N H bus 3930
+N E taxi 1542
+H M taxi 9523
+J H train 9036
+H J bus 9974
+J M train 7062
+A M taxi 809
+B E bus 1424
+J M plane 2404
+A K plane 8987
+K N train 3456
+J E plane 1213
+N V train 5274
+M K bus 5439
+K M train 5058
+B 36
+taxi
+train
+train
+bus
+taxi
+bus
+bus
+plane
+bus
+train
+bus
+plane
+train
+plane
+plane
+train
+bus
+train
+plane
+train
+plane
+taxi
+plane
+bus
+train
+plane
+train
+train
+train
+plane
+train
+plane
+plane
+bus
+plane
+taxi
+45
+S Y bus 8917
+X A plane 7029
+V X bus 9126
+A V plane 5610
+V J train 1053
+W J plane 3207
+K A taxi 5171
+G X taxi 6376
+V Y train 8843
+A S taxi 4022
+V Y taxi 8410
+W V taxi 8722
+X J plane 9246
+Y W plane 3171
+G Y taxi 810
+J G plane 8378
+S G plane 8771
+K X taxi 8198
+W G train 7835
+A Y taxi 4768
+K Y taxi 4174
+Y J train 8136
+A S plane 7162
+V G plane 9968
+K V bus 8311
+Y W taxi 7676
+W K plane 775
+S V bus 3765
+A V taxi 4316
+W Y bus 254
+W G bus 7985
+W J bus 5602
+J X bus 720
+S G taxi 8250
+W V bus 5865
+V K train 1540
+W S taxi 8070
+S G bus 5579
+A Y train 3734
+K Y train 2433
+K G taxi 8389
+K W bus 2611
+Y K plane 7422
+K S train 9054
+K A train 7664
+J 31
+plane
+plane
+plane
+taxi
+train
+bus
+plane
+train
+plane
+plane
+taxi
+plane
+bus
+train
+bus
+bus
+taxi
+taxi
+bus
+taxi
+plane
+taxi
+taxi
+plane
+plane
+taxi
+plane
+bus
+taxi
+bus
+train
+43
+J L bus 5880
+J H plane 1738
+Y T bus 5276
+H Y plane 4321
+J Y plane 1628
+J Z train 4343
+F T taxi 4535
+T O plane 6071
+Y H taxi 1482
+Z B taxi 7017
+B T train 6143
+O J train 1625
+T O bus 4868
+B Z train 1379
+F L plane 2838
+J O plane 2064
+F Z train 2209
+O J taxi 7998
+Z T bus 3943
+L F train 9421
+H F bus 2777
+O Y train 3150
+J L taxi 7284
+L J plane 4148
+L B train 9048
+H O train 7218
+Y Z plane 6257
+Y F plane 8945
+Y B plane 3985
+L T bus 3963
+O J bus 5544
+J Y taxi 9039
+O Z train 9130
+J Y train 5977
+T J train 5493
+B Y taxi 972
+F H plane 822
+H Z taxi 9900
+H F train 3350
+H O bus 8899
+F J plane 4705
+B H plane 1407
+F T train 3477
+Z 30
+bus
+plane
+bus
+train
+train
+bus
+bus
+train
+train
+plane
+plane
+taxi
+plane
+plane
+bus
+taxi
+bus
+bus
+plane
+plane
+bus
+plane
+train
+plane
+plane
+bus
+bus
+plane
+plane
+plane
+36
+Q O taxi 6634
+B W bus 287
+P B train 4106
+B Y train 8188
+Y T taxi 7003
+B Y taxi 7865
+Q Y plane 8076
+B P plane 8474
+D Y bus 8890
+B O bus 6618
+W D train 8139
+Q B taxi 9320
+D P plane 5800
+O P taxi 8106
+O D bus 6723
+B W plane 2164
+P O plane 6279
+T P bus 2671
+W D bus 7085
+W T plane 5916
+W T bus 1646
+O T taxi 9927
+B P bus 8816
+D T plane 348
+P Q train 767
+T Y bus 1078
+D O train 7760
+T O train 1158
+Q T plane 8725
+B D taxi 2882
+W P bus 1739
+Y B plane 9769
+O Q train 7983
+Y W bus 1726
+P Q bus 5738
+O T bus 8008
+B 30
+bus
+bus
+train
+bus
+plane
+bus
+bus
+plane
+bus
+plane
+taxi
+bus
+train
+plane
+plane
+train
+bus
+plane
+taxi
+bus
+bus
+bus
+bus
+train
+plane
+plane
+plane
+plane
+bus
+plane
+36
+Q L plane 9752
+F J bus 741
+F T bus 9634
+G Y bus 4250
+P Q train 7139
+G Q plane 2317
+F Q train 8597
+T J bus 4322
+Q Y train 8598
+J L bus 377
+L T plane 1884
+P Q bus 7483
+Q P taxi 9207
+L T taxi 5254
+Y L train 446
+T P plane 1020
+F L taxi 1182
+Q G train 9797
+Y L taxi 9606
+T Y bus 9641
+T J taxi 1061
+F L train 3367
+Y Q taxi 9881
+P F train 8373
+P Y bus 7562
+P L plane 9689
+T Q bus 3202
+T P bus 3485
+Q G bus 6199
+Y P taxi 7410
+G F train 8426
+Q L train 696
+P G plane 3124
+Q J bus 8536
+T G bus 8944
+Q P plane 7475
+Q 26
+train
+train
+plane
+taxi
+bus
+bus
+bus
+plane
+train
+bus
+plane
+plane
+bus
+train
+train
+taxi
+train
+train
+bus
+bus
+plane
+bus
+bus
+train
+taxi
+taxi
+37
+O I train 1100
+W J plane 5915
+Q W bus 6137
+P N train 8424
+I O plane 3875
+F O taxi 2656
+Q W plane 8408
+N I taxi 5278
+W P train 405
+N J bus 135
+N F plane 6640
+W Q train 1847
+N W plane 4811
+J O bus 6428
+O J train 4433
+P F taxi 3202
+F N taxi 5333
+I F train 7674
+Q P bus 8377
+P N taxi 2285
+O Q train 1176
+F Q train 1641
+N O train 6039
+W P taxi 1623
+W O taxi 7746
+I F bus 7541
+P F plane 2765
+Q I train 752
+Q I bus 321
+I N bus 7132
+J I plane 8684
+P O plane 8706
+J P taxi 8097
+W P bus 8080
+Q P train 2642
+W O bus 9119
+N W bus 6491
+P 36
+taxi
+bus
+plane
+taxi
+plane
+plane
+taxi
+plane
+bus
+train
+plane
+taxi
+bus
+taxi
+taxi
+taxi
+plane
+train
+taxi
+bus
+train
+train
+plane
+train
+plane
+bus
+taxi
+bus
+bus
+taxi
+bus
+taxi
+train
+train
+train
+bus
+40
+H J taxi 1058
+P S plane 6635
+S P taxi 676
+O C taxi 2061
+P H plane 6155
+H S plane 9921
+C S plane 944
+C E taxi 2032
+P M taxi 8760
+C P bus 2015
+O H taxi 9519
+C O bus 2947
+E P train 1674
+J P bus 4876
+J H train 5511
+M C plane 2414
+J E taxi 6709
+C P train 9278
+H E plane 2492
+E P plane 2280
+M C train 9294
+J C taxi 2660
+C J plane 5193
+E H train 3824
+E M bus 2307
+E O train 317
+O M plane 3774
+S J plane 7861
+M E taxi 6027
+J E plane 4595
+M J taxi 8317
+S M train 5787
+O S train 7978
+S H bus 9253
+E M plane 8124
+J H bus 2020
+H S taxi 8028
+C P plane 6974
+H E bus 7695
+S J taxi 7364
+E 21
+bus
+train
+taxi
+plane
+taxi
+taxi
+train
+taxi
+taxi
+taxi
+plane
+plane
+taxi
+taxi
+bus
+taxi
+bus
+plane
+taxi
+taxi
+plane
+39
+Z B plane 214
+J U plane 5920
+U Z taxi 2437
+J Y taxi 5392
+R M taxi 6158
+G U taxi 8026
+U J train 807
+G Z bus 3861
+Z G plane 6728
+Z M taxi 100
+B Y train 3765
+R B plane 9085
+Y U train 9009
+B M taxi 1289
+G J train 3983
+U R bus 7676
+R Z taxi 7802
+U R train 295
+M R plane 2945
+B G taxi 5911
+U M bus 5625
+J Y plane 6484
+U Z bus 5183
+B J taxi 674
+G M train 5945
+B U train 6474
+Z M train 2098
+B Z train 7851
+U J bus 2185
+R B taxi 2950
+Y B bus 1621
+R M train 3171
+U R taxi 8400
+G U plane 8913
+Y R train 6359
+R G train 9833
+B J plane 4503
+Z B taxi 1295
+G M taxi 5457
+Y 30
+taxi
+bus
+taxi
+train
+plane
+plane
+bus
+plane
+plane
+taxi
+bus
+taxi
+taxi
+bus
+train
+train
+train
+train
+train
+plane
+taxi
+taxi
+taxi
+taxi
+bus
+bus
+plane
+taxi
+train
+taxi
